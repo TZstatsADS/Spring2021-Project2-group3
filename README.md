@@ -4,10 +4,10 @@ Term: Spring 2021
 ### [Project Description](doc/project2_desc.md)
 
 
-![](doc/figs/screenshot1.jpeg)
-![](doc/figs/screenshot2.jpeg)
-![](doc/figs/screenshot3.jpeg)
-![](doc/figs/screenshot4.jpeg)
+![](doc/figs/1.png)
+![](doc/figs/2.png)
+![](doc/figs/3.png)
+![](doc/figs/4.png)
 
 + Team # Group 3
 + [Click Here to See the Shiny App](https://aiokic.shinyapps.io/gr5243p2g3/)
