@@ -1,7 +1,13 @@
 ## Project 2: NYC Outdoor Activities Guidebook with Shiny App
 Term: Spring 2021
 
+### [Project Description](doc/project2_desc.md)
+
+
 ![](doc/figs/screenshot1.jpeg)
+![](doc/figs/screenshot2.jpeg)
+![](doc/figs/screenshot3.jpeg)
+![](doc/figs/screenshot4.jpeg)
 
 + Team # Group 3
 + [Click Here to See the Shiny App](https://aiokic.shinyapps.io/gr5243p2g3/)
