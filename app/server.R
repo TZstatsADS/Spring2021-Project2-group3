@@ -63,9 +63,9 @@ shinyServer(function(input, output, session) {
             data$zip, " - ",
             data$modzcta_name, "<br/>",
             "Confirmed Cases: ", data$people_positive,"<br/>",
-            #"Cumulative cases: ", data2$COVID_CASE_COUNT,"<br/>",
-            #"Cumulative deaths: ", data2$COVID_DEATH_COUNT,"<br/>",
-            #"Tested number:",data$people_tested,"<br/>",
+            "Cumulative cases: ", data2$COVID_CASE_COUNT,"<br/>",
+            "Cumulative deaths: ", data2$COVID_DEATH_COUNT,"<br/>",
+            "Tested number:",data$people_tested,"<br/>",
             "<b>Infection Rate: ", perp_zipcode[nrow(perp_zipcode),],"%</b><br/>",
             "Expected Infection Rate Next Week: ", predictions_perp,"%<br/>") %>%
             lapply(htmltools::HTML)
@@ -196,7 +196,7 @@ shinyServer(function(input, output, session) {
             xlab("Date")+
             ggtitle("Rate trend")+
             geom_smooth(size=.1,fill="light grey")+
-            geom_point(aes(x=predictions_perp$week[1], y=predictions_combo[convert(input$Rate_type),input$Zip_code]),color="black",show.legend=TRUE)+
+            geom_point(alpha="Prediction of Next Week",aes_string(x=predictions_perp$week[1], y=predictions_combo[convert(input$Rate_type),input$Zip_code]),color="grey",show.legend=TRUE)+
             #guides(color=guide_legend("my title")) +
             #geom_text(aes(label="Prediction"))+
             theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
