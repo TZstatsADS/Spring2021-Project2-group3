@@ -1,153 +1,217 @@
-#
-# This is the server logic of a Shiny web application. You can run the
-# application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-#-------------------------------------------------App Server----------------------------------
-library(viridis)
-library(dplyr)
-library(tibble)
-library(tidyverse)
-library(shinythemes)
-library(sf)
-library(RCurl)
-library(tmap)
-library(rgdal)
-library(leaflet)
-library(shiny)
-library(shinythemes)
-library(plotly)
-library(ggplot2)
-#can run RData directly to get the necessary date for the app
-#global.r will enable us to get new data everyday
-#update data with automated script
-source("global.R") 
-#load('./output/covid-19.RData')
-shinyServer(function(input, output) {
-#----------------------------------------
-#tab panel 1 - Home Plots
-#preapare data for plot
-output$case_overtime <- renderPlotly({
-    #determin the row index for subset
-    req(input$log_scale)
-    end_date_index <- which(date_choices == input$date)
-    #if log scale is not enabled, we will just use cases
-    if (input$log_scale == FALSE) {
-        #render plotly figure
-        case_fig <- plot_ly()
-        #add comfirmed case lines
-        case_fig <- case_fig %>% add_lines(x = ~date_choices[1:end_date_index], 
-                             y = ~as.numeric(aggre_cases[input$country,])[1:end_date_index],
-                             line = list(color = 'rgba(67,67,67,1)', width = 2),
-                             name = 'Confirmed Cases')
-        #add death line 
-        case_fig <- case_fig %>% add_lines(x = ~date_choices[1:end_date_index],
-                               y = ~as.numeric(aggre_death[input$country,])[1:end_date_index],
-                               name = 'Death Toll')
-        #set the axis for the plot
-        case_fig <- case_fig %>% 
-            layout(title = paste0(input$country,'\t','Trend'),
-                   xaxis = list(title = 'Date',showgrid = FALSE), 
-                   yaxis = list(title = 'Comfirmed Cases/Deaths',showgrid=FALSE)
-                   )
-        }
-    #if enable log scale, we need to take log of the y values
-    else{
-        #render plotly figure
-        case_fig <- plot_ly()
-        #add comfirmed case lines
-        case_fig <- case_fig %>% add_lines(x = ~date_choices[1:end_date_index], 
-                                           y = ~log(as.numeric(aggre_cases[input$country,])[1:end_date_index]),
-                                           line = list(color = 'rgba(67,67,67,1)', width = 2),
-                                           name = 'Confirmed Cases')
-        #add death line 
-        case_fig <- case_fig %>% add_lines(x = ~date_choices[1:end_date_index],
-                                           y = ~log(as.numeric(aggre_death[input$country,])[1:end_date_index]),
-                                           name = 'Death Toll')
-        #set the axis for the plot
-        case_fig <- case_fig %>% 
-            layout(title = paste0(input$country,'<br>','\t','Trends'),
-                   xaxis = list(title = 'Date',showgrid = FALSE), 
-                   yaxis = list(title = 'Comfirmed Cases/Deaths(Log Scale)',showgrid=FALSE)
-            )
-    }
-    return(case_fig)
-        })
-#----------------------------------------
-#tab panel 2 - Maps
-data_countries <- reactive({
-    if(!is.null(input$choices)){
-        if(input$choices == "Cases"){
-            return(aggre_cases_copy)
-            
-        }else{
-            return(aggre_death_copy)
-        }}
-})
 
-#get the largest number of count for better color assignment
-maxTotal<- reactive(max(data_countries()%>%select_if(is.numeric), na.rm = T))    
-#color palette
-pal <- reactive(colorNumeric(c("#FFFFFFFF" ,rev(inferno(256))), domain = c(0,log(binning(maxTotal())))))    
+source("global.R")
+library(shinydashboard)
+
+shinyServer(function(input, output, session) {
     
-output$map <- renderLeaflet({
-    map <-  leaflet(countries) %>%
-        addProviderTiles("Stadia.Outdoors", options = providerTileOptions(noWrap = TRUE)) %>%
-        setView(0, 30, zoom = 3) })
-
-
-observe({
-    if(!is.null(input$date_map)){
-        select_date <- format.Date(input$date_map,'%Y-%m-%d')
-    }
-    if(input$choices == "Cases"){
-        #merge the spatial dataframe and cases dataframe
-        aggre_cases_join <- merge(countries,
-                                  data_countries(),
-                                  by.x = 'NAME',
-                                  by.y = 'country_names',sort = FALSE)
-        #pop up for polygons
-        country_popup <- paste0("<strong>Country: </strong>",
-                                aggre_cases_join$NAME,
-                                "<br><strong>",
-                                "Total Cases: ",
-                                aggre_cases_join[[select_date]],
-                                "<br><strong>")
-        leafletProxy("map", data = aggre_cases_join)%>%
-            addPolygons(fillColor = pal()(log((aggre_cases_join[[select_date]])+1)),
-                        layerId = ~NAME,
-                        fillOpacity = 1,
-                        color = "#BDBDC3",
-                        weight = 1,
-                        popup = country_popup) 
-    } else {
-        #join the two dfs together
-        aggre_death_join<- merge(countries,
-                                 data_countries(),
-                                 by.x = 'NAME',
-                                 by.y = 'country_names',
-                                 sort = FALSE)
-        #pop up for polygons
-        country_popup <- paste0("<strong>Country: </strong>",
-                                aggre_death_join$NAME,
-                                "<br><strong>",
-                                "Total Deaths: ",
-                                aggre_death_join[[select_date]],
-                                "<br><strong>")
-        
-        leafletProxy("map", data = aggre_death_join)%>%
-            addPolygons(fillColor = pal()(log((aggre_death_join[[select_date]])+1)),
-                        layerId = ~NAME,
-                        fillOpacity = 1,
-                        color = "#BDBDC3",
-                        weight = 1,
-                        popup = country_popup)
-        
-        }
+    ## map output #############################################
+    # outdoor activity tab
+    iceskating <- reactive({
+        df.activity %>% filter(category == "iceskating")
+    })
+    
+    basketball <- reactive({
+        df.activity %>% filter(category == "basketball")
+    })
+    
+    cricket <- reactive({
+        df.activity %>% filter(category == "cricket")
     })
 
+    handball <- reactive({
+        df.activity %>% filter(category == "handball")
+    })
 
+    runningTrack <- reactive({
+        df.activity %>% filter(category == "runningTrack")
+    })
+    
+    
+    output$map <- renderLeaflet({
+        #covid cases parameters
+        parameter <- if(input$choice == "positive cases") {
+            data$people_positive
+            } else if(input$choice == "cumulative cases") {
+                data2$COVID_CASE_COUNT
+            } else {
+                data2$COVID_DEATH_COUNT
+            }
+    
+        #create palette
+        pal <- colorNumeric(
+            palette = "Reds",
+            domain = parameter)
+    
+        #create labels
+        labels <- paste(
+            data$zip, " - ",
+            data$modzcta_name, "<br/>",
+            "Confirmed Cases: ", data$people_positive,"<br/>",
+            #"Cumulative cases: ", data2$COVID_CASE_COUNT,"<br/>",
+            #"Cumulative deaths: ", data2$COVID_DEATH_COUNT,"<br/>",
+            #"Tested number:",data$people_tested,"<br/>",
+            "<b>Infection Rate: ", perp_zipcode[nrow(perp_zipcode),],"%</b><br/>",
+            "Expected Infection Rate Next Week: ", predictions,"%<br/>") %>%
+            lapply(htmltools::HTML)
+    
+        map <- geo_data %>%
+            select(-geometry) %>%
+            leaflet(options = leafletOptions(minZoom = 8, maxZoom = 18)) %>%
+            setView(-73.93, 40.80, zoom = 10) %>%
+            addTiles() %>%
+            addProviderTiles("CartoDB.Positron") %>%
+            addPolygons(
+                fillColor = ~pal(parameter),
+                weight = 1,
+                opacity = .5,
+                color = "white",
+                dashArray = "2",
+                fillOpacity = 0.7,
+                highlight = highlightOptions(weight = 1,
+                                             color = "yellow",
+                                             dashArray = "",
+                                             fillOpacity = 0.7,
+                                             bringToFront = TRUE),
+                label = labels) %>%
+            addLegend(pal = pal, 
+                      values = ~parameter,
+                      opacity = 0.7, 
+                      title = htmltools::HTML(input$radio),
+                      position = "bottomright")
+    })
+    
+    observeEvent(input$choices, {
+        
+        #define labels for every activity    
+        label.iceskating <- paste(
+            "Name: ", iceskating()$Name, "</br>",
+            "category: ", iceskating()$category, "</br>",
+            "Address: ", iceskating()$Location, "</br>",
+            "Accessibility: ", iceskating()$Accessible, "</br>",
+            "Phone Number: ", iceskating()$Phone.x) %>%
+            lapply(htmltools::HTML)
+
+        label.basketball <- paste(
+            "Name: ", basketball()$Name, "</br>",
+            "category: ", basketball()$category, "</br>",
+            "Address: ", basketball()$Location, "</br>",
+            "Accessibility: ", basketball()$Accessible) %>%
+            lapply(htmltools::HTML)
+        
+        label.cricket <- paste(
+            "Name: ", cricket()$Name, "</br>",
+            "category: ", cricket()$category, "</br>",
+            "Address: ", cricket()$Location, "</br>",
+            "Number of Fields: ", cricket()$Num_of_Fields) %>%
+            lapply(htmltools::HTML)
+        
+        label.handball <- paste(
+            "Name: ", handball()$Name, "</br>",
+            "category: ", handball()$category, "</br>",
+            "Address: ", handball()$Location, "</br>",
+            "Number of Courts: ", handball()$Num_of_Courts) %>%
+            lapply(htmltools::HTML)
+        
+        label.runningTrack <- paste(
+            "Name: ", runningTrack()$Name, "</br>",
+            "category: ", runningTrack()$category, "</br>",
+            "Address: ", runningTrack()$Location, "</br>",
+            "Type: ", runningTrack()$RunningTracks_Type, "</br>",
+            "Size: ", runningTrack()$Size) %>%
+            lapply(htmltools::HTML)
+
+
+        if(input$choices == "iceskating") {
+            leafletProxy("map") %>%
+                clearMarkers() %>%
+                clearMarkerClusters() %>%
+                addMarkers(data = iceskating(), lng=~lon, lat=~lat, 
+                             label=label.iceskating) 
+        } else if(input$choices == "basketball") {
+            leafletProxy("map") %>%
+                clearMarkers() %>%
+                clearMarkerClusters() %>%
+                addMarkers(data = basketball(), lng = ~lon, lat = ~lat,
+                                #color = "blue", fillOpacity = 0.6,
+                                label = label.basketball,
+                                clusterOptions = markerClusterOptions())
+        } else if(input$choices == "cricket") {
+            leafletProxy("map") %>%
+                clearMarkers() %>%
+                clearMarkerClusters() %>%
+                addMarkers(data = cricket(), lng=~lon, lat=~lat, 
+                                 #color="green", fillOpacity = 0.6,
+                                 label = label.cricket)
+        } else if(input$choices == "handball") {
+            leafletProxy("map") %>%
+                clearMarkers() %>%
+                clearMarkerClusters() %>%
+                addMarkers(data = handball(), lng=~lon, lat=~lat, 
+                                 #color="gold", fillOpacity = 0.6,
+                                 label = label.handball,
+                                 clusterOptions = markerClusterOptions())
+        } else {
+            leafletProxy("map") %>%
+                clearMarkers() %>%
+                clearMarkerClusters() %>%
+                addMarkers(data = runningTrack(), lng=~lon, lat=~lat, 
+                                 #color="violet", fillOpacity = 0.6,
+                                 label = label.runningTrack)
+        }
+    })
+    
+    ## plot output #############################################
+    observeEvent(input$Borough,{
+        updateSelectInput(session,"Zip_code",
+                          choices=unique(cp_merged$zipcode[cp_merged$Borough==input$Borough]))
+    }) 
+    
+    
+    output$plot=renderPlotly({
+        cp_merged%>%
+            dplyr::filter(., (zipcode == input$Zip_code) | (zipcode == "Citywide"))%>%
+            ggplot(aes_string(x="week", y=input$Rate_type,color = "zipcode"))+
+            geom_line(size=1.5)+
+            scale_x_date(date_breaks = "2 week", date_labels = "%m-%d-%Y")+
+            scale_color_manual(values=c("light blue", "pink"))+
+            theme_bw()+
+            theme(axis.text.x=element_text(angle=30,hjust=1))+
+            ylab("")+
+            xlab("Date")+
+            ggtitle("Rate trend")+
+            theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
+    })
+    
+    output$plot2=renderPlotly({
+        cbd_merged%>%
+            dplyr::filter(., (Borough == input$Borough2))%>%
+            ggplot(aes_string(x="date", y= "Case", color = "Borough"))+
+            geom_line(size=1.5)+
+            scale_x_date(date_breaks = "1 week", date_labels = "%m-%d-%Y")+
+            scale_color_manual(values= "thistle2")+
+            theme_bw()+
+            theme(axis.text.x=element_text(angle=30,hjust=1))+
+            ylab("")+
+            xlab("Date")+
+            ggtitle("Case trend")+
+            theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
+    })
+    output$search_result = DT::renderDataTable({
+        df.activity %>%
+            select(Name,Location,Accessible,category)
+    },selection = 'single')
+    
+    output$box1 = renderValueBox({
+        valueBox(
+            count_open,"open public activities",color = "red")
+    })
+    output$box2 = renderValueBox({
+        valueBox(
+            count_closed,"closed public activities",color = "aqua")
+    })       
+    output$box3 = renderValueBox({
+        valueBox(
+            count_total,"total considered",icon=NULL,
+            color = "red")
+    })     
 })

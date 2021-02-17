@@ -3,95 +3,123 @@
 # run the application by clicking 'Run App' above.
 #
 # Find out more about building applications with Shiny here:
-#ag
+#
 #    http://shiny.rstudio.com/
 #
-# Define UI for application that draws a histogram
-library(viridis)
-library(dplyr)
-library(tibble)
-library(tidyverse)
+library(DT)
+source("global.R")
+library(shinydashboard)
 library(shinythemes)
-library(sf)
-library(RCurl)
-library(tmap)
-library(rgdal)
-library(leaflet)
-library(shiny)
-library(shinythemes)
-library(plotly)
-library(ggplot2)
-#load('./output/covid-19.RData')
-shinyUI(navbarPage(title = 'COVID-19',
-                   fluid = TRUE,
-                   collapsible = TRUE,
-                   #Select whichever theme works for the app 
-                   theme = shinytheme("journal"),
-                   #--------------------------
-                   #tab panel 1 - Home
-                   tabPanel("Home",icon = icon("home"),
-                            fluidPage(
-                              fluidRow(
-                                column(12,
-                                       h1("Global Cases overview across time"),
-                                       fluidRow(
-                                         #select the date until now
-                                         column(6,
-                                                sliderInput('date','Date Unitl:',
-                                                            #first day of data recording
-                                                            min = as.Date(date_choices[1]),
-                                                            #present day of data recording
-                                                            max = as.Date(tail(date_choices,1)),
-                                                            value = as.Date(date_choices[1]),
-                                                            timeFormat = "%Y-%m-%d",
-                                                            animate = TRUE, step = 5),
-                                                fluidRow(
-                                                  #select the country we want to see the trend
-                                                  column(6, 
-                                                         selectInput('country','Which Country?',
-                                                                     choices = country_names_choices,
-                                                                     selected = 'United States of America')),
-                                                  #select whether want case number in log-scale or not
-                                                  column(6,
-                                                         radioButtons("log_scale", "In Log Scale:",
-                                                                      choices = c(TRUE,FALSE),
-                                                                      selected = FALSE))
-                                                          )
-                                                ),
-                                         #render plotly output
-                                         column(width = 6,
-                                                plotlyOutput('case_overtime'))
-                                              )
-                                        )
-                                      )
-                                    )
-                                ),
-                   #--------------------------
-                   #tab panel 2 - Map
-                   tabPanel("Maps",icon = icon("map-marker-alt"),div(class = 'outer',
-                            leafletOutput("map", width = "100%", height = "1200"),
-                            absolutePanel(id = "control", class = "panel panel-default", fixed = TRUE, draggable = TRUE,
-                                          top = 300, left = 20, right = "auto", bottom = "auto", width = 250, height = "auto",
-                                          selectInput('choices','Which data to visualize:',
-                                                      choices = c('Cases','Death'),
-                                                      selected = c('Cases')),
-                                          sliderInput('date_map','Input Date:',
-                                                      #first day of data recording
-                                                      min = as.Date(date_choices[1]),
-                                                      #present day of data recording
-                                                      max = as.Date(tail(date_choices,1)),
-                                                      value = as.Date('2020-04-01','%Y-%m-%d'),
-                                                      timeFormat = "%Y-%m-%d",
-                                                      animate = TRUE, step = 5),
-                                          style = "opacity: 0.80"))),
-                   # ----------------------------------
-                   #tab panel 3 - Source
-                   tabPanel("Data Source",icon = icon("cloud-download"),
-                            HTML(
-                              "<h2> Data Source : </h2>
-                              <h4> <p><li><a href='https://coronavirus.jhu.edu/map.html'>Coronavirus COVID-19 Global Cases map Johns Hopkins University</a></li></h4>
-                              <h4><li>COVID-19 Cases : <a href='https://github.com/CSSEGISandData/COVID-19' target='_blank'>Github Johns Hopkins University</a></li></h4>
-                              <h4><li>Spatial Polygons : <a href='https://www.naturalearthdata.com/downloads/' target='_blank'> Natural Earth</a></li></h4>"
-                            ))
-                   
+
+shinyUI(fluidPage(
+    navbarPage(title = "NYC Outdoor Activity Guidebook",
+               fluid = TRUE,
+               collapsible = TRUE,
+               theme = shinytheme("superhero"),
+               # ---------------------------------------------------------------
+               # tab panel 1: Home
+               tabPanel("Home", icon = icon("home"),
+                        
+                        HTML('<center><img src="running.jpg", height="300px"></center>'),
+                        tags$div(
+                          tags$h4("Everyone wants to stay healthy, but it's harder today than ever..."),
+                          tags$h4("The COVID-19 Pandemic means parks, dogruns, and courts are often closed.")
+                        ),
+                        fluidRow(
+                          valueBoxOutput("box1"),
+                          valueBoxOutput("box2"),
+                          valueBoxOutput("box3")),
+                        tags$div(
+                          tags$br(), tags$br(),
+                          tags$h5("Our solution is to gather public park and field information in one convenient place,"),
+                          tags$h5("Click on the Interactive Map to find spots near you, or search for specific ones in the Search tab.")
+                        )
+                        ),
+               # ---------------------------------------------------------------
+               # tab panel 2: Map
+               tabPanel("Interactive Map", icon = icon("globe"),
+                        div(class="outer",
+                            tags$head(includeCSS("styles.css")),
+                            leafletOutput("map", width="100%", height="100%"),
+                            absolutePanel(id="controls", class="panel panel-default",
+                                          top=75, left=55, width=250, fixed=TRUE,dragged=TRUE, height="auto",
+                                          shiny::span(tags$b(h4("check the types of case data you want: ")), style="color:#045a8d"),
+                                          selectInput("choice",
+                                                      label = "case type: ",
+                                                      choices = c("positive cases","cumulative cases","cumulative death"), 
+                                                      selected = "people_positive"),
+                                          shiny::span(tags$b(h4("Select the outdoor activities you want to go:")), style="color:#045a8d"),
+                                          selectInput("choices","Choose Activity:",
+                                                             choices = c("","iceskating","basketball","cricket",
+                                                                         "handball","runningTrack"),
+                                                             selected = c(""))
+                                          
+                                          )
+                            )
+                        ),
+               # ---------------------------------------------------------------
+               # tab panel 3: Plot
+               tabPanel("Case Plot", icon = icon("bar-chart-o"),
+                        sidebarPanel(
+                          tabsetPanel(
+                            tabPanel("Rate trend by zip code",
+                                     selectInput("Borough",label = "Borough",
+                                                 Borough, selected = "Citywide", multiple = FALSE),
+                                     
+                                     selectInput("Zip_code", label = "Zipcode",
+                                                 unique(cp_merged$zipcode), selected = "Manhattan"),
+                                     
+                                     selectInput("Rate_type", label = "percentage of case or positive test",
+                                                 ratetype, selected = "Case.rate"),
+                            ),
+                            tabPanel("Case trend by borough",
+                                     selectInput("Borough2", label = "Borough",
+                                                 Borough_case, selected = "Citywide"))
+                          )),
+                        mainPanel(
+                          tabsetPanel(
+                            tabPanel("Covid-19 Trend in NYC",
+                                     # fluidRow(...)
+                                     plotlyOutput("plot"),
+                                     plotlyOutput("plot2")
+                            )
+                          )
+                        )
+               ),
+               
+               # ---------------------------------------------------------------
+               # tab panel 4: Search
+               tabPanel("Search", icon = icon("table"),
+                        DT::dataTableOutput("search_result")),
+               
+               # ---------------------------------------------------------------
+               # tab panel 5: About
+               tabPanel("About", icon = icon("list-alt"),
+                        HTML('<center><img src="covid.jpg", height="400px"></center>'),
+                        tags$div(
+                          tags$h4("Data Sources"),
+                          "NYC Outdoor Activity Data: ", tags$a(href="https://www.nycgovparks.org/bigapps/", "NYC Parks Open Data"), tags$br(),
+                          "NYC Last-7-day Cases by Cipcode: ", tags$a(href="https://github.com/nychealth/coronavirus-data/blob/master/latest/last7days-by-modzcta.csv", "The Health Department of NYC"), tags$br(),
+                          "NYC Total Cases by Zipcode: ", tags$a(href="https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv", "The Health Department of NYC"), tags$br(),
+                          "NYC Positive Case Rate by Borough and Zipcode: ", tags$a(href="https://github.com/nychealth/coronavirus-data/blob/master/trends/caserate-by-modzcta.csv", "The Health Department of NYC"),
+
+                          
+                          tags$br(),tags$br(),tags$h4("Contributor"),
+                          "Ai, Haosheng | ha2583@columbia.edu", tags$br(),
+                          "Chen, Ellen | zc2574@columbia.edu", tags$br(),
+                          "Harris, Sean | sh3715@columbia.edu", tags$br(),
+                          "He, Changhao | ch3557@columbia.edu", tags$br(),
+                          "Pan, Yushi | yp2560@columbia.edu", 
+                          
+                          tags$br(), tags$br(), tags$h4("Code"),
+                          "Code and input data used to generate this Shiny App are avaliable on ", tags$a(href="https://github.com/TZstatsADS/Spring2021-Project2-group3", "Github."),
+                          tags$br(), tags$br()
+                        )
+                        )
+
+    )
 ))
+                            
+
+
+               

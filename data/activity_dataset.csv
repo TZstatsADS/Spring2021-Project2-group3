@@ -1,0 +1,1023 @@
+"","category","Name","Location","lat","lon","Accessible","Phone","IceSkating_Type","Num_of_Fields","Num_of_Courts","Size","RunningTracks_Type"
+"1","iceskating","Abe Stark Rink","<p>Coney Island Boardwalk and West 19th Street</p><p class=""alert alert-error"">Due to the COVID-19 pandemic, the rink is closed to general skating.</p>","40.5731","-73.9859","Y","(718) 946-6536","Indoor",NA,NA,NA,NA
+"2","iceskating","LeFrak Center at Lakeside","Lincoln Road and Ocean Avenue","40.6579","-73.9653","Y","(718) 462-0010","Outdoor",NA,NA,NA,NA
+"3","iceskating","The Rink at Bryant Park","Between 40th and 42nd Streets","40.7536","-73.9848","Y","(917) 438-5166","Indoor",NA,NA,NA,NA
+"4","iceskating","Lasker Rink","Entrance just south of park entrance at 110th Street & Lenox Avenue.","40.7964","-73.9546","Y","(917) 492-3856","Outdoor",NA,NA,NA,NA
+"5","iceskating","Wollman Rink","Central Park at 63rd Street","40.7677","-73.9744","Y","(212) 439-6900","Outdoor",NA,NA,NA,NA
+"6","iceskating","WWII Veterans War Memorial Ice Skating Rink","Victory Blvd., west of Clove Rd.","40.6156","-74.1077","Y","(718) 720-1010","Outdoor",NA,NA,NA,NA
+"7","iceskating","World Ice Arena","Avery Avenue and 131 Street","40.7527","-73.835","Y","(718) 760-9001 or (718) 760-9005","Indoor",NA,NA,NA,NA
+"8","basketball","174th Street Playground","E 174 St. & Bronx River Ave.","40.8342","-73.8775","N",NA,NA,NA,NA,NA,NA
+"9","basketball","52 Playground","Kelly St. & Ave. St. John","40.8149","-73.9021","N",NA,NA,NA,NA,NA,NA
+"10","basketball","Abigail Adams Playground","Tinton Ave. & E 156 St.","40.8172","-73.9044","N",NA,NA,NA,NA,NA,NA
+"11","basketball","Agnes Haywood Playground","Barnes Ave. & E 215 St.","40.8804","-73.8619","N",NA,NA,NA,NA,NA,NA
+"12","basketball","Allerton Playground","Bouck & Throop Aves.","40.8659","-73.8503","N",NA,NA,NA,NA,NA,NA
+"13","basketball","Angelo Campanero Playground","Gun Hill Rd., Eastchester Rd. and O'Neill Pl.","40.8679","-73.843","N",NA,NA,NA,NA,NA,NA
+"14","basketball","Aqueduct Lands Playground","W 183 St., Aqueduct Ave., W Tremont Ave. and University Ave.","40.8634","-73.9035","N",NA,NA,NA,NA,NA,NA
+"15","basketball","Arcilla Playground","E 164 St. & Teller Ave.","40.8271","-73.9145","N",NA,NA,NA,NA,NA,NA
+"16","basketball","Bailey Playground","Bailey Ave. & W 234-W 238 Sts.","40.8811","-73.9008","N",NA,NA,NA,NA,NA,NA
+"17","basketball","Behagen Playground","E 166 St., Union Ave. and Tinton Ave.","40.8254","-73.9015","N",NA,NA,NA,NA,NA,NA
+"18","basketball","Belmont Playground","Crotona Ave. & E 181 St.","40.8497","-73.8875","N",NA,NA,NA,NA,NA,NA
+"19","basketball","Brady Playground","Bronxdale Ave. & Bronx Pk E","40.8512","-73.8705","N",NA,NA,NA,NA,NA,NA
+"20","basketball","Bridge Playground","Boscobel Pl., University Ave. and W 171 St.","40.8443","-73.924","N",NA,NA,NA,NA,NA,NA
+"21","basketball","Bruckner Playground","Phillips Ave. & E 177 St.","40.8268","-73.8289","N",NA,NA,NA,NA,NA,NA
+"22","basketball","Bufano Playground","Bradford, Edison, La Salle and Waterbury Aves.","40.838","-73.8312","N",NA,NA,NA,NA,NA,NA
+"23","basketball","Capt. Rivera Playground","Forest Ave. & E 156 St.","40.8179","-73.907","N",NA,NA,NA,NA,NA,NA
+"24","basketball","Caserta Playground","St. Raymond Ave. & Odell St.","40.8372","-73.854","N",NA,NA,NA,NA,NA,NA
+"25","basketball","Cedar Playground","W 179 St. & Sedgwick Ave.","40.8548","-73.9177","N",NA,NA,NA,NA,NA,NA
+"26","basketball","Claremont Park","E 170 St. & Teller Ave.","40.8378","-73.9082","N",NA,NA,NA,NA,NA,NA
+"27","basketball","Clark Playground","E 144 St. & 3 Ave.","40.8136","-73.9211","N",NA,NA,NA,NA,NA,NA
+"28","basketball","Crotona Playground #11","Fulton Ave. between E 172 St. and Claremont","40.8384","-73.8993","N",NA,NA,NA,NA,NA,NA
+"29","basketball","Crotona Playground #2","Crotona N between Marmion and Prospect","40.8402","-73.8913","N",NA,NA,NA,NA,NA,NA
+"30","basketball","Crotona Playground #5","Crotona Pk E at E 173 St.","40.8377","-73.8908","N",NA,NA,NA,NA,NA,NA
+"31","basketball","Crotona Playground #6","Crotona E between Suburban and Charlotte","40.8371","-73.8926","N",NA,NA,NA,NA,NA,NA
+"32","basketball","Crotona Playground #7","Crotona E between Claremont and Charlotte","40.8363","-73.8949","N",NA,NA,NA,NA,NA,NA
+"33","basketball","Crotona Playground #9","Crotona S between Clinton and Prospect","40.8391","-73.8931","N",NA,NA,NA,NA,NA,NA
+"34","basketball","Dawson Playground","Intervale Ave. & Dawson St.","40.8195","-73.8982","N",NA,NA,NA,NA,NA,NA
+"35","basketball","Devoe Park","Sedgwick Ave. & Fordham Ave.","40.8635","-73.9058","N",NA,NA,NA,NA,NA,NA
+"36","basketball","Drew Playground","Fulton Ave. & E 169 St.","40.8334","-73.9036","N",NA,NA,NA,NA,NA,NA
+"37","basketball","Dunbar Playground","E 161 St., Trinity Ave., E 163 St. and Cauldwell Ave.","40.8233","-73.9064","N",NA,NA,NA,NA,NA,NA
+"38","basketball","Eastchester Playground","Adee & Tenbroeck Aves.","40.8698","-73.8531","N",NA,NA,NA,NA,NA,NA
+"39","basketball","Edenwald Playground","Schieffelin Ave. & E 229 St.","40.8841","-73.8457","N",NA,NA,NA,NA,NA,NA
+"40","basketball","Ferry Point Park","Corner of Balcom Avenue and Dewey Avenue","40.8157","-73.8298","Y",NA,NA,NA,NA,NA,NA
+"41","basketball","Florence Colucci Playground","Wilkinson & Mayflower Aves.","40.852","-73.8343","N",NA,NA,NA,NA,NA,NA
+"42","basketball","Flynn Playground","Brook Ave. & E 157 St.","40.8212","-73.9121","N",NA,NA,NA,NA,NA,NA
+"43","basketball","Fordham Landing Playground","Landing Rd., Just off Fordam Rd.","40.8637","-73.9101","N",NA,NA,NA,NA,NA,NA
+"44","basketball","Fort #4 Playground","Strong St. & Reservoir Ave.","40.8745","-73.9007","N",NA,NA,NA,NA,NA,NA
+"45","basketball","Fort Independence Playground","Sedgwick Ave. & Stevenson Pl.","40.8819","-73.895","N",NA,NA,NA,NA,NA,NA
+"46","basketball","Fox Playground","S/E Corner Fox St. & E 156 St.","40.8147","-73.8987","N",NA,NA,NA,NA,NA,NA
+"47","basketball","Franz Sigel Park","E 153 St. & Grand Concourse","40.821","-73.9264","Y",NA,NA,NA,NA,NA,NA
+"48","basketball","Goble Playground","Macombs Pl. & Globel Rd","40.8437","-73.9171","N",NA,NA,NA,NA,NA,NA
+"49","basketball","Gouverneur Morris Playground","3 Ave., Saint Paul's Pl. and Washington Ave.","40.8355","-73.9035","N",NA,NA,NA,NA,NA,NA
+"50","basketball","Grove Hill Playground","Eagle Ave. & E 158 St.","40.8197","-73.9091","N",NA,NA,NA,NA,NA,NA
+"51","basketball","Gun Hill Playground","Holland Ave. & Magenta St.","40.8747","-73.8656","Y",NA,NA,NA,NA,NA,NA
+"52","basketball","Haffen Park","Ely & Burke Ave.","40.8735","-73.8398","N",NA,NA,NA,NA,NA,NA
+"53","basketball","Harding Park","Bolton Ave. between O'Brien and Cornell Aves.","40.8102","-73.8567","N",NA,NA,NA,NA,NA,NA
+"54","basketball","Havemeyer","N/S Cross Bronx Expwy., Havemeyer Ave. and Watson Ave.","40.83","-73.8476","N",NA,NA,NA,NA,NA,NA
+"55","basketball","Haviland Playground","Pugsley, Haviland, and Watson Aves.","40.8289","-73.8589","N",NA,NA,NA,NA,NA,NA
+"56","basketball","Henry Hudson Park","Independence & W 227 St.","40.8813","-73.9202","N",NA,NA,NA,NA,NA,NA
+"57","basketball","I Am Park","147 St. & Jackson Ave.","40.811","-73.9101","N",NA,NA,NA,NA,NA,NA
+"58","basketball","James Lyons Square Playground","Aldus St. & Bryant Ave.","40.8229","-73.8882","N",NA,NA,NA,NA,NA,NA
+"59","basketball","Richman (Echo) Park","E 178 St. & Upper Level","40.8466","-73.7865","N",NA,NA,NA,NA,NA,NA
+"60","basketball","Kossuth Playground","Moshulu Pkwy N & Kossuth Ave.","40.8776","-73.8827","N",NA,NA,NA,NA,NA,NA
+"61","basketball","Loreto Playground","Morris Park, Tomlinson, Van Nest and Haight Aves.","40.849","-73.8518","N",NA,NA,NA,NA,NA,NA
+"62","basketball","Lozada Playground","Willis Ave. & E 135 St.","40.8078","-73.9247","N",NA,NA,NA,NA,NA,NA
+"63","basketball","Macombs","E 158th St. & Ruppert Plaza","40.8279","-73.9287","Y",NA,NA,NA,NA,NA,NA
+"64","basketball","Magenta Playground","Olinville Ave. & Rosewood St.","40.8738","-73.8678","N",NA,NA,NA,NA,NA,NA
+"65","basketball","Marble Hill Playground","Marble Hill Ave. between W 228 and W 230 Sts.","40.8775","-73.9076","N",NA,NA,NA,NA,NA,NA
+"66","basketball","Matthews-Muliner Playground","Matthews & Muliner Aves.","40.8467","-73.8613","N",NA,NA,NA,NA,NA,NA
+"67","basketball","Mazzei Playground","Mace Ave. & Williamsbridge Rd.","40.8625","-73.8585","N",NA,NA,NA,NA,NA,NA
+"68","basketball","Merriam Playground (lower)","W 168 St., Merriam Ave., Ogden Ave. and University Ave.","40.8388","-73.9266","N",NA,NA,NA,NA,NA,NA
+"69","basketball","Merriam Playground (upper)","W 168 St., Merriam Ave., Ogden Ave. and University Ave.","40.8408","-73.9269","N",NA,NA,NA,NA,NA,NA
+"70","basketball","Millbrook Playground","E 135 St. & Cypress Ave.","40.8042","-73.9162","N",NA,NA,NA,NA,NA,NA
+"71","basketball","Morgan Playground","E 168 St., Park Ave. and Washington Ave.","40.8325","-73.9074","N",NA,NA,NA,NA,NA,NA
+"72","basketball","Morton Playground","Morton Pl. & University Ave.","40.8515","-73.9141","N",NA,NA,NA,NA,NA,NA
+"73","basketball","Mott Playground","E 166 St. & Morris Ave.","40.8314","-73.9146","N",NA,NA,NA,NA,NA,NA
+"74","basketball","Mount Hope Playground","E. 177 St. & Walton Ave.","40.8505","-73.9094","N",NA,NA,NA,NA,NA,NA
+"75","basketball","Mullaly Park","E 164 St. & River Ave.","40.8317","-73.925","N",NA,NA,NA,NA,NA,NA
+"76","basketball","Nelson Playground","W 166 St. & Nelson Ave.","40.8347","-73.9269","N",NA,NA,NA,NA,NA,NA
+"77","basketball","Noble Playground","Noble & Bronx River Aves.","40.8369","-73.8726","N",NA,NA,NA,NA,NA,NA
+"78","basketball","Orchard Beach","Bruckner Blvd., Eastchester Bay, Hutchinson River and LI Sound","40.8688","73.7922","N",NA,NA,NA,NA,NA,NA
+"79","basketball","P.O. Hillario Serrano Playground","Olmstead & Castle Hill Aves.","40.8237","-73.8505","N",NA,NA,NA,NA,NA,NA
+"80","basketball","Parker Playground","Castle Hill Ave. & Parker St.","40.8392","-73.853","N",NA,NA,NA,NA,NA,NA
+"81","basketball","Parkside Playground","Arnow Ave. & Olinville Ave.","40.8682","-73.868","N",NA,NA,NA,NA,NA,NA
+"82","basketball","Patterson Playground","Morris & College Aves.","40.816","-73.9216","N",NA,NA,NA,NA,NA,NA
+"83","basketball","Pelham Bay Playground","Middletown Road, off Bruckner Blvd.","40.8483","-73.8252","N",NA,NA,NA,NA,NA,NA
+"84","basketball","Prospect Playground","Clinton Ave. & E 176 St.","40.8432","-73.8906","N",NA,NA,NA,NA,NA,NA
+"85","basketball","PS 21 Playground/Rienzi Playground","E 225 St. & White Plains Rd.","40.8879","-73.8592","N",NA,NA,NA,NA,NA,NA
+"86","basketball","PS 48 Playground/Hunts Point Playground","Faile St. & Hunts Point Ave.","40.8225","-73.819","N",NA,NA,NA,NA,NA,NA
+"87","basketball","Randall Playground","Randall & Castle Hill Aves.","40.8193","-73.8494","N",NA,NA,NA,NA,NA,NA
+"88","basketball","Riverdale Playground","W 237 St. & Independence Ave.","40.8883","-73.9152","N",NA,NA,NA,NA,NA,NA
+"89","basketball","Saw Mill Playground","Brook Avenue and East 140 Street","40.8088","-73.9193","N",NA,NA,NA,NA,NA,NA
+"90","basketball","Sedgwick Playground","Undercliff Ave. & Cross Bronx Expwy.","40.8455","-73.923","N",NA,NA,NA,NA,NA,NA
+"91","basketball","Seton Park","W 235 St. & Douglas Ave.","40.8864","-73.9171","N",NA,NA,NA,NA,NA,NA
+"92","basketball","Slattery Playground","Ryer & Valentine Aves.","40.8574","-73.8988","N",NA,NA,NA,NA,NA,NA
+"93","basketball","Sound View Park","Bronx River & Lafayette Aves.","40.8143","-73.8655","Y",NA,NA,NA,NA,NA,NA
+"94","basketball","Space-Time Playground","Lafayette & Bolton Aves.","40.8225","-73.8598","N",NA,NA,NA,NA,NA,NA
+"95","basketball","Spuyten Duyvil Playground","W 236 St. & Douglas Ave.","40.8871","-73.9156","N",NA,NA,NA,NA,NA,NA
+"96","basketball","St. James Park","E 193 St. & Jerome Ave.","40.8658","-73.8972","Y",NA,NA,NA,NA,NA,NA
+"97","basketball","St. Mary's Playground East","Jackson Ave. & St. Mary's St.","40.8125","-73.9138","N",NA,NA,NA,NA,NA,NA
+"98","basketball","St. Mary's Playground West","Saint Ann's Ave. & E 147 St.","40.8102","-73.9105","N",NA,NA,NA,NA,NA,NA
+"99","basketball","Stars & Stripes Playground","Crawford & Baychester Aves.","40.8857","-73.8396","N",NA,NA,NA,NA,NA,NA
+"100","basketball","Stebbins Playground","E 165 St. & Stebbins Ave.","40.8226","-73.8983","N",NA,NA,NA,NA,NA,NA
+"101","basketball","Story Playground","Theriot & Story Aves.","40.8229","-73.8631","N",NA,NA,NA,NA,NA,NA
+"102","basketball","The Pearly Gates Playground","Tratman & Saint Peter's Aves.","40.8659","-73.8503","N",NA,NA,NA,NA,NA,NA
+"103","basketball","Tiffany Playground","Fox, Tiffany & E 167 Sts.","40.8249","-73.8944","N",NA,NA,NA,NA,NA,NA
+"104","basketball","Van Cortlandt Stadium","Van Cortlandt Park South & Gouverneur Ave.","40.8853","-73.891","N",NA,NA,NA,NA,NA,NA
+"105","basketball","Wakefield Playground","Carpenter Ave. & E 239 St.","40.9018","-73.8543","N",NA,NA,NA,NA,NA,NA
+"106","basketball","Waring Playground","Waring Ave. & Bronx Pk E.","40.8602","-73.8715","N",NA,NA,NA,NA,NA,NA
+"107","basketball","Watson Gleason Playground","Watson & Rosedale Aves.","40.8281","-73.8689","N",NA,NA,NA,NA,NA,NA
+"108","basketball","Webster Playground","E 188 St. & Webster Ave.","40.8594","-73.8927","N",NA,NA,NA,NA,NA,NA
+"109","basketball","Williamsbridge Oval","Van Cortlandt Ave. E, Bainbridge Ave. and Reservoir Oval","40.8768","-73.8776","N",NA,NA,NA,NA,NA,NA
+"110","basketball","Willis Playground","Willis Ave. & E 141 St.","40.8107","-73.9236","N",NA,NA,NA,NA,NA,NA
+"111","basketball","Albemarle Playground","Albermarle Rd., Dahill Rd. and McDonald Ave.","40.646","-73.9808","N",NA,NA,NA,NA,NA,NA
+"112","basketball","Albert J. Parham Playground","Franklin Ave. between Willoughby and DeKalb Aves.","40.6905","-73.9709","N",NA,NA,NA,NA,NA,NA
+"113","basketball","Albert Lysander Parham Playground","Adelphi St., Clermont, DeKalb and Willoughby Aves.","40.6905","-73.9709","N",NA,NA,NA,NA,NA,NA
+"114","basketball","Alex Hamilton-Metz Memorial Field","Albany, East New York and Lefferts Aves.","40.6626","-73.9405","N",NA,NA,NA,NA,NA,NA
+"115","basketball","Alex Lindower Park","Mill & Strickland Aves.","40.6131","-73.912","Y",NA,NA,NA,NA,NA,NA
+"116","basketball","American Playground","Noble, Franklin & Milton Sts.","40.729","-73.9578","N",NA,NA,NA,NA,NA,NA
+"117","basketball","Andries Playground","Ave. K & Nostrand Ave.","40.623","-73.9464","N",NA,NA,NA,NA,NA,NA
+"118","basketball","Banneker Playground","Marcy Ave., Kosciusko St. and Lafayette Ave.","40.6903","-73.9494","N",NA,NA,NA,NA,NA,NA
+"119","basketball","Bartlett Playground","Bartlett St. & Throop Ave.","40.7012","-73.946","N",NA,NA,NA,NA,NA,NA
+"120","basketball","Bath Beach Playground","Shore Pkwy. & 17 Ave.","40.6024","-74.0107","N",NA,NA,NA,NA,NA,NA
+"121","basketball","Bath Playground","Bath Ave. between 24 Ave. and Bay 37 St.","40.5946","-73.9936","N",NA,NA,NA,NA,NA,NA
+"122","basketball","Bay View Houses & PS 272","S/JS Seaview Ave. Opposite E 99 St.","40.6348","-73.8871","N",NA,NA,NA,NA,NA,NA
+"123","basketball","Bealin Square & Seth Low Playground","Ave. P., Bay Pkwy. and W 12 St.","40.6079","-73.9859","N",NA,NA,NA,NA,NA,NA
+"124","basketball","Bedford Playground","Bedford Ave., S 9 St. and Division Ave.","40.7084","-73.9637","N",NA,NA,NA,NA,NA,NA
+"125","basketball","Belmont Playground","Pitkin Ave., Drew St., Belmont Ave., and N Conduit Ave.","40.6757","-73.8629","N",NA,NA,NA,NA,NA,NA
+"126","basketball","Benson Playground","Bath Ave. between Bay 22 and Bay 23 Sts.","40.6027","-74.0025","N",NA,NA,NA,NA,NA,NA
+"127","basketball","Bensonhurst Park","Gravesend Bay, 21 Ave., Cropsey Ave. and Bay Pkwy.","40.5977","-74.0011","Y",NA,NA,NA,NA,NA,NA
+"128","basketball","Bergen Beach Park","Ave. T, Ave. N, E 71 St. and E 72 St.","40.6226","-73.9095","N",NA,NA,NA,NA,NA,NA
+"129","basketball","Berry Playground","S 3 St., Berry St. and Bedford Ave.","40.7126","-73.9637","N",NA,NA,NA,NA,NA,NA
+"130","basketball","Betsy Head Memorial Playground","Livonia Ave., Dumont Ave., Hopkinson Ave., Blake Ave. and Strauss St.","40.6643","-73.9119","N",NA,NA,NA,NA,NA,NA
+"131","basketball","Bildersee Playground","Flatlands Ave. between E 81 and E 82 St.","40.6354","-73.9117","N",NA,NA,NA,NA,NA,NA
+"132","basketball","Brighton Playground","W/S Brighton 2 Sts. At Boardwalk","40.5751","-73.9657","N",NA,NA,NA,NA,NA,NA
+"133","basketball","Brizzi Playground","42 St. & 10 to New Utrecht Aves.","40.6424","-73.9947","N",NA,NA,NA,NA,NA,NA
+"134","basketball","Brower Park & PS 189","Brooklyn Ave., St. Mark's Ave., Kingston Ave. and Strauss St.","40.6735","-73.9442","N",NA,NA,NA,NA,NA,NA
+"135","basketball","Brownsville Rec. Center & Playground","Linden Blvd. and Christopher Ave.","40.6568","-73.9014","N",NA,NA,NA,NA,NA,NA
+"136","basketball","Bushwick Playground","Knickerbocker Ave., Putnam Ave. and Woodbine St.","40.7018","-73.9394","N",NA,NA,NA,NA,NA,NA
+"137","basketball","Canarsie Park","Paedergat Basin and Seaview Ave.","40.6308","-73.8933","N",NA,NA,NA,NA,NA,NA
+"138","basketball","Capt. V. Hickman Park/IS 78","Veterans Ave. between E 66 and E 68 Sts.","40.6204","-73.9135","N",NA,NA,NA,NA,NA,NA
+"139","basketball","Carver Playground","Ralph Ave., Sumpter St., Howard Ave. and Marion St.","40.6805","-73.9207","N",NA,NA,NA,NA,NA,NA
+"140","basketball","Century Playground","W Brighton Ave. between W 2 and W 3 Sts.","40.577","-73.97","N",NA,NA,NA,NA,NA,NA
+"141","basketball","Chester Playground","Chester St., Sutter Ave., Bristol St. and Pitkin Ave.","40.6688","-73.9119","N",NA,NA,NA,NA,NA,NA
+"142","basketball","City Line Park","Atlantic & Fountain Aves.","40.6789","-73.8746","N",NA,NA,NA,NA,NA,NA
+"143","basketball","Col. David Marcus Memorial Playground","Ave. P & E 5 Sts.","40.6097","-73.9696","N",NA,NA,NA,NA,NA,NA
+"144","basketball","Commodore Barry Park & Playground","Park Ave., Navy St., Flushing Ave. and N. Eliot Pl.","40.6978","-73.9791","N",NA,NA,NA,NA,NA,NA
+"145","basketball","Cooper Park","Sharon St, Olive St., Maspeth Ave. and Morgan Ave.","40.7156","-73.9362","N",NA,NA,NA,NA,NA,NA
+"146","basketball","Cypress Hills Houses Playground","Blake & Euclid Aves.","40.6702","-73.8711","N",NA,NA,NA,NA,NA,NA
+"147","basketball","Dean Playground","Dean to Bergen Sts., between 6 and Carlton Aves.","40.681","-73.9734","N",NA,NA,NA,NA,NA,NA
+"148","basketball","Decatur Playground","Decatur and MacDonough Sts., between Sumner and Lewis Aves.","40.6815","-73.9369","N",NA,NA,NA,NA,NA,NA
+"149","basketball","DeKalb Playground/PS 270 Playground","Lafayette & Classon Aves.","40.6892","-73.9609","N",NA,NA,NA,NA,NA,NA
+"150","basketball","Ditmas Playground/Railroad Playground","Ditmas Ave. between E 91 & E 92 Sts.","40.6495","-73.9143","N",NA,NA,NA,NA,NA,NA
+"151","basketball","Dr. Martin Luther King, Jr. Park","Dumont Ave., Blake Ave., Miller Ave. and Bradford St.","40.6681","-73.8905","N",NA,NA,NA,NA,NA,NA
+"152","basketball","Dr. Richard Greene Playground","Stone & Sutter Aves.","40.6674","-73.9066","N",NA,NA,NA,NA,NA,NA
+"153","basketball","Dreier-Offerman Park","Gravesend Bay, Bay 44-Bay 49 Sts. and Shore Pkwy.","40.5876","-73.9905","N",NA,NA,NA,NA,NA,NA
+"154","basketball","Dyker Beach Park","Shore Pkwy., 86 St. and 7 to 14 Aves.","40.6126","-74.0126","Y",NA,NA,NA,NA,NA,NA
+"155","basketball","Patrick O&rsquo;Rourke Park","80 to 81 Sts. and 11 to 12 Aves.","40.6191","-74.0135","N",NA,NA,NA,NA,NA,NA
+"156","basketball","Edmonds Playground","DeKalb Ave., Adelphi St., and Carlton Ave.","40.6892","-73.9712","N",NA,NA,NA,NA,NA,NA
+"157","basketball","Edward C. Blum Playground/PS 46","Adelphi & Myrtle Aves.","40.6938","-73.9712","N",NA,NA,NA,NA,NA,NA
+"158","basketball","Eleanor Roosevelt Playground","Lewis Ave., DeKalb Ave., Stuyvesant Ave. and Kosciusko St.","40.6927","-73.9357","N",NA,NA,NA,NA,NA,NA
+"159","basketball","El-Shabazz Playground","Reid Ave., Malcolm X Blvd. and MacDonough St.","40.6828","-73.9304","N",NA,NA,NA,NA,NA,NA
+"160","basketball","Ethan Allen Park","Cozine Ave. Vermont St. and New Jersey Ave.","40.6555","-73.8871","N",NA,NA,NA,NA,NA,NA
+"161","basketball","Eugenio Maria De Hostos Playground","Harrison Ave., Walton to Lorimer Sts. and Throop Ave.","40.7028","-73.9497","N",NA,NA,NA,NA,NA,NA
+"162","basketball","Evergreen Playground","Evergreen Ave., Decatur St. and Schaefer St.","40.6863","-73.9107","N",NA,NA,NA,NA,NA,NA
+"163","basketball","Fermi Playground","Troutman St., Central Ave., Starr St. and Wilson Ave.","40.7007","-73.9284","N",NA,NA,NA,NA,NA,NA
+"164","basketball","Fish Playground","Saratoga Ave. between Herkimer and Fulton Sts.","40.6781","-73.9147","N",NA,NA,NA,NA,NA,NA
+"165","basketball","Fort Greene Park","Myrtle Ave., Cumberland St. and DeKalb Ave.","40.6927","-73.9773","N",NA,NA,NA,NA,NA,NA
+"166","basketball","Fox Memorial Park/PS 251 Playground","Ave. H, Ave. I and E 54 to E 55 Sts.","40.6324","-73.9236","N",NA,NA,NA,NA,NA,NA
+"167","basketball","Frances Hamburger Sternberg Park","Montrose Ave., Boerum St., Lorimer St. and Leonard St.","40.7057","-73.9475","N",NA,NA,NA,NA,NA,NA
+"168","basketball","Garden Playground","Flushing Ave., Beaver St. and Garden St.","40.7012","-73.9381","N",NA,NA,NA,NA,NA,NA
+"169","basketball","George Wingate HS Playground","SE Corner Brooklyn Ave. & Rutland Rd.","40.6591","-73.9442","N",NA,NA,NA,NA,NA,NA
+"170","basketball","Glenwood Houses Playground","Ralph Ave. & Farragut Rd.","40.6365","-73.9199","N",NA,NA,NA,NA,NA,NA
+"171","basketball","Golconda Playground","E/S Gold St. and Nassau to Concord Sts.","40.6977","-73.9828","N",NA,NA,NA,NA,NA,NA
+"172","basketball","Gowanus Houses Playground","Hoyt, Wyckoff and Bond Sts.","40.6844","-73.9876","N",NA,NA,NA,NA,NA,NA
+"173","basketball","Grace Playground","Belmont Ave., Pitkin Ave., Vermont St. and New Jersey St.","40.671","-73.8951","N",NA,NA,NA,NA,NA,NA
+"174","basketball","Gravesend Park","18 Ave. Near 57 St.","40.6235","-73.9848","N",NA,NA,NA,NA,NA,NA
+"175","basketball","Greene Playground/PS 11 Playground","Greene Ave. between Waverly and Washington Aves.","40.6865","-73.9661","N",NA,NA,NA,NA,NA,NA
+"176","basketball","Harry Maze Memorial Park","Ave. D bet. E 56 & E 57 Sts.","40.6433","-73.9231","N",NA,NA,NA,NA,NA,NA
+"177","basketball","Hattie Carthan Playground","Monroe St., Tompkins Ave., Madison St. and Marcy Ave.","40.6858","-73.9461","N",NA,NA,NA,NA,NA,NA
+"178","basketball","Herman Dolgon Playground","Ave. V, Nostrand St. and Batchelder St.","40.5982","-73.9406","N",NA,NA,NA,NA,NA,NA
+"179","basketball","Homecrest Playground","Shore Pkwy. To Williams Ct. and E 12 St.","40.586","-73.957","N",NA,NA,NA,NA,NA,NA
+"180","basketball","Houston Playground","Powell St., Liberty Ave., Sackman St. and Glenmore Ave.","40.6721","-73.9053","N",NA,NA,NA,NA,NA,NA
+"181","basketball","Howard Houses Playground & Pool","Glenmore & Mother Gaston Blvd.","40.6718","-73.9084","N",NA,NA,NA,NA,NA,NA
+"182","basketball","IS 302 (Sperandeo Brothers)","Atlantic Ave. between Elton and Linwood Sts.","40.6763","-73.8844","N",NA,NA,NA,NA,NA,NA
+"183","basketball","Israel Putnam Playground","Sumner Ave. and Madison to Monroe Sts.","40.6865","-73.9399","N",NA,NA,NA,NA,NA,NA
+"184","basketball","J Playground","Ave. J, Ave. K, 103 St. and 104 Sts.","40.6442","-73.893","N",NA,NA,NA,NA,NA,NA
+"185","basketball","J.J. Byrne Memorial Park/JHS 51","3 to 4 Sts. and 4 to 5 Aves.","40.6728","-73.9842","N",NA,NA,NA,NA,NA,NA
+"186","basketball","Jackie Robinson Park","Chauncey St. E/O Reid Ave.","40.68","-73.9277","N",NA,NA,NA,NA,NA,NA
+"187","basketball","Jackie Robinson Playground","Sullivan Pl., Franklin Ave. and Montgomery St.","40.6657","-73.9592","N",NA,NA,NA,NA,NA,NA
+"188","basketball","Jacob Joffe Park","Ave. K between E 58 and E 59 Sts.","40.625","-73.9194","N",NA,NA,NA,NA,NA,NA
+"189","basketball","James Marshall Power Playground","Ave. N & Utica Ave.","40.6183","-73.9276","N",NA,NA,NA,NA,NA,NA
+"190","basketball","Jerome Playground","Wortman Ave. & Warwick St.","40.6591","-73.8796","N",NA,NA,NA,NA,NA,NA
+"191","basketball","Jesse Owens Playground","Stuyvesant & Lafayette Aves.","40.6912","-73.9326","N",NA,NA,NA,NA,NA,NA
+"192","basketball","Jessie & Charles Dome Playground","NE Corner 38 St. & Dahill Rd.","40.638","-73.98","N",NA,NA,NA,NA,NA,NA
+"193","basketball","JHS 126 Playground","Manhattan Ave. & Leonard St. (Ericsson Playground)","40.7205","-73.9484","N",NA,NA,NA,NA,NA,NA
+"194","basketball","JHS 136 Playground (Playground Three-Forty)","40 St., 41 St. and 3 Ave.","40.6523","-74.0084","N",NA,NA,NA,NA,NA,NA
+"195","basketball","John Allen Payne Park","64 to 65 Sts. and 3 Ave.","40.6399","-74.0242","N",NA,NA,NA,NA,NA,NA
+"196","basketball","John Hancock Playground","Bedford Ave., Hancock St. and Jefferson Ave.","40.6822","-73.9543","N",NA,NA,NA,NA,NA,NA
+"197","basketball","John J. Carty Park","Ft. Hamilton, Gowanus Pkwy., and 94 to 101 Sts.","40.6133","-74.0302","N",NA,NA,NA,NA,NA,NA
+"198","basketball","Kelly Playground","N/S Ave. S between BMT and PS 255","40.6042","-73.9564","N",NA,NA,NA,NA,NA,NA
+"199","basketball","Kennedy King Playground","Lenox Rd., Clarkson Ave., E 93 St. and E 94 St.","40.6586","-73.9221","N",NA,NA,NA,NA,NA,NA
+"200","basketball","Lafayette Gardens Playground","Lafayette & Franklin Aves.","40.6896","-73.9574","N",NA,NA,NA,NA,NA,NA
+"201","basketball","Lafayette Playground","Lafayette & E/O Reid Aves.","40.5946","-73.9854","N",NA,NA,NA,NA,NA,NA
+"202","basketball","LaGuardia Playground","Havemeyer to Roebling Sts. and S 4 to S 5 Sts.","40.71","-73.9593","N",NA,NA,NA,NA,NA,NA
+"203","basketball","Leif Ericson Park & Square","66-67 Sts. and 8 to 9 Aves.","40.636","-74.0205","N",NA,NA,NA,NA,NA,NA
+"204","basketball","Leon S. Kaiser Playground","Coney Island Creek and W 24 St.","40.5784","-73.9962","Y",NA,NA,NA,NA,NA,NA
+"205","basketball","Lincoln Terrace","Rochester Ave. and President St.","40.6657","-73.9268","N",NA,NA,NA,NA,NA,NA
+"206","basketball","Linden Playground/JHS 166","Linden Blvd., Stanley Ave. and Vermont to Wyona Sts.","40.659","-73.8869","N",NA,NA,NA,NA,NA,NA
+"207","basketball","Linwood Playground","Linwood St., New Lots Ave. and Hegeman Aves.","40.6659","-73.8802","N",NA,NA,NA,NA,NA,NA
+"208","basketball","Lion's Pride Playground","Riverdale, Van Sinderen, Livonia and Snediker Aves.","40.6626","-73.8997","N",NA,NA,NA,NA,NA,NA
+"209","basketball","Louis H. Pink Houses Playground","Stanley Ave. & Eldert Lane","40.6663","-73.863","N",NA,NA,NA,NA,NA,NA
+"210","basketball","Lt. Petrosino Playground","New Utrecht to 16 Aves. and 70 to 71 Sts.","40.6189","-73.9985","N",NA,NA,NA,NA,NA,NA
+"211","basketball","Luna Park Houses Playground","Surf Ave. and W 8 St. to W 12 St.","40.5758","-73.978","N",NA,NA,NA,NA,NA,NA
+"212","basketball","Manhattan Beach Park","Oriental Blvd. & Ocean Ave.","40.5767","-73.9461","N",NA,NA,NA,NA,NA,NA
+"213","basketball","Marc's & Jason's Playground","Sterling St., Empire Blvd. and New York Ave.","40.6634","-73.9492","N",NA,NA,NA,NA,NA,NA
+"214","basketball","Maria Hernandez Park","Knickerbocker to Irving Aves. and Starr to Suydam Sts.","40.7035","-73.924","N",NA,NA,NA,NA,NA,NA
+"215","basketball","Marine Park/Jerry Debonis","Gerritsen Ave. & Ave. X","40.5969","-73.9279","N",NA,NA,NA,NA,NA,NA
+"216","basketball","Marine Park/PS 278","Fillmore Ave. & Madison Pl.","40.608","-73.9378","Y",NA,NA,NA,NA,NA,NA
+"217","basketball","Marion-Hopkinson Playground","Hopkinson Ave. & Marion St.","40.6817","-73.9136","N",NA,NA,NA,NA,NA,NA
+"218","basketball","Marlboro Houses Playground","W 11 St. & Ave. W","40.5911","-73.9808","N",NA,NA,NA,NA,NA,NA
+"219","basketball","Martin Luther Playground","55 to 56 Sts., 2 Ave.","40.6461","-74.0197","N",NA,NA,NA,NA,NA,NA
+"220","basketball","McCarren Park","Bedford Avenue and North 12th Street","40.7213","-73.9495","N",NA,NA,NA,NA,NA,NA
+"221","basketball","McCarren Park","Abate Playground","40.7212","-73.9554","N",NA,NA,NA,NA,NA,NA
+"222","basketball","McLaughlin Park","Tillary, Jay Sts., Cathedral Pl. and Bridge St.","40.6963","-73.9866","N",NA,NA,NA,NA,NA,NA
+"223","basketball","Mellett Playground","Ave. V, E 13 St. and E 14 St.","40.597","-73.9571","N",NA,NA,NA,NA,NA,NA
+"224","basketball","Middleton","Lynch St., Middleton St. and Lee Ave.","40.7008","-73.9552","N",NA,NA,NA,NA,NA,NA
+"225","basketball","Nautilus Playground","Public Beach, West 29 and West 32 street","40.5717","-73.9968","N",NA,NA,NA,NA,NA,NA
+"226","basketball","Neptune Playground","Neptune Ave. & W 12 St.","40.5781","-73.9808","N",NA,NA,NA,NA,NA,NA
+"227","basketball","Newport Playground","Newport Ave., Thatford Ave. and Osborne St.","40.661","-73.9072","N",NA,NA,NA,NA,NA,NA
+"228","basketball","Nostrand Playground","Nostrand & Foster Aves.","40.6383","-73.9469","N",NA,NA,NA,NA,NA,NA
+"229","basketball","Ocean Hill Playground","Bergen St., Rockaway Ave. and Dean St.","40.6743","-73.9119","N",NA,NA,NA,NA,NA,NA
+"230","basketball","Osborn Playground","Linden Blvd., Osborne St. and Thatford Ave.","40.6559","-73.9059","N",NA,NA,NA,NA,NA,NA
+"231","basketball","Oxport Playground","Flushing Ave., N Portland Ave. and N Oxford St.","40.6977","-73.9762","N",NA,NA,NA,NA,NA,NA
+"232","basketball","Pacific Playground","W/S Howard Ave. and Pacific to Dean Sts.","40.6757","-73.921","N",NA,NA,NA,NA,NA,NA
+"233","basketball","Paerdegat Park","Foster Ave., Farragut Rd., E 40 St. and Albany Ave.","40.6386","-73.938","N",NA,NA,NA,NA,NA,NA
+"234","basketball","Parade Ground","Caton Ave., Coney Island Ave., Parkside Ave. and Parade Pl.","40.6515","-73.9656","N",NA,NA,NA,NA,NA,NA
+"235","basketball","Parkside Playground","Rogers Ave., Winthrop St. and Parkside Ave.","40.6566","-73.9543","N",NA,NA,NA,NA,NA,NA
+"236","basketball","Paul W. Kolbert Playground","Ave. L and E 17 to E 18 Sts.","40.6198","-73.9581","N",NA,NA,NA,NA,NA,NA
+"237","basketball","Police Officer Reinaldo Salgado Playground","Monroe to Madison Sts., Patchen Ave. and Ralph Ave.","40.6877","-73.9267","N",NA,NA,NA,NA,NA,NA
+"238","basketball","PS 1 Playground","43 St., 47 St. and 3 Ave.","40.6493","-74.0121","N",NA,NA,NA,NA,NA,NA
+"239","basketball","PS 23 Playground","Tompkins, Willoughby and Vernon Aves.","40.6942","-73.9469","N",NA,NA,NA,NA,NA,NA
+"240","basketball","PS 286 Playground","Ave. Y, between Brown and Haring Sts.","40.5908","-73.9384","N",NA,NA,NA,NA,NA,NA
+"241","basketball","PS 84/William Sheridan","Wythe Ave. to Berry St. and Grand to S 1 Sts.","40.7153","-73.9644","N",NA,NA,NA,NA,NA,NA
+"242","basketball","Pulaski Playground","Sumner Ave. between Hart and Pulaski Sts.","40.6936","-73.9419","N",NA,NA,NA,NA,NA,NA
+"243","basketball","Rainbow Park","55 and 56 Sts. at 6 Ave.","40.6405","-74.0109","N",NA,NA,NA,NA,NA,NA
+"244","basketball","Rappaport Playground","Ft. Hamilton Pkwy., 10 Ave. and 52 to 53 Sts.","40.6368","-74.0006","N",NA,NA,NA,NA,NA,NA
+"245","basketball","Red Hook Park","King, Richards, Verona, Dwight, and Pioneer Sts.","40.6772","-74.0091","N",NA,NA,NA,NA,NA,NA
+"246","basketball","Red Hook Recreation Area","Lorraine, Clinton and Henry Sts.","40.6738","-74.0039","N",NA,NA,NA,NA,NA,NA
+"247","basketball","Remsen Playground","Remsen Ave., Glenwood Rd., E 92 St. and Bay View Pl.","40.6423","-73.9075","N",NA,NA,NA,NA,NA,NA
+"248","basketball","Rodney Park North","Rodney, S 4 St. and S 5 St.","40.7092","-73.9563","N",NA,NA,NA,NA,NA,NA
+"249","basketball","Roebling Playground","Wilson Ave., Lee Ave., Taylor St. and Bedford Ave.","40.7063","-73.9618","N",NA,NA,NA,NA,NA,NA
+"250","basketball","Russell Pederson Playground","S/W Corner 83 St. & Colonial Rd.","40.6261","-74.0361","N",NA,NA,NA,NA,NA,NA
+"251","basketball","Sam Curtis Park","S/S Foster Ave., E 81 St. and E 82 St.","40.6409","-73.9174","N",NA,NA,NA,NA,NA,NA
+"252","basketball","Scarangella Park","Ave. V, Stillwell Ave., Ave. U and W 13 St.","40.5947","-73.9843","N",NA,NA,NA,NA,NA,NA
+"253","basketball","Schenk Playground","Livonia Ave., Barbey St. and Schenck Ave.","40.6656","-73.8861","N",NA,NA,NA,NA,NA,NA
+"254","basketball","Sgt. William Dougherty Playground","Anthony St., Vandervoort Ave., and Cherry St.","40.7239","-73.9372","N",NA,NA,NA,NA,NA,NA
+"255","basketball","Sheepshead Playground","Ave. Z and Nostrand Ave. to E. 29 St.","40.5887","-73.9404","N",NA,NA,NA,NA,NA,NA
+"256","basketball","Shore Road Park","79th Street & Shore Road","40.6312","-74.0397","N",NA,NA,NA,NA,NA,NA
+"257","basketball","Sixteen Sycamores Playground","Schermerhorn St., 3 Ave. and Nevins St.","40.6868","-73.981","N",NA,NA,NA,NA,NA,NA
+"258","basketball","St. Andrew's Playground","Atlantic Ave., Herkimer St. and Kingston Ave.","40.6784","-73.9418","N",NA,NA,NA,NA,NA,NA
+"259","basketball","St. John's Recreation Center","Bergen St. between Troy and Schenectady Aves.","40.6738","-73.934","N",NA,NA,NA,NA,NA,NA
+"260","basketball","St. Mary's Playground","Smith St. between Luquer and Nelson Sts.","40.6764","-73.9972","N",NA,NA,NA,NA,NA,NA
+"261","basketball","Stephen A. Rudd Playground","Bushwich Ave., Aberdeen and Granite Sts.","40.683","-73.9054","N",NA,NA,NA,NA,NA,NA
+"262","basketball","Stockton Playground","Park Ave., Floyd St. and E/O Marcy Ave.","40.697","-73.949","N",NA,NA,NA,NA,NA,NA
+"263","basketball","Stroud Playground","Classon Ave., Sterling Pl. and Park Pl.","40.6749","-73.9618","N",NA,NA,NA,NA,NA,NA
+"264","basketball","Sumner Houses Playground/PS 59","Sumner, Throop, Park and Myrtle Aves.","40.6976","-73.943","N",NA,NA,NA,NA,NA,NA
+"265","basketball","Sunset Park","41 to 44 Sts. and 5 to 7 Aves.","40.6481","-74.0031","N",NA,NA,NA,NA,NA,NA
+"266","basketball","Surf Playground","Surf Ave, W 25 and W 27 Sts.","40.5738","-73.9924","N",NA,NA,NA,NA,NA,NA
+"267","basketball","Taaffe Playground","Park to Myrtle Aves. and Taaffe Pl.","40.6953","-73.9607","N",NA,NA,NA,NA,NA,NA
+"268","basketball","Ten Eyck Playground/PS 196 Playground","Bushwick Ave., Scholes St. and Messerole St.","40.709","-73.939","N",NA,NA,NA,NA,NA,NA
+"269","basketball","Thelma Martinez Playground","Scholes St. and Manhattan to Graham Aves.","40.7093","-73.9442","N",NA,NA,NA,NA,NA,NA
+"270","basketball","Tiger Playground","Evergreen Ave., Eldert St. and Covert St.","40.6882","-73.9106","N",NA,NA,NA,NA,NA,NA
+"271","basketball","Tilden Playground","Tilden Ave. and E 48 to E 49 Sts.","40.6476","-73.9317","N",NA,NA,NA,NA,NA,NA
+"272","basketball","West Playground","N/S Ave. Z between West St. and W 1 St.","40.5876","-73.9705","N",NA,NA,NA,NA,NA,NA
+"273","basketball","William Grady HS Playground","Shore Pkwy., Brighton 3 St. and 4 Rd.","40.5825","-73.9647","N",NA,NA,NA,NA,NA,NA
+"274","basketball","Wilson Playground","Ave. J, Ave. K, E 100 and E 101 Sts.","40.6421","-73.8947","N",NA,NA,NA,NA,NA,NA
+"275","basketball","Woodruff Playground/PS 224 Playground","Stanley Ave., Autumn Ave. and Hemlock St.","40.6652","-73.8662","N",NA,NA,NA,NA,NA,NA
+"276","basketball","Woods Playground","Bergen St., Utica Ave., Rochester & St. Mark's Ave.","40.6746","-73.9286","N",NA,NA,NA,NA,NA,NA
+"277","basketball","24 Sycamores Playground","1 Ave. & E. 96 St.","40.7595","-73.9586","N",NA,NA,NA,NA,NA,NA
+"278","basketball","76 St. Playground","W. 76 St. & Riverside Drive","40.7832","-73.985","N",NA,NA,NA,NA,NA,NA
+"279","basketball","Abraham Lincoln Playground","135 St. & Madison Ave.","40.8122","-73.9376","N",NA,NA,NA,NA,NA,NA
+"280","basketball","Al Smith Recreations Center","Catherine St.","40.7104","-73.9975","N",NA,NA,NA,NA,NA,NA
+"281","basketball","Alfred E. Smith Playground","Madison and Catherine Sts. to Oliver St.","40.7122","-73.9974","N",NA,NA,NA,NA,NA,NA
+"282","basketball","Asser Levy Playground","E. 23 St. & FDR Drive","40.7364","-73.9753","N",NA,NA,NA,NA,NA,NA
+"283","basketball","Audubon Playground","170 St. & Audubon Ave.","40.8414","-73.9385","N",NA,NA,NA,NA,NA,NA
+"284","basketball","Augustus Saint-Garden's Playground","E. 19 St. & 2 Ave.","40.7353","-73.9821","N",NA,NA,NA,NA,NA,NA
+"285","basketball","Baruch Playground","Rivington St. & Baruch Place","40.7172","-73.9766","N",NA,NA,NA,NA,NA,NA
+"286","basketball","Bellevue South Playground","E. 26 St. & 2 Ave.","40.7397","-73.9785","N",NA,NA,NA,NA,NA,NA
+"287","basketball","Blake Hobbs Park","104 St. & 2 Ave.","40.7885","-73.9443","N",NA,NA,NA,NA,NA,NA
+"288","basketball","Bloomingdale Playground","W. 104 St. & Amsterdam Ave.","40.799","-73.966","N",NA,NA,NA,NA,NA,NA
+"289","basketball","Bo Jangles Playground","W. 150 St. & 7 Ave.","40.8253","-73.9372","N",NA,NA,NA,NA,NA,NA
+"290","basketball","Booker T. Washington Playground","W. 108 St. & Columbus Ave.","40.8011","-73.9641","N",NA,NA,NA,NA,NA,NA
+"291","basketball","Carl Schurz Park","E. 84 St. & York Ave.","40.7739","-73.9441","N",NA,NA,NA,NA,NA,NA
+"292","basketball","Carmansville Playground","W. 151 to 152 Sts. and Amsterdam Ave.","40.8294","-73.9443","N",NA,NA,NA,NA,NA,NA
+"293","basketball","Central Park","North Meadow (mid-park at 97th Street)","40.7911","-73.9598","N",NA,NA,NA,NA,NA,NA
+"294","basketball","Central Park","Great Lawn","40.7826","-73.9644","N",NA,NA,NA,NA,NA,NA
+"295","basketball","Chelsea Park","W. 28 St. between 9 and 10 Aves.","40.7498","-74.0004","N",NA,NA,NA,NA,NA,NA
+"296","basketball","Cherry Playground","Clinton, Cherry and Water Sts.","40.7113","-73.9861","N",NA,NA,NA,NA,NA,NA
+"297","basketball","Cherry Tree Park","E. 99 St. & 3 Ave.","40.7875","-73.9471","N",NA,NA,NA,NA,NA,NA
+"298","basketball","Col. Young Playground (Front)","W. 145 St. & Lenox Ave.","40.8201","-73.9361","N",NA,NA,NA,NA,NA,NA
+"299","basketball","Col. Young Playground (Rear)","W. 143 to 144 St. and Hudson River Dr.","40.8187","-73.9348","N",NA,NA,NA,NA,NA,NA
+"300","basketball","Columbus Park","Worth & Mulberry Sts.","40.7145","-74","N",NA,NA,NA,NA,NA,NA
+"301","basketball","Corp. Seravalli Park","Hudson St. between Gansevoort and Horatio Sts.","40.7391","-74.0046","N",NA,NA,NA,NA,NA,NA
+"302","basketball","Courtney Callender Playground","130 to 131 Sts. and 5th Ave.","40.8099","-73.94","N",NA,NA,NA,NA,NA,NA
+"303","basketball","Crack is Wack","E. 128 St. & 2 Ave.","40.8044","-73.9318","N",NA,NA,NA,NA,NA,NA
+"304","basketball","DeSalvio Playground","Spring & Mulberry Sts.","40.8009","-73.9309","N",NA,NA,NA,NA,NA,NA
+"305","basketball","De Witt Clinton Park","W. 53rd St. between 11 and 12 Aves.","40.7685","-73.9947","N",NA,NA,NA,NA,NA,NA
+"306","basketball","Dry Dock Park","E. 10 St. & Ave. D","40.7253","-73.9752","N",NA,NA,NA,NA,NA,NA
+"307","basketball","East River Park","E. 10 St. & FDR Drive","40.7249","-73.9724","N",NA,NA,NA,NA,NA,NA
+"308","basketball","East River Playground / PS 146","106 St. & FDR Drive","40.7891","-73.9385","N",NA,NA,NA,NA,NA,NA
+"309","basketball","Essex Playground","Essex, Norfolk and E. Houston St.","40.7218","-73.986","N",NA,NA,NA,NA,NA,NA
+"310","basketball","First Park","E. Houston to E. 1 St.","40.7235","-73.9898","N",NA,NA,NA,NA,NA,NA
+"311","basketball","Fred Samuels Playground","139 to 140 Sts. and Lenox Ave.","40.8173","-73.9392","N",NA,NA,NA,NA,NA,NA
+"312","basketball","Frederick Douglass Playground","W. 100 to 102 Sts. and Amsterdam Ave.","40.7969","-73.9679","N",NA,NA,NA,NA,NA,NA
+"313","basketball","Ft. George Playground","Ft. George Ave. & W. 192 St.","40.8579","-73.9247","N",NA,NA,NA,NA,NA,NA
+"314","basketball","Ft. Washington Playground","161st Street & Henry Hudson Parkway","40.8385","-73.9485","N",NA,NA,NA,NA,NA,NA
+"315","basketball","Grand & Canal Courts","Grand & Canal Sts.","40.7222","-74.0051","N",NA,NA,NA,NA,NA,NA
+"316","basketball","Gulick Playground","Columbia & Delancey Sts.","40.7159","-73.9819","N",NA,NA,NA,NA,NA,NA
+"317","basketball","Gutenberg PlaygroundLa Gu","W. 49 St. between 9 and 10 Aves.","40.7636","-73.9902","N",NA,NA,NA,NA,NA,NA
+"318","basketball","Hamilton Fish Playground","128 Pitt St.","40.7194","-73.9806","N",NA,NA,NA,NA,NA,NA
+"319","basketball","Hamilton Place","W. 140 St. & Hamilton Pl.","40.8229","-73.9515","N",NA,NA,NA,NA,NA,NA
+"320","basketball","Happy Warrior Playground","W. 98 Sts. & Amsterdam Ave.","40.7956","-73.9683","N",NA,NA,NA,NA,NA,NA
+"321","basketball","Harlem Lane Playground","151 to 154 Sts. and Hudson River Drive","40.826","-73.9348","N",NA,NA,NA,NA,NA,NA
+"322","basketball","Hell's Kitchen Park","W. 47 St. & 10 Ave.","40.763","-73.9926","N",NA,NA,NA,NA,NA,NA
+"323","basketball","Highbridge Play Center (Indoors)","W. 173 St. & Amsterdam Ave.","40.8426","-73.9337","N",NA,NA,NA,NA,NA,NA
+"324","basketball","Greg Marius Court","156 St. & 8 Ave.","40.8295","-73.9363","N",NA,NA,NA,NA,NA,NA
+"325","basketball","Howard Bennett Playground","135 St. & Lenox Terrace","40.8135","-73.9387","N",NA,NA,NA,NA,NA,NA
+"326","basketball","Inwood Park","207 St.","40.8703","-73.922","N",NA,NA,NA,NA,NA,NA
+"327","basketball","J. Hood Wright Playground (*Under Construction)","176 St. & Ft. Washington Ave.","40.8466","-73.9406","Y",NA,NA,NA,NA,NA,NA
+"328","basketball","Jackie Robinson Park","150 St. & Bradhurst Ave.","40.8266","-73.9408","N",NA,NA,NA,NA,NA,NA
+"329","basketball","Jackson Playground","Jackson St. between Madison & Henry Sts.","40.7139","-73.9813","N",NA,NA,NA,NA,NA,NA
+"330","basketball","Jacob Javits Playground","Cabrini Blvd. & Cobrin Circle","40.8591","-73.9349","N",NA,NA,NA,NA,NA,NA
+"331","basketball","Jacob Schiff Playground","W. 136 St. & Amsterdam Ave.","40.8203","-73.9524","N",NA,NA,NA,NA,NA,NA
+"332","basketball","James Weldon Playground / PS 57","E. 115 St. & Lexington Ave.","40.7973","-73.9419","N",NA,NA,NA,NA,NA,NA
+"333","basketball","John Jay Park","E. 77 St. & FDR Drive","40.7687","-73.9498","N",NA,NA,NA,NA,NA,NA
+"334","basketball","Kelly Playground","W. 17 St. between 8 and 9 Aves.","40.7419","-74.002","N",NA,NA,NA,NA,NA,NA
+"335","basketball","Kett Playground","W. 204 St. & Nagles Ave.","40.8624","-73.9211","N",NA,NA,NA,NA,NA,NA
+"336","basketball","La Guardia Hospital Playground-Rutgers Pool/Little Flower Playground","Madison St. opposite Jefferson St.","40.7124","-73.9883","N",NA,NA,NA,NA,NA,NA
+"337","basketball","Marcus Garvey Park","E. 120 to 124 Sts. and Madison Ave.","40.8033","-73.9431","N",NA,NA,NA,NA,NA,NA
+"338","basketball","Martin Luther King Jr. Playground","113 to 114 St. and Lenox Ave.","40.7999","-73.9503","N",NA,NA,NA,NA,NA,NA
+"339","basketball","May Mathews Playground","W. 46 St. between 9 and 10 Aves.","40.7614","-73.9926","N",NA,NA,NA,NA,NA,NA
+"340","basketball","McCaffrey Playground","W. 43 St. between 8 and 9 Aves.","40.759","-73.9911","N",NA,NA,NA,NA,NA,NA
+"341","basketball","McKinley Playground","Ave. A between E. 3 St. and E. 4 St.","40.7242","-73.9857","N",NA,NA,NA,NA,NA,NA
+"342","basketball","Moore Playground / PS 133","E. 131 St. & Madison Ave.","40.8095","-73.9386","N",NA,NA,NA,NA,NA,NA
+"343","basketball","Morningside Park","W. 113 St. & Morningside","40.8031","-73.958","Y",NA,NA,NA,NA,NA,NA
+"344","basketball","Morningside Park","W. 116 St. & Morningside","40.8074","-73.9573","Y",NA,NA,NA,NA,NA,NA
+"345","basketball","Morningside Park","W. 123 St. & Morningside","40.8107","-73.9551","Y",NA,NA,NA,NA,NA,NA
+"346","basketball","Morningside Playground","E. 118 St. & 2 Ave.","40.7975","-73.9356","N",NA,NA,NA,NA,NA,NA
+"347","basketball","Multi Purpose Playground","W. 175 St. & Amsterdam Ave.","40.8448","-73.9328","N",NA,NA,NA,NA,NA,NA
+"348","basketball","Murphy Playground","Ave. C & E. 17 St.","40.7304","-73.9738","N",NA,NA,NA,NA,NA,NA
+"349","basketball","Penn South Playground","W. 26 St. between 8 and 9 Aves.","40.7478","-73.9989","N",NA,NA,NA,NA,NA,NA
+"350","basketball","Peters Field Playground","2 Ave., E. 20 St. and E. 21 St.","40.7363","-73.9818","N",NA,NA,NA,NA,NA,NA
+"351","basketball","Playground 103","103rd St. & FDR Drive","40.787","-73.9393","N",NA,NA,NA,NA,NA,NA
+"352","basketball","Playground 70","W 70 St., West End Ave, and Amsterdam Ave.","40.7771","-73.9837","N",NA,NA,NA,NA,NA,NA
+"353","basketball","Poor Richard Playground","E. 109 St. & 3 Ave.","40.7926","-73.9433","N",NA,NA,NA,NA,NA,NA
+"354","basketball","PS 125 Playground","Morningside Ave. and W. 123 to 124 Sts.","40.811","-73.956","N",NA,NA,NA,NA,NA,NA
+"355","basketball","Renaissance Playground","143 to 144 St. and 8 Ave.","40.8211","-73.9415","N",NA,NA,NA,NA,NA,NA
+"356","basketball","Riverbank Park","148 St. & Henry Hudson Parkway","40.8257","-73.9538","N",NA,NA,NA,NA,NA,NA
+"357","basketball","Robert Moses Playground","E. 42 St. & FDR Drive","40.7484","-73.9693","N",NA,NA,NA,NA,NA,NA
+"358","basketball","Robert Wagner Playground","E. 121 St. & 2 Ave.","40.7484","-73.9693","N",NA,NA,NA,NA,NA,NA
+"359","basketball","Samuel Bennerson","W. 63 to 64 Sts. between West End & Amsterdam Aves.","40.7738","-73.9867","N",NA,NA,NA,NA,NA,NA
+"360","basketball","Sara D. Roosevelt Park (A)","Stanton St.","40.7231","-73.9909","Y",NA,NA,NA,NA,NA,NA
+"361","basketball","Sara D. Roosevelt Park (B)","Delancey St. between Forsythe and Christie Sts.","40.7221","-73.9914","Y",NA,NA,NA,NA,NA,NA
+"362","basketball","Sara D. Roosevelt Park (D)","Canal to Hester Sts.","40.7175","-73.9937","Y",NA,NA,NA,NA,NA,NA
+"363","basketball","Seabury Playground","Lexington Ave. & E. 95 St.","40.7853","-73.9511","N",NA,NA,NA,NA,NA,NA
+"364","basketball","Seward Park","Canal, Hester and Jefferson Sts.","40.7148","-73.9892","N",NA,NA,NA,NA,NA,NA
+"365","basketball","Sidney Hillman / PS 110","Lewis & Delancey Sts.","40.7151","-73.9798","N",NA,NA,NA,NA,NA,NA
+"366","basketball","Sol Bloom Playground","W. 70 St. between Central Park West and Columbus Ave.","40.7896","-73.9685","N",NA,NA,NA,NA,NA,NA
+"367","basketball","Sol Lain Playground","E. Bway & Henry St.","40.7144","-73.9839","N",NA,NA,NA,NA,NA,NA
+"368","basketball","St. Catherine's Park","1 Ave. and E. 67 to 68 Sts.","40.7654","-73.9592","N",NA,NA,NA,NA,NA,NA
+"369","basketball","St. Nicholas Park","W. 141 St. & St. Nicholas Ave.","40.816","-73.9489","N",NA,NA,NA,NA,NA,NA
+"370","basketball","St. Nicholas Park","W. 133 St. & St. Nicholas Ave.","40.8213","-73.9467","N",NA,NA,NA,NA,NA,NA
+"371","basketball","St. Nicholas Playground (North)","129 to 130 St. & 7 Ave.","40.8123","-73.9469","N",NA,NA,NA,NA,NA,NA
+"372","basketball","St. Nicholas Playground (South)","128 St. & 7 Ave.","40.8111","-73.9475","N",NA,NA,NA,NA,NA,NA
+"373","basketball","St. Nicholas Terrace","W. 129 St. & St. Nicholas Ave.","40.8131","-73.9512","N",NA,NA,NA,NA,NA,NA
+"374","basketball","St. Vartan's Playground","2 Ave. and E. 35 to E. 36 Sts.","40.7457","-73.9746","N",NA,NA,NA,NA,NA,NA
+"375","basketball","Stanley Isaacs Playground","1 Ave. & E. 96 St.","40.7835","-73.9442","N",NA,NA,NA,NA,NA,NA
+"376","basketball","Sunken Playground","W. 167 St. & Edgecombe Ave.","40.8376","-73.9362","N",NA,NA,NA,NA,NA,NA
+"377","basketball","Tanahey Playground","Cherry St. to Water St.","40.7101","-73.9948","N",NA,NA,NA,NA,NA,NA
+"378","basketball","Tecumseh Playground","W. 77 St. & Amsterdam Ave.","40.7816","-73.9785","N",NA,NA,NA,NA,NA,NA
+"379","basketball","Thomas Jefferson Park","2180 1 Ave.","40.7923","-73.9356","N",NA,NA,NA,NA,NA,NA
+"380","basketball","Thompson Playground","Thompson & Spring Sts.","40.7253","-74.0024","N",NA,NA,NA,NA,NA,NA
+"381","basketball","Tompkins Sq. Park","E 10 St. & Ave. B","40.7268","-73.9807","N",NA,NA,NA,NA,NA,NA
+"382","basketball","Wallenburg Playground","W. 189 St. & Amsterdam Ave.","40.8533","-73.9267","N",NA,NA,NA,NA,NA,NA
+"383","basketball","West 4th St. Courts","W. 4th St. & 6th Avenue","40.7311","-74.0011","N",NA,NA,NA,NA,NA,NA
+"384","basketball","White Playground","E. 105 St. & Lexington Ave.","40.7919","-73.9459","N",NA,NA,NA,NA,NA,NA
+"385","basketball","William McCray Playground","138 St. between Lenox and 5 Ave.","40.8157","-73.938","N",NA,NA,NA,NA,NA,NA
+"386","basketball","Wright Brothers / PS 28","St. Nicholas Ave. & W. 156 St.","40.8317","-73.942","N",NA,NA,NA,NA,NA,NA
+"387","basketball","Albert H. Mauro","Park Dr. East & 73 Terrace","40.724","-73.8275","N",NA,NA,NA,NA,NA,NA
+"388","basketball","Alley Playground/PS 213","230th St. & 67th Ave.","40.7471","-73.745","N",NA,NA,NA,NA,NA,NA
+"389","basketball","Annadale Playground","Yellowstone Blvd., 65 Rd. & 65 Ave","40.731","-73.8519","N",NA,NA,NA,NA,NA,NA
+"390","basketball","Arverne Playground","Averne Blvd. & Beach 55 St.","40.5927","-73.785","N",NA,NA,NA,NA,NA,NA
+"391","basketball","Auburndale Playground","35 Ave. between 171 and 172 Sts.","40.7656","-73.7944","N",NA,NA,NA,NA,NA,NA
+"392","basketball","Barrier Playground","102 St., 62 Ave. & Yellowstone Blvd.","40.7362","-73.8549","N",NA,NA,NA,NA,NA,NA
+"393","basketball","Bay Terrace Playground/PS 169","NE Corner of 212 St. & 23Ave.","40.7821","-73.7776","N",NA,NA,NA,NA,NA,NA
+"394","basketball","Bayswater Park","Beach Channel Dr. & Beach 32 St.","40.5992","-73.7674","N",NA,NA,NA,NA,NA,NA
+"395","basketball","Bland Playground","40 Rd. & Prince St.","40.7583","-73.8309","N",NA,NA,NA,NA,NA,NA
+"396","basketball","Bowne Park","32 Ave., 29 Ave. and 155 to 159 Sts.","40.7703","-73.8058","N",NA,NA,NA,NA,NA,NA
+"397","basketball","Bowne Playground","Sanford Ave. & Union St.","40.7581","-73.8249","N",NA,NA,NA,NA,NA,NA
+"398","basketball","Briarwood Playground","148 St. & 85 Ave.","40.71","-73.8113","N",NA,NA,NA,NA,NA,NA
+"399","basketball","Broad Channel","Cross Bay Blvd. & E 16 Rd.","40.6012","-73.8197","N",NA,NA,NA,NA,NA,NA
+"400","basketball","Bulova Park","W/S 77 St. and N/S 25 Ave.","40.763","-73.8921","N",NA,NA,NA,NA,NA,NA
+"401","basketball","Buz O' Rourke P/G","33 Ave. & 214 Pl.","40.771","-73.7712","N",NA,NA,NA,NA,NA,NA
+"402","basketball","C.C. Moore Homestead Park","82 St. & Broadway","40.7418","-73.8819","N",NA,NA,NA,NA,NA,NA
+"403","basketball","Cadwaller Colden Playground","Union St. & 31 Rd.","40.77","-73.8274","N",NA,NA,NA,NA,NA,NA
+"404","basketball","Capt. Mario Fajardo","Kissena Blvd. & Booth Memorial Blvd.","40.7437","-73.8147","N",NA,NA,NA,NA,NA,NA
+"405","basketball","Cedar Grove Playground (P.S. 218)","Main St. & Gravett Rd.","40.7361","-73.8244","N",NA,NA,NA,NA,NA,NA
+"406","basketball","Centerville","96 St., Centerville St. and Albert Rd.","40.6705","-73.8395","N",NA,NA,NA,NA,NA,NA
+"407","basketball","Challenge Playground","251 St. & 63 Ave.","40.7561","-73.7275","N",NA,NA,NA,NA,NA,NA
+"408","basketball","Clintonville Playground/JHS 194","Clintonville St. between 17 Ave. and 17 Rd.","40.783","-73.8074","N",NA,NA,NA,NA,NA,NA
+"409","basketball","College Point Park","College Pt. Blvd. & 14 Ave.","40.7854","-73.8464","N",NA,NA,NA,NA,NA,NA
+"410","basketball","Corona Golf","46 Ave. & 111 St.","40.7474","-73.855","N",NA,NA,NA,NA,NA,NA
+"411","basketball","Crowley","84 St. & 57 Ave.","40.7296","-73.8793","N",NA,NA,NA,NA,NA,NA
+"412","basketball","Cunningham Park - Upper Playground","196 Pl. & Union Turnpike","40.7262","-73.7753","N",NA,NA,NA,NA,NA,NA
+"413","basketball","East Elmhurst Playground","25 Ave. & 98 St.","40.7651","-73.8701","N",NA,NA,NA,NA,NA,NA
+"414","basketball","Edward Hart Playground","147 St. between 26 and 27 Aves.","40.774","-73.8186","N",NA,NA,NA,NA,NA,NA
+"415","basketball","Ehrenreich-Austin St. Playground","Austin St. between 76 Ave. & 76 Dr.","40.7151","-73.8364","N",NA,NA,NA,NA,NA,NA
+"416","basketball","Electrichester Houses Playground/Electric Playground","65 Ave. & 164 St.","40.7363","-73.8051","N",NA,NA,NA,NA,NA,NA
+"417","basketball","Emerald Playground/PS 200","71 Ave. & 164 St.","40.7314","-73.8059","N",NA,NA,NA,NA,NA,NA
+"418","basketball","Equity Park","88 Ave. & 91 St.","40.6914","-73.8533","N",NA,NA,NA,NA,NA,NA
+"419","basketball","Evergreen Park","St. Felix Ave. and Seneca Ave.","40.6975","-73.897","N",NA,NA,NA,NA,NA,NA
+"420","basketball","Farm Playground/PS 26","73 Ave. & 196 St.","40.7352","-73.7774","N",NA,NA,NA,NA,NA,NA
+"421","basketball","Fitzgerald Playground","Atlantic Ave. & 94 Ave.","40.6901","-73.8399","N",NA,NA,NA,NA,NA,NA
+"422","basketball","Flushing Fields","Bayside Ave., 25 Ave. and 149 to 150 Sts.","40.7756","-73.8173","N",NA,NA,NA,NA,NA,NA
+"423","basketball","Forest Park","108 St., Myrtle Ave. & Park Lane South","40.7026","-73.8686","N",NA,NA,NA,NA,NA,NA
+"424","basketball","Forest Park","Woodhaven Blvd. & Forest Park Dr.","40.7015","-73.8559","N",NA,NA,NA,NA,NA,NA
+"425","basketball","Forest Park","80 St. & Myrtle Ave.","40.7025","-73.8684","N",NA,NA,NA,NA,NA,NA
+"426","basketball","Forest Park (Sobelsohn P/G)","Park Lane S. & Abingdon Rd.","40.7101","-73.8353","N",NA,NA,NA,NA,NA,NA
+"427","basketball","Francis Lewis Park","3 Ave., 147 St. and E River","40.7965","-73.8249","Y",NA,NA,NA,NA,NA,NA
+"428","basketball","Francis Lewis Playground","42 Ave. & Francis Lewis Blvd.","40.7603","-73.7837","N",NA,NA,NA,NA,NA,NA
+"429","basketball","Frank D. O'Connor Playground","78 St & Broadway","40.7439","-73.8868","N",NA,NA,NA,NA,NA,NA
+"430","basketball","Frank Golden Playground","136 St & 20 Ave.","40.7845","-73.833","N",NA,NA,NA,NA,NA,NA
+"431","basketball","Frederick B. Judge","111 Ave., 134 to 135 Sts. and Lincoln Sts.","40.6828","-73.808","N",NA,NA,NA,NA,NA,NA
+"432","basketball","George U. Harvey","15 to 20 Aves. and E/O Whitestone Expwy.","40.7821","-73.8239","N",NA,NA,NA,NA,NA,NA
+"433","basketball","Gorman Park","30 Ave. btwn. 84 & 85 Sts.","40.7623","-73.8842","N",NA,NA,NA,NA,NA,NA
+"434","basketball","Hammel Playground","Beach 83 St. & Rockaway Beach Blvd.","40.5881","-73.8091","N",NA,NA,NA,NA,NA,NA
+"435","basketball","Harold Schneiderman/PS 232","155 Ave. between 84 and 85 Sts.","40.6651","-73.8502","N",NA,NA,NA,NA,NA,NA
+"436","basketball","Highland Park Lower","Jamaica Ave. & Cleveland St.","40.6838","-73.8869","N",NA,NA,NA,NA,NA,NA
+"437","basketball","Highland Park Upper","Highland Blvd. & Heath Pl.","40.6829","-73.8927","N",NA,NA,NA,NA,NA,NA
+"438","basketball","Hoffman","Hoffman Dr. & Seabury St.","40.7328","-73.8718","N",NA,NA,NA,NA,NA,NA
+"439","basketball","Holy Cow Playground","Peck Ave. & Harding Blvd.","40.7418","-73.7776","N",NA,NA,NA,NA,NA,NA
+"440","basketball","Hoover","Manton St. & 83 Ave.","40.7119","-73.8212","N",NA,NA,NA,NA,NA,NA
+"441","basketball","Horace Harding Playground/PS 206","62 Dr. between 97 Pl. & 98 St.","40.7332","-73.8605","N",NA,NA,NA,NA,NA,NA
+"442","basketball","Horatio P/G","Horatio Pkwy. & 228th St.","40.7588","-73.7544","N",NA,NA,NA,NA,NA,NA
+"443","basketball","Joe Austin","164 Pl. & Grand Central Parkway","40.7158","-73.8013","N",NA,NA,NA,NA,NA,NA
+"444","basketball","John Adams","133 Ave., 101-103 Sts.","40.6771","-73.8357","N",NA,NA,NA,NA,NA,NA
+"445","basketball","Joseph F. Mafera Park","65 Pl. & Catalpa Ave. & 68 Ave.","40.7062","-73.8912","N",NA,NA,NA,NA,NA,NA
+"446","basketball","Joseph P. Addabbo Playground","North Conduit Ave. between 81 and 82 Sts.","40.6734","-73.854","Y",NA,NA,NA,NA,NA,NA
+"447","basketball","Junction Playground","96 St., 34 Ave. & Junction Blvd.","40.7545","-73.872","N",NA,NA,NA,NA,NA,NA
+"448","basketball","Juniper North Playground","80 St. & Juniper Blvd. North","40.7209","-73.8771","N",NA,NA,NA,NA,NA,NA
+"449","basketball","Juniper South Playground","74 St. & Juniper Blvd. South","40.7182","-73.8834","N",NA,NA,NA,NA,NA,NA
+"450","basketball","Kissena Corridor East","Peck & Underhill Aves.","40.7445","-73.7874","N",NA,NA,NA,NA,NA,NA
+"451","basketball","Kissena Park/164 St. P/G","164 St. opposite Lithonia Ave.","40.7482","-73.8032","N",NA,NA,NA,NA,NA,NA
+"452","basketball","Lawrence St.","Lawrence St., College Point Blvd. and Queens Botanical Gardens","40.7484","-73.834","N",NA,NA,NA,NA,NA,NA
+"453","basketball","Lefferts","North Conduit Ave. and 120 to 122 Sts.","40.6654","-73.8209","N",NA,NA,NA,NA,NA,NA
+"454","basketball","London Planetree","88th St., Atlantic Ave, & 95 Ave.","40.6861","-73.853","N",NA,NA,NA,NA,NA,NA
+"455","basketball","Louis Armstrong Playground/PS 143","37 Ave. btwn. 112 & 113 Sts.","40.7549","-73.8556","N",NA,NA,NA,NA,NA,NA
+"456","basketball","Louis Pasteur Park/JHS 67","248 St. & 51 Ave.","40.762","-73.7352","N",NA,NA,NA,NA,NA,NA
+"457","basketball","MacNeil Park","Poppenhusen Ave. and 119 St.","40.7934","-73.8516","Y",NA,NA,NA,NA,NA,NA
+"458","basketball","Maple Playground","Maple Ave. & Kissena Blvd.","40.7556","-73.8261","N",NA,NA,NA,NA,NA,NA
+"459","basketball","Marie Curie Park","211 St. & 47 Ave.","40.757","-73.7712","N",NA,NA,NA,NA,NA,NA
+"460","basketball","Newtown Playground","92 St. & 56 Ave.","40.7363","-73.8695","N",NA,NA,NA,NA,NA,NA
+"461","basketball","Northern Playground","Northern BLvd. & 90th St.","40.756","-73.8744","N",NA,NA,NA,NA,NA,NA
+"462","basketball","Oakland Gardens Playground/PS 203","54 Ave. & Springfield Blvd.","40.7536","-73.7598","N",NA,NA,NA,NA,NA,NA
+"463","basketball","P.O. Edward Byrne Park","North Conduit Ave., 134 to 135 Sts. and 135 Ave.","40.6673","-73.8076","N",NA,NA,NA,NA,NA,NA
+"464","basketball","P.O. Nicholas DeMutis Park","Liberty Ave. and 101 to 102 Sts.","40.6818","-73.8392","N",NA,NA,NA,NA,NA,NA
+"465","basketball","Park of the Americas","104 St. & 41 Ave.","40.7487","-73.8614","N",NA,NA,NA,NA,NA,NA
+"466","basketball","Playground 21","163 to 166 Sts., 21 Ave. and 21 Rd.","40.7781","-73.7984","N",NA,NA,NA,NA,NA,NA
+"467","basketball","Playground 62/PS 220","Yellowstone Blvd. between 62 Ave. & 62 Rd.","40.736","-73.8536","N",NA,NA,NA,NA,NA,NA
+"468","basketball","Playground 75/PS 154","75 Ave. & 160 St.","40.7264","-73.8081","N",NA,NA,NA,NA,NA,NA
+"469","basketball","Playground Ninety","Northern Blvd. & 90 St.","40.757","-73.8785","N",NA,NA,NA,NA,NA,NA
+"470","basketball","Pomonok","65 Ave. & Kissena Blvd.","40.7357","-73.8141","N",NA,NA,NA,NA,NA,NA
+"471","basketball","Poppenhusen Playground","20 Ave btwn 123rd & 124th Sts","40.781","-73.8444","N",NA,NA,NA,NA,NA,NA
+"472","basketball","PS 46","64 Ave. & 218 St.","40.7558","-73.7646","N",NA,NA,NA,NA,NA,NA
+"473","basketball","Queens Valley Playground","137 St. & 77 Ave.","40.7219","-73.8237","N",NA,NA,NA,NA,NA,NA
+"474","basketball","Rachel Carlson Park","Colden St. & Juniper Ave.","40.7489","-73.8222","N",NA,NA,NA,NA,NA,NA
+"475","basketball","Raymond M. O'Connor Field","33 Ave. & 210 St.","40.7717","-73.7798","N",NA,NA,NA,NA,NA,NA
+"476","basketball","Real Good Park","Long Island Expressway, 99 St. & 62 Ave.","40.7359","-73.8568","N",NA,NA,NA,NA,NA,NA
+"477","basketball","Redfern Playground","Redfern Ave & Beach 12 St.","40.6113","-73.7491","N",NA,NA,NA,NA,NA,NA
+"478","basketball","Rockaway Beach","Beach 82 & Shore Front Pkwy.","40.586","-73.8071","N",NA,NA,NA,NA,NA,NA
+"479","basketball","Rockaway Community Playground","Almeda Avenue","40.5983","-73.7837","N",NA,NA,NA,NA,NA,NA
+"480","basketball","Rocket Park/JHS 202","North Conduit Ave., Arion Rd. and 149 Ave.","40.6706","-73.8462","N",NA,NA,NA,NA,NA,NA
+"481","basketball","Russell Sage Playground","68 Ave. & Booth to Austin sts","40.7236","-73.8518","N",NA,NA,NA,NA,NA,NA
+"482","basketball","Seaside Playground","Rockaway Beach Blvd. & B109-110 Sts.","40.5809","-73.8308","N",NA,NA,NA,NA,NA,NA
+"483","basketball","Seven Gables Playground","210 St. & Oceania St.","40.7441","-73.7664","N",NA,NA,NA,NA,NA,NA
+"484","basketball","Seven Seas Sports Courts/Four Winds P/G","Booth Memorial Blvd. & 160 St.","40.7424","-73.8079","N",NA,NA,NA,NA,NA,NA
+"485","basketball","Silent Springs Playground","Colden St. & Geranium Ave.","40.7502","-73.8233","N",NA,NA,NA,NA,NA,NA
+"486","basketball","Smokey Oval Playground","Atlantic, 95 Ave., and 125 St.","40.6943","-73.8208","N",NA,NA,NA,NA,NA,NA
+"487","basketball","Travers Park","78 St, , S/O Northern Blvd.","40.754","-73.8894","N",NA,NA,NA,NA,NA,NA
+"488","basketball","Triassic Playground","Jewel Ave. & Van Wyck Expressway","40.7297","-73.835","N",NA,NA,NA,NA,NA,NA
+"489","basketball","Utopia","Utopia Pkwy. & Jewel Ave.","40.7305","-73.7932","N",NA,NA,NA,NA,NA,NA
+"490","basketball","Vleigh Place Playground/PS 165","Union Turnpike & 141 St.","40.7185","-73.8204","N",NA,NA,NA,NA,NA,NA
+"491","basketball","Walter Ward Playground/PS 207","89 St. & 160 Ave.","40.6578","-73.8438","N",NA,NA,NA,NA,NA,NA
+"492","basketball","Whitestone Playground/PS 193","152 St. between 11 and 12 Aves.","40.7922","-73.8082","N",NA,NA,NA,NA,NA,NA
+"493","basketball","Willets Pt. Playground/PS 209","165 St. btwn. 16 Ave & 16 Rd.","40.7836","-73.7962","N",NA,NA,NA,NA,NA,NA
+"494","basketball","Willow Lake Playground","Grand Central Pkwy between 71 & 72 Aves.","40.723","-73.8372","N",NA,NA,NA,NA,NA,NA
+"495","basketball","World&rsquo;s Fair Playground","62 Dr. and Grand Central Pkwy.","40.7374","-73.8456","N",NA,NA,NA,NA,NA,NA
+"496","basketball","Yellowstone Municipal Park","Yellowstone Blvd. between 68 Ave. & 68 Rd.","40.7264","-73.8478","N",NA,NA,NA,NA,NA,NA
+"497","basketball","Abraham Levy Memorial Park","Jewett & Castleton Ave.","40.634","-74.1287","N",NA,NA,NA,NA,NA,NA
+"498","basketball","Arrochar Playground (PS 39)","Sand Lane & McFarland Ave.","40.5978","-74.0706","N",NA,NA,NA,NA,NA,NA
+"499","basketball","Austin J McDonald Playground","Forest & Myrtle Aves.","40.6297","-74.1151","N",NA,NA,NA,NA,NA,NA
+"500","basketball","Clawson Playground (PS 50)","Adelaide Ave. & Clawson Rd.","40.5603","-74.1239","N",NA,NA,NA,NA,NA,NA
+"501","basketball","Clove Lakes Park","Slosson Ave, Victory Blvd. and Clove Rd.","40.616","-74.1054","N",NA,NA,NA,NA,NA,NA
+"502","basketball","Davis Playground (PS 31)","Layton & Bismark Ave.","40.6421","-74.0859","N",NA,NA,NA,NA,NA,NA
+"503","basketball","Dongan Playground (PS 52)","Mason, Buel & Dongan Hill Aves.","40.5826","-74.089","N",NA,NA,NA,NA,NA,NA
+"504","basketball","Lieutenant John H. Martinson Playground","Osborne St. & Preston Ave.","40.5365","-74.1628","N",NA,NA,NA,NA,NA,NA
+"505","basketball","Faber Park","Richmond Terrace & Faber St.","40.6409","-74.1358","N",NA,NA,NA,NA,NA,NA
+"506","basketball","FDR Boardwalk & Beach","Miller Field & Greely Ave.","40.5687","-74.0912","Y",NA,NA,NA,NA,NA,NA
+"507","basketball","Cesar Sanchez Basketball Courts","Dongan Hills Ave. & SIRR","40.5863","-74.1006","N",NA,NA,NA,NA,NA,NA
+"508","basketball","Gerard P Dugan Playground","Mill Rd., Weed Ave., and Tysens Lane","40.5608","-74.1102","N",NA,NA,NA,NA,NA,NA
+"509","basketball","The Big Park","Grandview Ave. & Continental Pl.","40.6312","-74.1651","N",NA,NA,NA,NA,NA,NA
+"510","basketball","Great Kills Park (PS 8)","Hillcrest Ave. & Highmount Rd.","40.5471","-74.1518","N",NA,NA,NA,NA,NA,NA
+"511","basketball","Greencroft Playground (PS 53)","Redgrave, Greencroft St., Ainsworth Ave., and Durant Ave.","40.552","-74.1368","N",NA,NA,NA,NA,NA,NA
+"512","basketball","Harbor Playground","Harbor Rd. & Richmond Terrace","40.6366","-74.1604","N",NA,NA,NA,NA,NA,NA
+"513","basketball","Ikefugi Playground","Winter & Bismark Aves.","40.6387","-74.0837","N",NA,NA,NA,NA,NA,NA
+"514","basketball","Jennifer's Playground","Jules Dr., Elson Ct., and Regis Dr.","40.62","-74.1635","N",NA,NA,NA,NA,NA,NA
+"515","basketball","Luis Lopez Playground","Targee St., Palma Dr., and Oder Ave.","40.6118","-74.0849","N",NA,NA,NA,NA,NA,NA
+"516","basketball","Markham Playground","Willowbrook Pkwy., Forest Ave. and Houston St.","40.6237","-74.1456","N",NA,NA,NA,NA,NA,NA
+"517","basketball","Michael J Mahoney Memorial Playground.","Beechwood Ave., Crescent St. and Cleveland St.","40.6431","-74.086","N",NA,NA,NA,NA,NA,NA
+"518","basketball","Midland Field (JHS 2)","Midland, Mason, and Bedford Aves.","40.577","-74.0995","N",NA,NA,NA,NA,NA,NA
+"519","basketball","Naples Playground (PS 48)","Targee St. & Naples St.","40.6027","-74.0907","N",NA,NA,NA,NA,NA,NA
+"520","basketball","Nicholas De Matti Playground","Tompkins Ave. & Chestnut St.","40.6145","-74.0742","N",NA,NA,NA,NA,NA,NA
+"521","basketball","Old Town Playground","Parkinson Ave. & Kramer St.","40.5954","-74.0814","N",NA,NA,NA,NA,NA,NA
+"522","basketball","Park","Richmond Pkwy & Vernon Blvd.","40.533","-74.2021","N",NA,NA,NA,NA,NA,NA
+"523","basketball","Prall Playground (IS 27)","Elizabeth St. & Forest Ave.","40.6288","-74.1183","N",NA,NA,NA,NA,NA,NA
+"524","basketball","PS 14 & Stapleton Houses Plgd.","Tompkins Ave, Broad, and Hill Sts.","40.6229","-74.0796","N",NA,NA,NA,NA,NA,NA
+"525","basketball","Randolph Walker Park","Delafield Pl, Bard and Davis Aves.","40.6431","-74.1103","N",NA,NA,NA,NA,NA,NA
+"526","basketball","Reinhard E. Kaltenmeier Playground","Virginia Ave. & Anderson St.","40.6146","-74.0682","N",NA,NA,NA,NA,NA,NA
+"527","basketball","Schmul Park","Wild Ave & Pearson St.","40.5899","-74.188","N",NA,NA,NA,NA,NA,NA
+"528","basketball","Silver Lake Park","University Pl. & Revere St.","40.6284","-74.0987","N",NA,NA,NA,NA,NA,NA
+"529","basketball","Terrace/PS 35 Playground","Foote Ave., Howard Ave., and Martha St.","40.6136","-74.0986","N",NA,NA,NA,NA,NA,NA
+"530","basketball","Christopher J. Igneri Playground","Schmidts Lane & Manor Rd.","40.6087","-74.1191","N",NA,NA,NA,NA,NA,NA
+"531","basketball","The Field of Dreams","E. 167 St between Southern Blvd. and Simpson St.","40.8266","-73.8923","Y",NA,NA,NA,NA,NA,NA
+"532","basketball","Windmuller Park","52 St., Woodside Ave. bet. 39 Rd. and 39 Dr.","40.7476","-73.9114","N",NA,NA,NA,NA,NA,NA
+"533","basketball","Woodtree Playground","20th Avenue Between 37th & 38th Sts.","40.7772","-73.9031","Y",NA,NA,NA,NA,NA,NA
+"534","basketball","Christopher ""Biggie"" Wallace Courts","Fulton Street & Classon Avenue","40.6817","-73.9595","Y",NA,NA,NA,NA,NA,NA
+"535","basketball","Green Grass Courts","Marcy Ave & Hope St","40.7133","-73.9546","Y",NA,NA,NA,NA,NA,NA
+"536","basketball","Justice Gilbert Ramirez Park","McKibbin St. bet. White St. and Bogart St.","40.706","-73.9343","Y",NA,NA,NA,NA,NA,NA
+"537","basketball","Bridge and Tunnel Park","Tunnel Plaza, 50 Ave, 11 St","40.7419","-73.9515","N",NA,NA,NA,NA,NA,NA
+"538","basketball","Ogden Plimpton Playground","Plimpton Ave. & West 170th St.","40.8419","-73.9239","Y",NA,NA,NA,NA,NA,NA
+"539","basketball","Othmar Ammann Playground","East 124th St. & 1st Ave.","40.8015","-73.9322","Y",NA,NA,NA,NA,NA,NA
+"540","basketball","Bushwick Playground","Knickerbocker Avenue & Putnam Avenue","40.6957","-73.9118","Y",NA,NA,NA,NA,NA,NA
+"541","basketball","Triborough Bridge Playground C","23rd St & Hoyt Ave","40.774","-73.9225","Y",NA,NA,NA,NA,NA,NA
+"542","basketball","Murray Playground","11th Street between 45th Avenue & 45th Road","40.7476","-73.9496","Y",NA,NA,NA,NA,NA,NA
+"543","basketball","West 186th Street Basketball Courts","West 186th St. between Audubon Ave. & St. Nicholas Ave.","40.8521","-73.9308","Y",NA,NA,NA,NA,NA,NA
+"544","basketball","Starlight Park","Sheridan Expressway & E. 174th St.","40.8339","-73.8819","Y",NA,NA,NA,NA,NA,NA
+"545","cricket","Parade Ground","West 242nd to West 250th streets & Broadway","40.9027","-73.8953",NA,NA,NA,"8",NA,NA,NA
+"546","cricket","Ferry Point Park","Schley and Brush avenues (Main Entrance)","40.8073","-73.8348",NA,NA,NA,"2",NA,NA,NA
+"547","cricket","Van Cortlandt Park","Henry Hudson & Broadway Stables","40.8938","-73.8955",NA,NA,NA,"1",NA,NA,NA
+"548","cricket","Canarsie Beach Park","Seaview Avenue & East 92nd Street","40.6282","-73.8965",NA,NA,NA,NA,NA,NA,NA
+"549","cricket","Marine Park","Flimore Avenue & Marine Parkway","40.6051","-73.9312",NA,NA,NA,NA,NA,NA,NA
+"550","cricket","Baisley Pond Park","North Conduit Avenue & Baisley Boulevard","40.6838","-73.7859",NA,NA,NA,NA,NA,NA,NA
+"551","cricket","Baisley Pond Park South","150th Street & 134th Avenue","40.6738","-73.7861",NA,NA,NA,NA,NA,NA,NA
+"552","cricket","Kissena Corridor Park","Peck Avenue & Underhill Avenue","40.7445","-73.8171",NA,NA,NA,NA,NA,NA,NA
+"553","cricket","Cunningham Park","Tennis Horace Harding Expressway & Grand Central Parkway","40.739","-73.773",NA,NA,NA,NA,NA,NA,NA
+"554","cricket","Rockaway Community Playground","Almeda Avenue","40.5985","-73.7868",NA,NA,NA,NA,NA,NA,NA
+"555","cricket","St. Albans Park","Merrick Boulevard, 173 Place, Sayers Avenue","40.6922","-73.7807",NA,NA,NA,NA,NA,NA,NA
+"556","cricket","Walker Park","District 1, Delafield Avenue & Davis Avenue","40.6433","-74.1096",NA,NA,NA,NA,NA,NA,NA
+"557","cricket","Roy Wilkins Recreation Center","Baisley & Merrick boulevards, 115 Avenue, 177 Street","40.6879","-73.772",NA,NA,NA,NA,NA,NA,NA
+"558","cricket","Roy A. Sweeney Cricket Oval","Gateway Drive off of Erskine Street","40.6508","-73.8689",NA,NA,NA,"1",NA,NA,NA
+"559","cricket","Tudor Park","78-40 73rd Place","40.6741","-73.8559",NA,NA,NA,"1",NA,NA,NA
+"560","handball","Agnes Haywood Playground","E. 215 St., Barnes Ave., E. 216 St.","40.8804","-73.8621",NA,NA,NA,NA,"2",NA,NA
+"561","handball","Allerton Playground","Allerton, Bouck, Throop Aves. & Stedman Place","40.8659","-73.8506",NA,NA,NA,NA,"4",NA,NA
+"562","handball","Arcilla Playground","Clay, Park, and Teller Aves., E. 164 St.","40.827","-73.9148",NA,NA,NA,NA,"4",NA,NA
+"563","handball","Bailey Playground","Bailey Avenue & 234 St.","40.8818","-73.9002",NA,NA,NA,NA,"6",NA,NA
+"564","handball","Behagen Playground","165-166 Sts., Union Avenue","40.8258","-73.9008",NA,NA,NA,NA,"2",NA,NA
+"565","handball","Belmont Playground","E. 181 & E. 182 Sts., Crotona & Belmont Aves.","40.8504","-73.8874",NA,NA,NA,NA,"6",NA,NA
+"566","handball","Brady Playground","Bronxdale Blvd. & Bronx Park East","40.8519","-73.8694",NA,NA,NA,NA,"4",NA,NA
+"567","handball","Bruckner Playground","Phillips & Cross Bronx Expressway","40.8267","-73.829",NA,NA,NA,NA,"2",NA,NA
+"568","handball","Bufano Playground","Waterbury & LaSalle Aves.","40.8385","-73.8315",NA,NA,NA,NA,"8",NA,NA
+"569","handball","Burns Playground","Mace, Lodovick, & Gunther Aves.","40.863","-73.8364",NA,NA,NA,NA,"4",NA,NA
+"570","handball","Campanaro Playground","Gun Hill & Eastchester Rds., Arnow Ave.","40.8678","-73.843",NA,NA,NA,NA,"2",NA,NA
+"571","handball","Captain Rivera Playground","Forest Ave., E. 156 St.","40.8178","-73.9067",NA,NA,NA,NA,"2",NA,NA
+"572","handball","Caserta Playground","St. Raymond Ave. & Purdy St.","40.8372","-73.8538",NA,NA,NA,NA,"2",NA,NA
+"573","handball","Clark Playground","3rd Ave, E. 144 to 145 Sts.","40.8137","-73.9214",NA,NA,NA,NA,"1",NA,NA
+"574","handball","Colucci Playground","Mayflower & Wilkinson Aves.","40.8524","-73.8343",NA,NA,NA,NA,"4",NA,NA
+"575","handball","Drew Playground","Fulton Ave., E. 169 St.","40.8333","-73.9033",NA,NA,NA,NA,"2",NA,NA
+"576","handball","Dunbar Playground","E. 161 St., Trinity Ave","40.8233","-73.9063",NA,NA,NA,NA,"2",NA,NA
+"577","handball","Eastchester Playground","Adee & Tenbroeck Aves.","40.8697","-73.853",NA,NA,NA,NA,"4",NA,NA
+"578","handball","Edenwald Playground","Schieffelin Ave. & E. 229 St.","40.8838","-73.8457",NA,NA,NA,NA,"4",NA,NA
+"579","handball","Flynn Playground","E. 157 St., 3rd Ave., E. 158 St., Brook Ave.","40.8209","-73.9123",NA,NA,NA,NA,"2",NA,NA
+"580","handball","Fordham Landing","Fordham Road and Major Deegan","40.8635","-73.9101",NA,NA,NA,NA,"8",NA,NA
+"581","handball","Fort Independence Playground","Sedgwick & Stevenson Aves.","40.882","-73.8946",NA,NA,NA,NA,"2",NA,NA
+"582","handball","Fountain of Youth Playground","Union Ave., E. 150 St., Tinton Ave. and E. 152 St.","40.814","-73.9054",NA,NA,NA,NA,"4",NA,NA
+"583","handball","Goble Playground","Goble Rd. & Inwood Ave.","40.8437","-73.9169",NA,NA,NA,NA,"2",NA,NA
+"584","handball","Gouverneur Playground","3rd Ave., St. Paul's Pl., Washington Ave.","40.8353","-73.9037",NA,NA,NA,NA,"2",NA,NA
+"585","handball","Grovehill Playground","E. 158 St., Eagle Avenue, Cauldwell Ave, E. 156 St","40.8197","-73.9091",NA,NA,NA,NA,"2",NA,NA
+"586","handball","Henry Hudson Park","Palisade Avenue & Kappock Street","40.8813","-73.921",NA,NA,NA,NA,"2",NA,NA
+"587","handball","Julius Richman Park (lower)","E. Tremont, E. Burnside, and Valentine Aves.","40.8493","-73.9012",NA,NA,NA,NA,"2",NA,NA
+"588","handball","Loreto Playground","Morris Park, Tomlinson, Van Nest & Haight Aves.","40.8487","-73.8517",NA,NA,NA,NA,"4",NA,NA
+"589","handball","Lozada Playground","E. 135 St., Alexander & Willis Aves.","40.808","-73.9246",NA,NA,NA,NA,"2",NA,NA
+"590","handball","Magenta Playground","Rosewood & Magenta Sts., Olinville Ave.","40.8738","-73.8677",NA,NA,NA,NA,"2",NA,NA
+"591","handball","Matthews-Muliner Playground","Morris Park, Matthews, & Muliner Aves.","40.8467","-73.8617",NA,NA,NA,NA,"2",NA,NA
+"592","handball","Mazzei Playground","Williamsbridge Rd & Mace Ave.","40.8621","-73.8588",NA,NA,NA,NA,"4",NA,NA
+"593","handball","Melrose Playground","Courtlandt Ave., 154 and 155 streets, Morris Ave.","40.8207","-73.9186",NA,NA,NA,NA,"2",NA,NA
+"594","handball","Merriam Playground South","Merriam Ave., Odgen Ave., W. 168. St.","40.839","-73.9263",NA,NA,NA,NA,"2",NA,NA
+"595","handball","Millbrook Playground","N/S E 135 St betw St Anns & Cypress","40.8042","-73.9168",NA,NA,NA,NA,"2",NA,NA
+"596","handball","Morgan Playground","E. 168 St., Washington Ave.","40.8326","-73.9071",NA,NA,NA,NA,"2",NA,NA
+"597","handball","Mott Playground","Morris & College Aves., W. 166 St. to W. 167 St.","40.8313","-73.9145",NA,NA,NA,NA,"4",NA,NA
+"598","handball","Mullaly Park","W. 164 St. & River Ave.","40.8305","-73.9248",NA,NA,NA,NA,"18",NA,NA
+"599","handball","Nelson Playground","W. 166 St., Nelson Ave., Woodycrest Ave","40.8349","-73.9271",NA,NA,NA,NA,"4",NA,NA
+"600","handball","Orchard Beach Playground","Orchard Beach Area 6","40.8689","-73.7926",NA,NA,NA,NA,"24",NA,NA
+"601","handball","P.O. Serrano Playground","Lafayette & Olmstead Aves","40.8235","-73.85",NA,NA,NA,NA,"8",NA,NA
+"602","handball","Parker Playground","Castle Hill & Parker Aves.","40.8388","-73.8532",NA,NA,NA,NA,"4",NA,NA
+"603","handball","Parkside Playground","Arnow & Olinville Aves.","40.8682","-73.8679",NA,NA,NA,NA,"3",NA,NA
+"604","handball","Patterson Playground","Morris Avenue, E. 148 St., College Ave., E. 145 St.","40.8161","-73.9219",NA,NA,NA,NA,"4",NA,NA
+"605","handball","Playground 52","Kelly, Beck & Ave. St. John","40.8153","-73.9018",NA,NA,NA,NA,"4",NA,NA
+"606","handball","Playground One Thirty Four CXXXIV","Bruckner Blvd., Cypress Ave., E. 133 & E. 134 Sts.","40.8026","-73.917",NA,NA,NA,NA,"2",NA,NA
+"607","handball","Pontiac Playground","E. 149 St., Concord Ave, Jackson Ave.","40.8144","-73.9079",NA,NA,NA,NA,"2",NA,NA
+"608","handball","Prospect Playground","Clinton Ave., E. 176 St., Prospect Ave.","40.8433","-73.8911",NA,NA,NA,NA,"6",NA,NA
+"609","handball","Pulaski Park","Willis Ave., Bruckner Blvd., E. 132 St., Willis Ave. Br.","40.8054","-73.9245",NA,NA,NA,NA,"4",NA,NA
+"610","handball","Randall Playground","Randall & Olmstead Aves.","40.8196","-73.8494",NA,NA,NA,NA,"2",NA,NA
+"611","handball","Reverend Polite Playground","Rev. Polite Avenue & E. 167 St.","40.8274","-73.8964",NA,NA,NA,NA,"2",NA,NA
+"612","handball","Rienzi Playground","White Plains Rd., E. 226 St., Barnes Ave., E. 225 St.","40.8878","-73.8584",NA,NA,NA,NA,"2",NA,NA
+"613","handball","Riverbend Playground","Bailey Avenue","40.8719","-73.9058",NA,NA,NA,NA,"1",NA,NA
+"614","handball","Riverdale Playground","Independence Avenue & 237 St.","40.8881","-73.9153",NA,NA,NA,NA,"5",NA,NA
+"615","handball","Sawmill Playground","E. 139 St. & E. 140 Sts., Brook & Willis Aves.","40.8087","-73.9195",NA,NA,NA,NA,"1",NA,NA
+"616","handball","Sedgwick Playground","Undercliff Ave. & Cross Bronx Expwy.","40.8456","-73.923",NA,NA,NA,NA,"2",NA,NA
+"617","handball","Slattery Playground","Ryer and Valentine Aves. & E. 183 St.","40.8575","-73.8985",NA,NA,NA,NA,"4",NA,NA
+"618","handball","Space-Time Playground","Lafayette & Bolton Aves","40.8223","-73.8596",NA,NA,NA,NA,"2",NA,NA
+"619","handball","St. James Park","Jerome Avenue and 193 St.","40.8657","-73.8969",NA,NA,NA,NA,"6",NA,NA
+"620","handball","St. Mary's East","Jackson Ave, St Mary's St","40.8105","-73.9103",NA,NA,NA,NA,"4",NA,NA
+"621","handball","Stars & Stripes Playground","Crawford Ave., Baychester Rd.","40.8854","-73.8402",NA,NA,NA,NA,"2",NA,NA
+"622","handball","Stebbins Playground","E. 165 St., Stebbins Ave., Roger Pl.","40.8226","-73.8987",NA,NA,NA,NA,"2",NA,NA
+"623","handball","Story Playground","Story & Theriot Aves.","40.8231","-73.8627",NA,NA,NA,NA,"4",NA,NA
+"624","handball","Taylor Playground","Theriot & Guerlain Aves.","40.8392","-73.8659",NA,NA,NA,NA,"2",NA,NA
+"625","handball","The Pearly Gates","St. Peter's & Tratman Aves.","40.8389","-73.8456",NA,NA,NA,NA,"2",NA,NA
+"626","handball","Tiffany Playground","Fox St., E. 167 St., Tiffany St.","40.8249","-73.8941",NA,NA,NA,NA,"4",NA,NA
+"627","handball","Tremont Park","Arthur Ave., Cross Bx. Expwy., Tremont Ave. & 3rd","40.8447","-73.8944",NA,NA,NA,NA,"4",NA,NA
+"628","handball","Watson-Gleason Playground","Watson and Rosedale Aves.","40.8276","-73.869",NA,NA,NA,NA,"8",NA,NA
+"629","handball","Willis Playground","E. 139 St., E. 140 St., Willis & Alexander Aves.","40.8108","-73.9237",NA,NA,NA,NA,"2",NA,NA
+"630","handball","100% Playground/PS 242 (100th Street)","Glenwood Rd & 100th St","40.6466","-73.8989",NA,NA,NA,NA,"2",NA,NA
+"631","handball","16 Sycamore Playground","Schermerhorn & Nevins Sts","40.6867","-73.9806",NA,NA,NA,NA,"3",NA,NA
+"632","handball","Alex Lindower Park","Mill Ave & Strickland Ave","40.6128","-73.9119",NA,NA,NA,NA,"4",NA,NA
+"633","handball","Alexander Hamilton-Metz Field","Albany & East NY Aves","40.6624","-73.9402",NA,NA,NA,NA,"4",NA,NA
+"634","handball","American Playground","Noble/Franklin & Milton Streets","40.7288","-73.9582",NA,NA,NA,NA,"2",NA,NA
+"635","handball","Asser Levey Park (Sea Side, W 5th)","Surf Ave & 5th Street","40.5743","-73.9727",NA,NA,NA,NA,"10",NA,NA
+"636","handball","Bartlett Playground","Bartlett & Throop Aves","40.7012","-73.946",NA,NA,NA,NA,"2",NA,NA
+"637","handball","Bath Beach Park","Shore Pkwy & 17th Ave","40.6024","-74.0103",NA,NA,NA,NA,"4",NA,NA
+"638","handball","Bath Playground","Bath Ave & 24th St","40.5948","-73.9931",NA,NA,NA,NA,"2",NA,NA
+"639","handball","Belmont Playground","Belmont Ave & Drew St","40.6756","-73.8626",NA,NA,NA,NA,"2",NA,NA
+"640","handball","Benson Playground","Bath Ave & Bat 22nd","40.6024","-74.0021",NA,NA,NA,NA,"4",NA,NA
+"641","handball","Bensonhurst Park","Bay Parkway & Cropsey Ave","40.598","-74.0012",NA,NA,NA,NA,"6",NA,NA
+"642","handball","Bill Brown Playground","Bedford Ave & Ave X","40.593","-73.9457",NA,NA,NA,NA,"4",NA,NA
+"643","handball","BREVOORT HOUSES PLGD.","Ralph Ave & Chauncy St.","40.68","-73.9225",NA,NA,NA,NA,"6",NA,NA
+"644","handball","BROWER PARK & PS 289 PLGD.","Brooklyn & Kingston Aves","40.6741","-73.9434",NA,NA,NA,NA,"2",NA,NA
+"645","handball","BROWNSVILLE PLGD.","Linden Bkvd. & Hegeman St.","40.6569","-73.9022",NA,NA,NA,NA,"8",NA,NA
+"646","handball","Bushwick Playground","Knickerbocker Ave & Putnam St","40.6963","-73.9121",NA,NA,NA,NA,"4",NA,NA
+"647","handball","Bushwick Playground and Pool","Bushwick & Flushing Aves","40.7016","-73.9396",NA,NA,NA,NA,"4",NA,NA
+"648","handball","CALLAHAN & KELLY PLGD.","Eastern Pkwy & Truxon St.","40.6786","-73.9042",NA,NA,NA,NA,"6",NA,NA
+"649","handball","Carver Playground","Carver Ralph Ave & SumpterSt.","40.6802","-73.9202",NA,NA,NA,NA,"2",NA,NA
+"650","handball","Century","Brighton Ave & west 2nd","40.5768","-73.9711",NA,NA,NA,NA,"2",NA,NA
+"651","handball","CHARLIES PLACE","Hopkins & Throop Aves","40.6989","-73.9463",NA,NA,NA,NA,"2",NA,NA
+"652","handball","Cityline Park","Atlantic & Fountain Aves","40.6795","-73.8748",NA,NA,NA,NA,"2",NA,NA
+"653","handball","COFFEY PARK","King, Richard & Dwight Sts","40.6771","-74.0092",NA,NA,NA,NA,"4",NA,NA
+"654","handball","Col Marcus Park","Ocean Pkwy & Ave P","40.6096","-73.9703",NA,NA,NA,NA,"5",NA,NA
+"655","handball","Comm Barry Park","Flushing Ave & N. Elliot Pl","40.6979","-73.9802",NA,NA,NA,NA,"8",NA,NA
+"656","handball","Coney Island Houses Playground (Nautilus Playground)","West 29th to West 32nd streets","40.5717","-73.9971",NA,NA,NA,NA,"2",NA,NA
+"657","handball","Cooper Park","Sharon &Olive Sts & Maspeth & Morgan Aves","40.7155","-73.9367",NA,NA,NA,NA,"4",NA,NA
+"658","handball","Crispus Attucks Playground","Fulton St & Classon Ave","40.6817","-73.9597",NA,NA,NA,NA,"2",NA,NA
+"659","handball","Cypress","Blake & Euklid Sts","40.67","-73.8709",NA,NA,NA,NA,"2",NA,NA
+"660","handball","David Ruggles Playground","Thompkins Ave & Halsey St","40.6819","-73.9447",NA,NA,NA,NA,"4",NA,NA
+"661","handball","DE HOSTOS Playground","Harrison Ave& Lorimer Sts","40.7026","-73.949",NA,NA,NA,NA,"2",NA,NA
+"662","handball","DEAN PLGD","Dean St & 6th Ave","40.6806","-73.9727",NA,NA,NA,NA,"2",NA,NA
+"663","handball","DeKalb Playground","Lafayette & Classon Aves","40.6899","-73.9605",NA,NA,NA,NA,"2",NA,NA
+"664","handball","Dome Playground","Dahill Rd & E 38th","40.6379","-73.9799",NA,NA,NA,NA,"2",NA,NA
+"665","handball","DR. GREENE PLGD. (PS 284)","Stone & Sutter Aves","40.6674","-73.9071",NA,NA,NA,NA,"2",NA,NA
+"666","handball","Dreier-Offerman Park","Bay 44th & Cropsey Ave","40.5875","-73.9909",NA,NA,NA,NA,"4",NA,NA
+"667","handball","Eleanor Roosevelt Playground","E. Roosevelt Lewis & Dekalb Aves","40.693","-73.9355",NA,NA,NA,NA,"4",NA,NA
+"668","handball","Elton Playground","Elton & Hegeman","40.6658","-73.8806",NA,NA,NA,NA,"4",NA,NA
+"669","handball","Epiphany Playground","Berry & S 9th Streets","40.7085","-73.9656",NA,NA,NA,NA,"2",NA,NA
+"670","handball","Ericsson Playground","Manhattan Ave & Leonard St","40.7206","-73.9484",NA,NA,NA,NA,"2",NA,NA
+"671","handball","Ethan Allen Playground","New Jersey Ave & Eldert St","40.6558","-73.8873",NA,NA,NA,NA,"2",NA,NA
+"672","handball","Evergreen Playground","Evergeen Ave to Decatur St","40.6861","-73.9109",NA,NA,NA,NA,"2",NA,NA
+"673","handball","Fermi Playground","Troutman & Central Aves","40.7007","-73.9284",NA,NA,NA,NA,"2",NA,NA
+"674","handball","GEORGE WINGATE HS PLGD","Brooklyn & Kingston Aves","40.6596","-73.9443",NA,NA,NA,NA,"8",NA,NA
+"675","handball","GLENWOOD HOUSES PLGD.","Ralph Ave & Farragut Rd","40.6367","-73.9193",NA,NA,NA,NA,"4",NA,NA
+"676","handball","Golconda Playground","Concord, Nassau, Navy & Gold Sts","40.6982","-73.9825",NA,NA,NA,NA,"6",NA,NA
+"677","handball","GOWANUS HOUSES PLGD.","Wykoff & Bond Sts.","40.6845","-73.9874",NA,NA,NA,NA,"2",NA,NA
+"678","handball","Grace","Vermont St & Belmont Ave","40.6712","-73.8948",NA,NA,NA,NA,"4",NA,NA
+"679","handball","Grady HS","Brighton 3rd st & Shore Pkwy","40.5824","-73.9649",NA,NA,NA,NA,"4",NA,NA
+"680","handball","Gravesend Park","18th Abe & 56th St","40.6234","-73.9852",NA,NA,NA,NA,"4",NA,NA
+"681","handball","Greene Playground","Greene Ave & Waveryl Pl","40.6865","-73.9662",NA,NA,NA,NA,"2",NA,NA
+"682","handball","GREENWOOD PLGD.","Ft Hamilton Pkwy Greenwood Ave","40.6504","-73.9763",NA,NA,NA,NA,"4",NA,NA
+"683","handball","Harry Maze Playground","Ave D & E 57th","40.643","-73.923",NA,NA,NA,NA,"4",NA,NA
+"684","handball","HATTIE CARTHAN","Monroe and Marcy Aves","40.6858","-73.946",NA,NA,NA,NA,"2",NA,NA
+"685","handball","HERBERT VON KING PARK","Lafayette & Thompkins Aves","40.6894","-73.9459",NA,NA,NA,NA,"2",NA,NA
+"686","handball","Herman Dolgon Playground","Ave V & Nostrand Ave.","40.598","-73.9407",NA,NA,NA,NA,"4",NA,NA
+"687","handball","Homecrest Playground","Homecrest Ave & Belt Pkwy","40.5867","-73.9571",NA,NA,NA,NA,"8",NA,NA
+"688","handball","HOWARD HOUSES PLGD & POOL","Glenmore Ave & Stone St.","40.6717","-73.9088",NA,NA,NA,NA,"2",NA,NA
+"689","handball","IS 275 (Osborn)","Linden Blvd. & Osborn St","40.656","-73.906",NA,NA,NA,NA,"2",NA,NA
+"690","handball","IS 320 (JACKIE ROBINSON)","Sullivan Pl & Franklin Ave","40.6657","-73.9595",NA,NA,NA,NA,"4",NA,NA
+"691","handball","IS 55 (OCEAN HILL)","Bergen & Rockaway Aves","40.6747","-73.9126",NA,NA,NA,NA,"3",NA,NA
+"692","handball","IS 78 PLGD. HICKMAN PARK)","Veterans Ave & 68th St","40.6204","-73.9137",NA,NA,NA,NA,"2",NA,NA
+"693","handball","JACKIE ROBINSON PARK - PS 21","Chauncey, Reid & Marion Sts.","40.68","-73.9283",NA,NA,NA,NA,"6",NA,NA
+"694","handball","JACOB JOFFE PARK","Ave K & E 58th","40.6248","-73.919",NA,NA,NA,NA,"2",NA,NA
+"695","handball","Patrick O&rsquo;Rourke Park ","12th Ave & 81st St","40.6192","-74.0141",NA,NA,NA,NA,"2",NA,NA
+"696","handball","JHS 211 (WILSON)","Ave J & 100th St","40.6422","-73.8945",NA,NA,NA,NA,"4",NA,NA
+"697","handball","JHS 271 FISH PLGD","Saratoga Ave & Herkimer St.","40.6783","-73.9145",NA,NA,NA,NA,"2",NA,NA
+"698","handball","JHS 312 (BERGEN BEACH)","Ave N & Est 71st","40.6227","-73.9094",NA,NA,NA,NA,"2",NA,NA
+"699","handball","JHS 51 (Terrapin Plgd)","4th Ave & 3rd St","40.6735","-73.9856",NA,NA,NA,NA,"2",NA,NA
+"700","handball","JHS 68 (BILDERSEE)","Flatlands Ave & 81st st","40.6362","-73.9118",NA,NA,NA,NA,"4",NA,NA
+"701","handball","JOHN ALLEN PAYNE PARK","3rd Ave & 65 th st","40.6402","-74.0243",NA,NA,NA,NA,"6",NA,NA
+"702","handball","JOHN D'EMIC SR. MEMORIAL PARK","3rd Ave 35th St","40.6558","-74.0045",NA,NA,NA,NA,"4",NA,NA
+"703","handball","JOHN J. CARTY PLGD.","Ft Hamilton Pkwy & 100 th St","40.6128","-74.0305",NA,NA,NA,NA,"6",NA,NA
+"704","handball","JOHN MARSHALL POWER PLGD.","Utica Ave & Ave N","40.6186","-73.9277",NA,NA,NA,NA,"4",NA,NA
+"705","handball","Kaiser","Neptune & Bayview Aves","40.5792","-73.9923",NA,NA,NA,NA,"8",NA,NA
+"706","handball","Kennedy King Playground","Lenoix Rd & E 92nd","40.6588","-73.9218",NA,NA,NA,NA,"2",NA,NA
+"707","handball","Kolbert Playground","Ave L & East 17th","40.6197","-73.9577",NA,NA,NA,NA,"4",NA,NA
+"708","handball","LAFAYETTE HOUSES PLGD.","Lafayette & Franklin Aves","40.69","-73.9574",NA,NA,NA,NA,"2",NA,NA
+"709","handball","LAFAYETTE PLGD.","Lafayette Ave & Mallcom X Blvd.","40.6925","-73.9297",NA,NA,NA,NA,"2",NA,NA
+"710","handball","LaGuardia Playground","South Roebling & South 4th St","40.7105","-73.9597",NA,NA,NA,NA,"4",NA,NA
+"711","handball","LINCOLN TERRACE PARK","Buffalo Ave & Eastern Pkwy","40.6665","-73.9273",NA,NA,NA,NA,"13",NA,NA
+"712","handball","Linden Park","Linden Blvd & Stanley","40.659","-73.8864",NA,NA,NA,NA,"6",NA,NA
+"713","handball","Lt. Petrosino Playground","70th St & New Utrecht Ave","40.6193","-73.9987",NA,NA,NA,NA,"2",NA,NA
+"714","handball","MARCY HOUSES PLGD.","Mrytle & Nostrand & Marcy Aves","40.6955","-73.9522",NA,NA,NA,NA,"10",NA,NA
+"715","handball","Maria Hernandez Park","Knickerbocker & Irving Aves","40.7032","-73.9232",NA,NA,NA,NA,"2",NA,NA
+"716","handball","MARION & HOPKINSON PLGD.","Hopkinson & Marion Sts","40.6818","-73.9137",NA,NA,NA,NA,"1",NA,NA
+"717","handball","Marlboro","Ave w & West 11th","40.591","-73.9806",NA,NA,NA,NA,"2",NA,NA
+"718","handball","Martin Luther King","Miller, Dumont & Blake Aves","40.668","-73.8907",NA,NA,NA,NA,"2",NA,NA
+"719","handball","MARTIN LUTHER PLGD.","2nd Ave & 55th St","40.6457","-74.0195",NA,NA,NA,NA,"2",NA,NA
+"720","handball","Martinez Playground","Scholes St & Graham Ave","40.7088","-73.9447",NA,NA,NA,NA,"8",NA,NA
+"721","handball","McCarren Park","Union Avenue between Driggs Avenue and Bayard Street","40.7198","-73.9519",NA,NA,NA,NA,"12",NA,NA
+"722","handball","McLaughlin Park","Tillary & Jay Sts","40.6965","-73.9868",NA,NA,NA,NA,"2",NA,NA
+"723","handball","Mellett Playground","Ave V & East 13th","40.5971","-73.9576",NA,NA,NA,NA,"2",NA,NA
+"724","handball","Middelton Playground","Lynch & Middleton Streets & Lee Ave","40.7008","-73.9557",NA,NA,NA,NA,"4",NA,NA
+"725","handball","NEHEMIAH PARK","","40.6628","-73.9054",NA,NA,NA,NA,"6",NA,NA
+"726","handball","Newton Barge Playground","Commercial, Dupont & West Streets","40.7362","-73.9603",NA,NA,NA,NA,"2",NA,NA
+"727","handball","Nostrand Playground","Nostrand & Foster Aves","40.6385","-73.9467",NA,NA,NA,NA,"6",NA,NA
+"728","handball","P.S. 3 (JEFFERSON) PLGD.","Bedford Ave& Hancock St","40.6822","-73.954",NA,NA,NA,NA,"2",NA,NA
+"729","handball","Paerdegat Pk","Foster Ave. & 41st St","40.6379","-73.9384",NA,NA,NA,NA,"2",NA,NA
+"730","handball","Parham Playground","Adelphi St & Dekalb Ave","40.6901","-73.9711",NA,NA,NA,NA,"2",NA,NA
+"731","handball","PFC Thomas Norton","Nostrand Ave & Marine Pkwy","40.6143","-73.9449",NA,NA,NA,NA,"2",NA,NA
+"732","handball","Pink Houses","Stanley Ave & Eldert St","40.6664","-73.8625",NA,NA,NA,NA,"2",NA,NA
+"733","handball","PLAYGROUND THREE-FORTY","3rd Ave & 40th","40.6526","-74.0088",NA,NA,NA,NA,"2",NA,NA
+"734","handball","Poseidon Playground (Coney Island)","West 27th Street End & Reigelmann Boardwalk","40.5722","-73.992",NA,NA,NA,NA,"6",NA,NA
+"735","handball","Powell Playground","Sackman Ave & Powell Sts","40.6715","-73.9051",NA,NA,NA,NA,"4",NA,NA
+"736","handball","Pratt Playground","Willoughby Ave& Emerson Pl","40.6928","-73.9628",NA,NA,NA,NA,"2",NA,NA
+"737","handball","PS 1 PLGD","3rd Ave & 46th","40.649","-74.012",NA,NA,NA,NA,"2",NA,NA
+"738","handball","PS 117 STAR SPAGLED BAN","Franklin Ave& Willoughby St.","40.6915","-73.958",NA,NA,NA,NA,"2",NA,NA
+"739","handball","PS 251 Plgd. (DAVID A. FOX MEM. PARK)","Ave H & E 55th","40.6323","-73.9241",NA,NA,NA,NA,"4",NA,NA
+"740","handball","PS 256 (Banneker)","Marcy Ave & Kosciusko St","40.6904","-73.9497",NA,NA,NA,NA,"4",NA,NA
+"741","handball","PS 26/JHS 57 (J. Owens)","Stuyvesant St & Lafayette Ave","40.6911","-73.933",NA,NA,NA,NA,"4",NA,NA
+"742","handball","PS 260 (BREUKELEN) PLGD.","Louisianna & Flatlands Ave","40.6541","-73.8931",NA,NA,NA,NA,"4",NA,NA
+"743","handball","PS 262 EL SHABAZZ PLGD","Malcom X Blvd& Macon St","40.6827","-73.9305",NA,NA,NA,NA,"2",NA,NA
+"744","handball","PS 272 (BAYVIEW) PLGD.","Seaview Ave & 99th st","40.6346","-73.8873",NA,NA,NA,NA,"2",NA,NA
+"745","handball","PS 286","Ave Y & Brown St","40.5909","-73.9382",NA,NA,NA,NA,"2",NA,NA
+"746","handball","PS 297 (STOCKTON) PLGD.","Marcy Ave & Park Ave","40.6974","-73.949",NA,NA,NA,NA,"2",NA,NA
+"747","handball","PS 304 ( Pulaski)","Sumner Ave & Hart St PS 305","40.6938","-73.9416",NA,NA,NA,NA,"2",NA,NA
+"748","handball","PS 316 (STROUD)","Classon Ave & Sterling St.","40.6751","-73.9619",NA,NA,NA,NA,"2",NA,NA
+"749","handball","PS 327 (CHESTER)","Chester St & Sutter Ave","40.6687","-73.9119",NA,NA,NA,NA,"2",NA,NA
+"750","handball","PS 332 (HOUSTON)","Powell & Liberty Sts","40.6724","-73.905",NA,NA,NA,NA,"4",NA,NA
+"751","handball","PS 335 (WOODS)","Bergen St & Utica Ave","40.6746","-73.9291",NA,NA,NA,NA,"2",NA,NA
+"752","handball","PS 41 (NEWPORT)","Newport Ave & Osborne St","40.6607","-73.9068",NA,NA,NA,NA,"2",NA,NA
+"753","handball","PS 44 (Putnam)","Patchen St. & Ralph Avenues","40.6863","-73.9391",NA,NA,NA,NA,"4",NA,NA
+"754","handball","PS 59 (SUMNER HOUSES) PLGD.","Throop, Park & Myrtle Aves.","40.6977","-73.9432",NA,NA,NA,NA,"2",NA,NA
+"755","handball","PS 92 (PARKSIDE)","Parkside & Bedford Aves","40.6566","-73.9537",NA,NA,NA,NA,"2",NA,NA
+"756","handball","Railroad Playground","Ditmas Ave & 91st","40.6496","-73.914",NA,NA,NA,NA,"4",NA,NA
+"757","handball","RAINBOW PLGD","6th Ave & 55th St","40.6408","-74.011",NA,NA,NA,NA,"2",NA,NA
+"758","handball","RED HOOK PARK","Lorrain & Clinton Sts","40.6726","-74.0083",NA,NA,NA,NA,"8",NA,NA
+"759","handball","Rodney Park Center","Borinquen Pl & 3rd St","40.7086","-73.9567",NA,NA,NA,NA,"4",NA,NA
+"760","handball","Roebling Playground","Wilson & Lee Aves & Taylor St.","40.7063","-73.9619",NA,NA,NA,NA,"4",NA,NA
+"761","handball","RUSSELL PEDERSON PLGD","Colonial Rd & 83rd St","40.6259","-74.0364",NA,NA,NA,NA,"8",NA,NA
+"762","handball","Salgado Playground","Madison St & Patchen Ave","40.6879","-73.9252",NA,NA,NA,NA,"4",NA,NA
+"763","handball","Seth Low Playground","Ave P & Bay Pkwy","40.6076","-73.9862",NA,NA,NA,NA,"4",NA,NA
+"764","handball","Sheepshead Bay HS","Rec Area Ave Z & Nostrand Ave.","40.5893","-73.9405",NA,NA,NA,NA,"6",NA,NA
+"765","handball","Sheridan Playground","Wythe Ave Berry St & Grand Ave","40.7151","-73.9646",NA,NA,NA,NA,"2",NA,NA
+"766","handball","Sperandeo Brothers Playground","Atlantic Ave & Elton St","40.6764","-73.8846",NA,NA,NA,NA,"4",NA,NA
+"767","handball","ST. ANDREW'S PLGD.","Atlantic Ave & Herkimer St","40.6783","-73.9419",NA,NA,NA,NA,"6",NA,NA
+"768","handball","ST. JOHN'S RECREATION CENTER","Troy Ave & Prospect Pl","40.6742","-73.9341",NA,NA,NA,NA,"12",NA,NA
+"769","handball","Sternberg Park","Montrose Ave/ Lorimer & Leonard Streets","40.7057","-73.9477",NA,NA,NA,NA,"2",NA,NA
+"770","handball","Thomas Boyland Park","Broadway & Furman Sts","40.6813","-73.9069",NA,NA,NA,NA,"2",NA,NA
+"771","handball","THOMAS GREENE PK","Nevins & Degraw Sts","40.6806","-73.9862",NA,NA,NA,NA,"8",NA,NA
+"772","handball","Tiger Playground","Evergreen Ave to Eldert St","40.6881","-73.9114",NA,NA,NA,NA,"2",NA,NA
+"773","handball","Tilden Playground","Tilden Ave & E 48th","40.6479","-73.9315",NA,NA,NA,NA,"2",NA,NA
+"774","handball","VAN DYKE HOUSES PLGD.","Dumont Ave & Powell St","40.6641","-73.9043",NA,NA,NA,NA,"8",NA,NA
+"775","handball","Van Voorhees","Congress & Colombia Sts","40.6904","-73.9992",NA,NA,NA,NA,"6",NA,NA
+"776","handball","Washington & Hall Park","Washington Ave & Hall St.","40.6952","-73.9668",NA,NA,NA,NA,"4",NA,NA
+"777","handball","West Playground","Ave Z & West 1st","40.5868","-73.9698",NA,NA,NA,NA,"4",NA,NA
+"778","handball","William E. Kelly Memorial Park","Ave S & 14th St","40.6039","-73.9572",NA,NA,NA,NA,"2",NA,NA
+"779","handball","William Kelly Playground","Ave S & 14th St","40.6038","-73.9571",NA,NA,NA,NA,"4",NA,NA
+"780","handball","Willoughby Playground","Willoughby Thompkin Ave & Willoughby St.","40.6947","-73.9469",NA,NA,NA,NA,"2",NA,NA
+"781","handball","123rd Morningside Park","Morningside & 121 Street","40.8094","-73.9561",NA,NA,NA,NA,"4",NA,NA
+"782","handball","1st Street Playground","East 1st St. & 1st Ave.","40.7235","-73.9896",NA,NA,NA,NA,"4",NA,NA
+"783","handball","24 Sycamores Playground","York & 61 Street","40.7593","-73.9586",NA,NA,NA,NA,"2",NA,NA
+"784","handball","Al Smith Recreation Center","Catherine Slip & Monroe St.","40.7102","-73.9981",NA,NA,NA,NA,"2",NA,NA
+"785","handball","Asser Levy Playground","East 23 Street & FDR","40.7368","-73.9752",NA,NA,NA,NA,"4",NA,NA
+"786","handball","Baruch Playground","Irvington & Baruch Pl.","40.7176","-73.9763",NA,NA,NA,NA,"4",NA,NA
+"787","handball","Blake Hobbs Playground","104 & 2 Avenue","40.7884","-73.9445",NA,NA,NA,NA,"4",NA,NA
+"788","handball","Booker T. Washington Playground","107 St.& Columbus","40.8014","-73.9642",NA,NA,NA,NA,"4",NA,NA
+"789","handball","C. Callendar","130 & 5 Avenue","40.8101","-73.9404",NA,NA,NA,NA,"2",NA,NA
+"790","handball","Carmansville Playground","Amsterdam & 151 Street","40.8293","-73.944",NA,NA,NA,NA,"2",NA,NA
+"791","handball","Chelsea Park","9th Ave. & 27th St.","40.75","-74.0005",NA,NA,NA,NA,"6",NA,NA
+"792","handball","Cherry Clinton","Cherry & Water St.","40.7113","-73.9861",NA,NA,NA,NA,"4",NA,NA
+"793","handball","Cherry Tree Playground","99 Street & 3 Avenue","40.7873","-73.9469",NA,NA,NA,NA,"2",NA,NA
+"794","handball","Col. Young","143 & Harlem River","40.8186","-73.9349",NA,NA,NA,NA,"12",NA,NA
+"795","handball","Crack is Wack! Playground","128 & 2 Avenue","40.8047","-73.9318",NA,NA,NA,NA,"2",NA,NA
+"796","handball","De Witt Clinton Park","53rd St. & 12th Ave.","40.7686","-73.9944",NA,NA,NA,NA,"4",NA,NA
+"797","handball","Dr. Gertrude B. Kelly Playground","West 17th St. & 8th Ave.","40.7417","-74.0021",NA,NA,NA,NA,"3",NA,NA
+"798","handball","Dr. Howard Bennett Playground","135 & Lenox","40.8134","-73.9385",NA,NA,NA,NA,"4",NA,NA
+"799","handball","Each One Teach One","128 & 3Ave","40.8064","-73.9353",NA,NA,NA,NA,"4",NA,NA
+"800","handball","Frederick Johnson Playground","7 Avenue & 150 Street","40.8245","-73.9351",NA,NA,NA,NA,"8",NA,NA
+"801","handball","Gutenberg","N/S W 49 ST, 9 & 10 Aves","40.7633","-73.9899",NA,NA,NA,NA,"3",NA,NA
+"802","handball","Hamilton Fish Park","128 Pitt St.","40.7193","-73.9804",NA,NA,NA,NA,"2",NA,NA
+"803","handball","Hamilton Place Playground","W 140 & Hamilton Pl","40.8231","-73.9515",NA,NA,NA,NA,"2",NA,NA
+"804","handball","Hell's Kitchen Park","47th St. & 10th Ave.","40.7631","-73.9924",NA,NA,NA,NA,"2",NA,NA
+"805","handball","Henry Jackson Playground","Jackson St. & Henry St.","40.7139","-73.9818",NA,NA,NA,NA,"4",NA,NA
+"806","handball","Holcombe Rucker Playground","156 & 8 Ave","40.8294","-73.9361",NA,NA,NA,NA,"4",NA,NA
+"807","handball","Inwood Park","207 & Seaman Ave","40.8698","-73.9225",NA,NA,NA,NA,"8",NA,NA
+"808","handball","J. Hood Wright Park","176 St. & Ft. Washington Ave","40.8471","-73.9407",NA,NA,NA,NA,"2",NA,NA
+"809","handball","J.J. Walker Park","Hudson & Leroy St.","40.7296","-74.0059",NA,NA,NA,NA,"4",NA,NA
+"810","handball","Jacob Schiff Playground (P.S. 192)","Amsterdam & 136 St.","40.8203","-73.9526",NA,NA,NA,NA,"6",NA,NA
+"811","handball","James Weldon Johnson Playground","115 St. & Lexington Ave.","40.7974","-73.942",NA,NA,NA,NA,"2",NA,NA
+"812","handball","John Jay Park","E 77 St & Cherokee Pl.","40.7692","-73.9501",NA,NA,NA,NA,"4",NA,NA
+"813","handball","LaGuardia Playground","Madison St. off Jefferson St.","40.7123","-73.9887",NA,NA,NA,NA,"2",NA,NA
+"814","handball","Luther Gulick Park","Columbia & Delancey Streets","40.7162","-73.9823",NA,NA,NA,NA,"4",NA,NA
+"815","handball","Mae Grant Playground","104 & Madison","40.7925","-73.9492",NA,NA,NA,NA,"2",NA,NA
+"816","handball","May Matthews Playground","46th St. & 9th Ave.","40.7616","-73.9927",NA,NA,NA,NA,"2",NA,NA
+"817","handball","Murphy's Brother","17 St. & Ave.C St.","40.7303","-73.9737",NA,NA,NA,NA,"1",NA,NA
+"818","handball","Nathan Straus Park","Rivington & Attorney St.","40.7193","-73.9844",NA,NA,NA,NA,"2",NA,NA
+"819","handball","North Meadow Recreation Center","Mid-park at 97th Street","40.7914","-73.9593",NA,NA,NA,NA,"8",NA,NA
+"820","handball","Orville & Wilbur Playground","St. Nick Avenue & West 156 Street","40.8319","-73.9421",NA,NA,NA,NA,"2",NA,NA
+"821","handball","P.S. 125","Morningside & 125 St.","40.8112","-73.9564",NA,NA,NA,NA,"4",NA,NA
+"822","handball","P.S. 155","118 & 2 Avenue","40.7971","-73.9353",NA,NA,NA,NA,"2",NA,NA
+"823","handball","Playground 70","70 Street & Amsterdam","40.7771","-73.9839",NA,NA,NA,NA,"2",NA,NA
+"824","handball","Poor Richard's Playground","109 Street & 3 Avenue","40.7924","-73.9423",NA,NA,NA,NA,"2",NA,NA
+"825","handball","Renaissance Playground (P.S. 194)","144 & 8 Avenue","40.8215","-73.9414",NA,NA,NA,NA,"2",NA,NA
+"826","handball","Robert Moses Playground","42 St. & FDR","40.7478","-73.9689",NA,NA,NA,NA,"2",NA,NA
+"827","handball","Sheltering Arms Park","W 126 & Amsterdam","40.8147","-73.9559",NA,NA,NA,NA,"4",NA,NA
+"828","handball","Sol Bloom Playground","West 92 Street & Columbus","40.7896","-73.9691",NA,NA,NA,NA,"2",NA,NA
+"829","handball","St. Catherine's Playground","1st Ave & 27 St.","40.7654","-73.9591",NA,NA,NA,NA,"2",NA,NA
+"830","handball","St. Nick Terrace "" Martin Luther King Houses Playground","114 & Lenox","40.8002","-73.9506",NA,NA,NA,NA,"4",NA,NA
+"831","handball","St. Vartan's Park","2 Ave & East 35 Street","40.7457","-73.9749",NA,NA,NA,NA,"4",NA,NA
+"832","handball","Stanley M. Isaacs Courts","FDR & 97 ST","40.7836","-73.944",NA,NA,NA,NA,"8",NA,NA
+"833","handball","Thompson Street Playground/Vesuvio Playground","Tompson Street & Spring Street","40.7252","-74.0026",NA,NA,NA,NA,"3",NA,NA
+"834","handball","Vincent F. Albano, Jr. Playground","2 Avenue & 29 Street","40.7422","-73.9786",NA,NA,NA,NA,"2",NA,NA
+"835","handball","Wagner Playground","122 Street & 2 Avenue","40.8001","-73.9351",NA,NA,NA,NA,"2",NA,NA
+"836","handball","West 4th Street Courts","Avenue of the Americas between West 3rd and 4th streets","40.7311","-74.0009",NA,NA,NA,NA,"3",NA,NA
+"837","handball","White Playground","106 Street & 3 Avenue","40.7917","-73.9456",NA,NA,NA,NA,"2",NA,NA
+"838","handball","80 AVENUE P/G(PS 115)","80 AVE, 261-262 STS","40.7449","-73.7099",NA,NA,NA,NA,"2",NA,NA
+"839","handball","ADMIRAL PARK(PS 94,SY SEPLOWE)","LITTLE NECK PKWY, 42-43 AVES","40.7711","-73.738",NA,NA,NA,NA,"0",NA,NA
+"840","handball","ALBANS PARK","MERRICK BLVD, 173 PL, SAYERS AVE","40.6937","-73.7798",NA,NA,NA,NA,"4",NA,NA
+"841","handball","ALLEY P/G(PS 213)","67 AVE & 230 ST","40.7473","-73.7446",NA,NA,NA,NA,"4",NA,NA
+"842","handball","ALLEY PK ATHLETIC FIELD","UNION TPKE, GRAND CENTRAL PKWYS, WINCHESTER BLVD","40.7387","-73.7378",NA,NA,NA,NA,"4",NA,NA
+"843","handball","ALMEDA PLAYGROUND(PS 42)","B 65 ST, BCH CHANNEL DR","40.5935","-73.7946",NA,NA,NA,NA,"2",NA,NA
+"844","handball","ANNADALE PLAYGROUND(PS 175)","YELLOWSTN BLVD/65 RD-65 AVE","40.7314","-73.8517",NA,NA,NA,NA,"2",NA,NA
+"845","handball","ARVERNE PLAYGROUND","ARVERNE BLVD & B 55 ST","40.5931","-73.785",NA,NA,NA,NA,"2",NA,NA
+"846","handball","ASTORIA HEIGHTS P/G (JHS 10)","30 RD, 45-46 STS","40.76","-73.9123",NA,NA,NA,NA,"6",NA,NA
+"847","handball","BAY TERRACE P/G(PS 169)","NE CORNER 212 ST & 23 AVE","40.7821","-73.7777",NA,NA,NA,NA,"2",NA,NA
+"848","handball","BAYSIDE P/G (JHS 180)","BCH CHANNEL DR & SEASIDE","40.5851","-73.8252",NA,NA,NA,NA,"2",NA,NA
+"849","handball","BEACH 59TH ST P/G","BOARDWALK & BEACH 59-60 STS","40.589","-73.7889",NA,NA,NA,NA,"2",NA,NA
+"850","handball","BEACH 9TH ST P/G","BEACH 9 ST & SEAGIRT BLVD","40.5955","-73.7448",NA,NA,NA,NA,"4",NA,NA
+"851","handball","BEACH CHANNEL PLGD (PS 183)","S/S HMLS BLVD/B 80-79 STS/BCH CH","40.5888","-73.8062",NA,NA,NA,NA,"2",NA,NA
+"852","handball","BELLAIRE P/G(PS 135)","HILLSIDE AVE, 207 & 208 STS","40.7214","-73.7581",NA,NA,NA,NA,"4",NA,NA
+"853","handball","BELLEROSE P/G(PS 133)","85 AVE, 248-249 STS","40.733","-73.7183",NA,NA,NA,NA,"2",NA,NA
+"854","handball","BLAND PLAYGROUND","40 RD, PRINCE & MAIN STS","40.7583","-73.8308",NA,NA,NA,NA,"2",NA,NA
+"855","handball","BOWNE PLAYGROUND(PS 20)","SANFORD AV/BARCLAY AV/UNION/BOWNE","40.7582","-73.8246",NA,NA,NA,NA,"2",NA,NA
+"856","handball","BREININGER PARK","BRADDOCK AVE & 240 ST","40.7257","-73.7287",NA,NA,NA,NA,"6",NA,NA
+"857","handball","BRIARWOOD P/G(JHS 217)","148 ST & 85 AVE","40.71","-73.8108",NA,NA,NA,NA,"2",NA,NA
+"858","handball","BRIDGE AND TUNNEL PARK","TUNNEL PLAZA, 50 AVE, 11 ST","40.742","-73.9512",NA,NA,NA,NA,"2",NA,NA
+"859","handball","BROAD CHANNEL PARK","CROSS BAY BLVD, EAST 16TH RD","40.6015","-73.8199",NA,NA,NA,NA,"6",NA,NA
+"860","handball","BROOKVILLE P/G","BROOKVILLE BLVD & 143 AVE","40.6638","-73.741",NA,NA,NA,NA,"2",NA,NA
+"861","handball","C C MOORE HOMESTEAD PARK","BROADWAY, 45 AVE & 82 ST","40.7418","-73.8828",NA,NA,NA,NA,"6",NA,NA
+"862","handball","CABBELL PARK","121 AVE & 220 ST, FRANCIS LEWIS BL","40.6889","-73.7423",NA,NA,NA,NA,"4",NA,NA
+"863","handball","CENTERVILLE P/G","96 ST, CENTERVILLE ST, ALBERT RD","40.6705","-73.8393",NA,NA,NA,NA,"2",NA,NA
+"864","handball","CHALLENGE P/G(PS 187)","W/S 251 ST BET 61 & 63 AVES","40.7561","-73.7278",NA,NA,NA,NA,"4",NA,NA
+"865","handball","CLINTONVILLE P/G(JHS 194)","CLINTONVILLE ST, BET 17 AVE, 17","40.7835","-73.8082",NA,NA,NA,NA,"2",NA,NA
+"866","handball","COLDEN P/G(PS 214)","UNION ST & 31 RD","40.7699","-73.8276",NA,NA,NA,NA,"2",NA,NA
+"867","handball","COLLEGE POINT PARK","14 AVE, 121 ST, COLLEGE PT BLVD","40.7857","-73.8465",NA,NA,NA,NA,"2",NA,NA
+"868","handball","CONCH PLAYGROUND(PS 105)","BCH CHANNEL DR & B 49 ST","40.596","-73.7803",NA,NA,NA,NA,"4",NA,NA
+"869","handball","CORONA GOLF P/G","109 ST BET 46-47 AVES","40.7476","-73.8545",NA,NA,NA,NA,"2",NA,NA
+"870","handball","CROWLEY P/G","N/S QNS MDTWN EXWY, 84 ST-57 AVE","40.7299","-73.8792",NA,NA,NA,NA,"4",NA,NA
+"871","handball","DANIEL M OCONNELL P/G","113 & MURDOCK AVES, 196 ST","40.6994","-73.7578",NA,NA,NA,NA,"4",NA,NA
+"872","handball","DELPHIN H GREENE P/G(PS 176)","121 AVE & 237 ST","40.6855","-73.7288",NA,NA,NA,NA,"4",NA,NA
+"873","handball","DITMARS PARK","23 AVE/DITMARS BLVD/STEINWY ST","40.7719","-73.9066",NA,NA,NA,NA,"2",NA,NA
+"874","handball","DR CHARLES R DREW MEMORIAL PK","VAN WYCK EXWY, 116 AVE, 140 ST,","40.6803","-73.8021",NA,NA,NA,NA,"6",NA,NA
+"875","handball","DUTCH KILLS P/G (PS 112)","37 AVE, 28 ST, 36 AVE,CRESENT ST","40.7574","-73.9326",NA,NA,NA,NA,"2",NA,NA
+"876","handball","EAST ELMHURST P/G(PS 127)","25 AVE BET 98 & 100 STS","40.7661","-73.8715",NA,NA,NA,NA,"2",NA,NA
+"877","handball","EAST SPRINGFIELD P/G(PS 147)","115 RD BET 218-219 STS","40.6984","-73.7397",NA,NA,NA,NA,"4",NA,NA
+"878","handball","EHRENREICH-AUSTIN P/G","AUSTIN ST BET 76 AVE & 76 DRIVE","40.715","-73.8364",NA,NA,NA,NA,"2",NA,NA
+"879","handball","EMERALD P/G(PS 200)","164 ST BET JEWEL & 71 AVES","40.7315","-73.8061",NA,NA,NA,NA,"2",NA,NA
+"880","handball","FARM P/G (PS 26)","73 AVE, 196TH STREET","40.7354","-73.7767",NA,NA,NA,NA,"6",NA,NA
+"881","handball","FRANCIS LEWIS P/G(PS 130)","42 AVE AT FRANCIS LEWIS BLVD","40.7606","-73.7845",NA,NA,NA,NA,"2",NA,NA
+"882","handball","FRANK D. O'CONNOR P/G","BROADWAY, 78 TO 79 STS","40.7441","-73.8862",NA,NA,NA,NA,"4",NA,NA
+"883","handball","FREDERICK B JUDGE P/G","111 AVE, 134-135 STS, LINCOLN ST","40.6835","-73.8082",NA,NA,NA,NA,"4",NA,NA
+"884","handball","FRONTERA PARK","58 AVE BE BROWN PL & 69 ST","40.7249","-73.8957",NA,NA,NA,NA,"2",NA,NA
+"885","handball","GORMAN P/G","30 AVE, 84 - 85 ST, 25 AVE","40.762","-73.8841",NA,NA,NA,NA,"4",NA,NA
+"886","handball","GRASSMERE PLAYGROUND(PS 215)","GRASSMERE TERR, BRKHAVEN AVE, BR","40.599","-73.7587",NA,NA,NA,NA,"2",NA,NA
+"887","handball","GUNN PARK (PS 18)","S/S HILLSIDE AVE, E/O 235 CT","40.7318","-73.7315",NA,NA,NA,NA,"4",NA,NA
+"888","handball","HAGGERTY PARK","S/S JAMAICA AVE BET 202-204 STS","40.7126","-73.7578",NA,NA,NA,NA,"4",NA,NA
+"889","handball","Hallets Cove Playground","HALLETS COVE & VERNON BLVD","40.7719","-73.9343",NA,NA,NA,NA,"4",NA,NA
+"890","handball","HAMMEL PLAYGROUND","B 83 ST & ROCKAWAY BCH BLVD","40.5884","-73.8093",NA,NA,NA,NA,"2",NA,NA
+"891","handball","HANDBALL HAVEN","102 ST/62 AVE/YELLOWSTONE BLVD","40.7361","-73.8552",NA,NA,NA,NA,"2",NA,NA
+"892","handball","HAROLD SCHNEIDERMAN P/G(PS232)","155 AVE BET 84 & 85 ST","40.6649","-73.8502",NA,NA,NA,NA,"2",NA,NA
+"893","handball","HARVARD P/G","179 PL, N/O JAMAICA AVE","40.7089","-73.7814",NA,NA,NA,NA,"2",NA,NA
+"894","handball","HILLSIDE PARK(JHS 172)","82 AVE, 256 - 257 STS","40.7406","-73.7131",NA,NA,NA,NA,"2",NA,NA
+"895","handball","HOFFMAN PARK","HOFFMAN DR & SEABURY ST","40.7325","-73.8728",NA,NA,NA,NA,"4",NA,NA
+"896","handball","HOLLIS PLAYGROUND(JHS 192)","HOLLIS AVE, 205 ST, 111","40.7066","-73.7529",NA,NA,NA,NA,"4",NA,NA
+"897","handball","Holy Cow P/G (PS 179)","HRC HDNG BLVD/ 199 STREET","40.7421","-73.7785",NA,NA,NA,NA,"4",NA,NA
+"898","handball","HOWARD VON DOHLEN P/G","ARCHER AVE, 138 PL, 91 AVE, 138","40.6991","-73.813",NA,NA,NA,NA,"3",NA,NA
+"899","handball","HOYT PLAYGROUND","HOYT AVE, 29 TO 31 STS","40.7714","-73.9169",NA,NA,NA,NA,"4",NA,NA
+"900","handball","JAMAICA PLAYGROUND(PS 40)","109 ST/BRNKRHOFF AVE/106/UNION H","40.6929","-73.7908",NA,NA,NA,NA,"8",NA,NA
+"901","handball","JOHN ADAMS P/G","133 AVE, 101 TO 103 STS","40.6774","-73.8356",NA,NA,NA,NA,"2",NA,NA
+"902","handball","JOSEPH AUSTIN P/G","GRND CENT PKWY BET 164 PL & 168","40.7161","-73.8015",NA,NA,NA,NA,"6",NA,NA
+"903","handball","JOSEPH P. ADDABBO PLAYGROUND","BET 81-82 STS, N CONDUIT AVE","40.6729","-73.8542",NA,NA,NA,NA,"6",NA,NA
+"904","handball","JUNCTION P/G","96 ST, 34 AVE, JUNCTION BLVD","40.7545","-73.8719",NA,NA,NA,NA,"2",NA,NA
+"905","handball","JUNIPER NORTH PLGD (TENNIS)","77 PL, JUNIPER BLVD","40.7211","-73.8772",NA,NA,NA,NA,"10",NA,NA
+"906","handball","K.L.WILLIAMS (P/G, TENNIS)","LIBERTY AVE, 172-173 STS","40.7042","-73.7851",NA,NA,NA,NA,"4",NA,NA
+"907","handball","KISSENA CORRIDOR PK","PCK/UNDRHL AVES/UTOPIA PKY/HRC H","40.7448","-73.787",NA,NA,NA,NA,"4",NA,NA
+"908","handball","Lannett Playground","B 8 ST, LANETT AVE, B 9 ST","40.5995","-73.744",NA,NA,NA,NA,"2",NA,NA
+"909","handball","LAURELTON P/G","BROOKVILLE BLVD, S/O 136 AVE","40.6692","-73.7372",NA,NA,NA,NA,"4",NA,NA
+"910","handball","LEFFERTS P/G","N CONDUIT AVE, 120-122 STS","40.6656","-73.8206",NA,NA,NA,NA,"2",NA,NA
+"911","handball","LOCUST MANOR P/G(PS 15)","192 ST, S/S 121 AVE","40.6857","-73.7562",NA,NA,NA,NA,"2",NA,NA
+"912","handball","LONDON PLANETREE P/G","88-89 STS, ATLANTIC TO 95 AVES","40.6866","-73.8536",NA,NA,NA,NA,"8",NA,NA
+"913","handball","LOUIS ARMSTRONG P/G(PS 143)","37 AVE BET 112 & 113 STS","40.7549","-73.8558",NA,NA,NA,NA,"4",NA,NA
+"914","handball","LOUIS PASTEUR PARK(JHS 67)","52 AVE BET 248 ST & MARATHON PKW","40.7619","-73.7351",NA,NA,NA,NA,"6",NA,NA
+"915","handball","HIGHLAND PARK","JAMAICA AVE & ELTON ST","40.6842","-73.8881",NA,NA,NA,NA,"10",NA,NA
+"916","handball","MAFERA PARK","65 PL & 68 AVE","40.706","-73.891",NA,NA,NA,NA,"4",NA,NA
+"917","handball","MANTON P/G","VAN WYCK EXWY/84 RD/MANTON ST/83","40.7123","-73.8213",NA,NA,NA,NA,"4",NA,NA
+"918","handball","MAPLE PLAYGROUND","KISSENA BLVD & MAPLE AVE","40.7556","-73.8263",NA,NA,NA,NA,"2",NA,NA
+"919","handball","MARCONI PARK","109 AVE, 157 ST, 108 AVE, 155 ST","40.6942","-73.7953",NA,NA,NA,NA,"8",NA,NA
+"920","handball","MARIE CURIE PARK(JHS 158)","46 AVE & 211 ST","40.757","-73.771",NA,NA,NA,NA,"2",NA,NA
+"921","handball","MAURICE A FITZGERALD P/G","ATLANTIC AVE BET 104/106 STS","40.6903","-73.8402",NA,NA,NA,NA,"4",NA,NA
+"922","handball","MENTONE PLAYGROUND","SOUTHERN PKWY, 231-234 STS","40.6663","-73.742",NA,NA,NA,NA,"2",NA,NA
+"923","handball","MERRICK PLAYGROUND(IS 8)","167 ST & 109 AVE","40.6964","-73.786",NA,NA,NA,NA,"2",NA,NA
+"924","handball","MICHAELIS-BAYSWATER PK","BCH CHNL DR/B 32 ST/DWIGHT- NORTO","40.5995","-73.7673",NA,NA,NA,NA,"6",NA,NA
+"925","handball","MONTBELLIER PARK","SPRNGFLD BLVD BET ESTGATE PLAZA","40.6738","-73.7564",NA,NA,NA,NA,"2",NA,NA
+"926","handball","MOSER PARK","W/S 77 ST, N/S 25 AVE","40.7631","-73.8924",NA,NA,NA,NA,"2",NA,NA
+"927","handball","MURRAY HILL P/G(PS 22)","156-MURRAY ST, BARCLAY-SANFORD A","40.7617","-73.8115",NA,NA,NA,NA,"2",NA,NA
+"928","handball","MURRAY PLAYGROUND","21 ST, 45 AVE, 11 ST, 45 RD","40.7473","-73.9497",NA,NA,NA,NA,"4",NA,NA
+"929","handball","NAUTILUS P/G","MERRICK BLVD, 120 AVE, BAISLEY B","40.6847","-73.7704",NA,NA,NA,NA,"2",NA,NA
+"930","handball","NORTH ROCHDALE P/G(PS 30)","BAISLEY BLVD & BEDELL ST","40.6799","-73.7754",NA,NA,NA,NA,"2",NA,NA
+"931","handball","NORTHERN P/G(PS 149)","NORTHERN BLVD & 93 ST","40.7563","-73.8749",NA,NA,NA,NA,"2",NA,NA
+"932","handball","OAKLAND GARDENS(PS 203)","E/S SPRINGFIELD BLVD & 54 AVE","40.7537","-73.7595",NA,NA,NA,NA,"2",NA,NA
+"933","handball","P.S. 195 Playground/Sunrise Playground","149 RD/WELLER LANE/149 AVE/253 ST","40.6529","-73.7365",NA,NA,NA,NA,"2",NA,NA
+"934","handball","PAINTER'S P/G(PS 174)","ALDERTON ST/DIFTERLE-ELWELL CRES","40.7206","-73.8599",NA,NA,NA,NA,"4",NA,NA
+"935","handball","PAUL RAIMONDA P/G","47 RO 48 STS, 20 AVE","40.7729","-73.897",NA,NA,NA,NA,"4",NA,NA
+"936","handball","PETERS FIELD","LIBERTY AVE, 183 PL, 104 AVE","40.7064","-73.7751",NA,NA,NA,NA,"2",NA,NA
+"937","handball","PLAYGROUND NINETY (PS 148 P/G)","NORTHERN BLVD & 90 ST","40.7574","-73.8788",NA,NA,NA,NA,"4",NA,NA
+"938","handball","PLAYGROUND TWENTY-ONE(PS 184)","163-166 STS, 21 AVE - 21 RD","40.7784","-73.7984",NA,NA,NA,NA,"4",NA,NA
+"939","handball","PO NICHOLAS DEMUTIIS PK(OZONE)","LIBERTY AVE, 101-102 STS","40.6821","-73.8392",NA,NA,NA,NA,"2",NA,NA
+"940","handball","POL. OFC EDWARD BYRNE PARK","N CONDUIT AVE/134-135 ST/135 AV","40.6672","-73.8067",NA,NA,NA,NA,"4",NA,NA
+"941","handball","POMONOK P/G(PS 201)","KISSENA BLVD, 65 AVE","40.7358","-73.8144",NA,NA,NA,NA,"8",NA,NA
+"942","handball","PS 186 P/G(CASTLEWOOD SCHOOL)","LITTLE NECK PKWY & 72 AVE","40.7495","-73.7228",NA,NA,NA,NA,"2",NA,NA
+"943","handball","RAVENSWOOD P/G","35 AVE, 21 ST, 34 AVE","40.7627","-73.9345",NA,NA,NA,NA,"6",NA,NA
+"944","handball","REDFERN PLAYGROUND","B 12 ST & REDFERN AVE","40.6113","-73.7489",NA,NA,NA,NA,"2",NA,NA
+"945","handball","REIFF PLAYGROUND","59 DRIVE/63 STREET/FRESH POND RD","40.7188","-73.9015",NA,NA,NA,NA,"2",NA,NA
+"946","handball","ROCKAWAY COMMUNITY PK","CONCH/SMRVLE-NORTON BASINS/ALMED","40.5983","-73.7854",NA,NA,NA,NA,"2",NA,NA
+"947","handball","ROCKET PARK (JHS 202)(GODDARD)","N CONDUIT AVE, ARION RD, 149 AVE","40.6706","-73.8464",NA,NA,NA,NA,"2",NA,NA
+"948","handball","Rosemary's Playground","WOODWARD/WOODBINE/FAIRVIEW/MADISON","40.7045","-73.9038",NA,NA,NA,NA,"0",NA,NA
+"949","handball","RUFUS KING PARK","JAMAICA AVE, 153 ST, 89 AVE, 150 ST","40.7045","-73.8034",NA,NA,NA,NA,"2",NA,NA
+"950","handball","RUSSELL SAGE P/G(JHS 190)","68 AVE/BOOTH TO AUSTIN STS","40.7238","-73.8519",NA,NA,NA,NA,"2",NA,NA
+"951","handball","SAUL WEPRIN P/G(PS 162 P/G)","201-202 STS BET 53 & 56 AVES","40.7477","-73.7766",NA,NA,NA,NA,"4",NA,NA
+"952","handball","SEASIDE PLAYGROUND(PS 225)","ST MARKS AVE & B 109 ST","40.5809","-73.8306",NA,NA,NA,NA,"2",NA,NA
+"953","handball","SEVEN GABLES P/G (IS 74)","S/O LI EXWY, 21O & OCEANIA STS","40.7441","-73.7661",NA,NA,NA,NA,"2",NA,NA
+"954","handball","SEVENTY-FIVE P/G(PS 154)","75 AVE, 160-162 STS","40.7263","-73.8081",NA,NA,NA,NA,"2",NA,NA
+"955","handball","SMOKEY OVAL","95 AVE/127 ST/ATLANTIC AVE/125 ST","40.6948","-73.8209",NA,NA,NA,NA,"8",NA,NA
+"956","handball","SOUTH MAURICE SENIOR PLAYGROUND","CENTER OF PARK, LIE SERVICE RD","40.7269","-73.9034",NA,NA,NA,NA,"2",NA,NA
+"957","handball","SOUTH ROCHDALE P/G(PS 80)","133 ST & 137 AVE","40.6737","-73.7688",NA,NA,NA,NA,"2",NA,NA
+"958","handball","SPIRIT P/G(PS 76)","36 AVE BET 9 & 10 STS","40.7615","-73.9416",NA,NA,NA,NA,"2",NA,NA
+"959","handball","SPRINGFIELD PARK NORTH-JHS 231","SPRINGFIELD BLVD, 145 RD,","40.664","-73.7595",NA,NA,NA,NA,"4",NA,NA
+"960","handball","ST MICHAELS PK","BKLYN-QUEENS EXPY FROM 30 AVE","40.7585","-73.9",NA,NA,NA,NA,"4",NA,NA
+"961","handball","STARR PLAYGROUND","ONDERDONK/WILLOUGHBY AVES/STARR ST","40.71","-73.9179",NA,NA,NA,NA,"2",NA,NA
+"962","handball","STEINWAY P/G(JHS 141)","20 RD, 20 AVE, 37-38 STS","40.7767","-73.9037",NA,NA,NA,NA,"2",NA,NA
+"963","handball","TALL OAK PLAYGROUND(PS 46)","64 AVE, 218-219 STS","40.7457","-73.7579",NA,NA,NA,NA,"2",NA,NA
+"964","handball","TELEPHONE P/G(PS 205)","BELL BLVD, 75 AVE & 217 ST","40.7385","-73.7569",NA,NA,NA,NA,"2",NA,NA
+"965","handball","THOMSON HILL P/G","","40.7414","-73.9224",NA,NA,NA,NA,"2",NA,NA
+"966","handball","TORSNEY PLAYGROUND","SKILLMAN AVE & 43 ST","40.7477","-73.9211",NA,NA,NA,NA,"4",NA,NA
+"967","handball","TRAVERS PARK","34 AVE, 77-78 STS","40.7542","-73.8896",NA,NA,NA,NA,"4",NA,NA
+"968","handball","UTOPIA P/G","73 AVE, JEWEL AVE, UTOPIA PKWY","40.7304","-73.7927",NA,NA,NA,NA,"4",NA,NA
+"969","handball","VAN ALST P/G(PS 171)","29 TO 30 AVES, 21 ST","40.7706","-73.9278",NA,NA,NA,NA,"2",NA,NA
+"970","handball","VLEIGH P/G(PS 165)","70 RD/71 AVE/150 ST/KISSENA BLVD","40.7296","-73.8173",NA,NA,NA,NA,"4",NA,NA
+"971","handball","WALTER WARD PLAYGROUND(PS 207)","89 ST & 160 AVE","40.6574","-73.8435",NA,NA,NA,NA,"2",NA,NA
+"972","handball","WAYANDA PARK(PS 34)","HOLLIS AVE & ROBARD LANE","40.7112","-73.7384",NA,NA,NA,NA,"4",NA,NA
+"973","handball","WEEPING BEECH/ CARMAN GREEN","37 AV/PARSONS BLVD/BOWNE STREET","40.7637","-73.8248",NA,NA,NA,NA,"2",NA,NA
+"974","handball","WESTBOURNE PLAYGROUND(PS 104)","MOTT & WESTBOURN AVES, B 25 ST","40.608","-73.7644",NA,NA,NA,NA,"4",NA,NA
+"975","handball","WINDMULLER PK","52 ST/WDSDE AV/39RD/39DR","40.7477","-73.9108",NA,NA,NA,NA,"4",NA,NA
+"976","handball","WOODTREE P/G","20 AVE, 37 ST, 38 ST","40.7779","-73.9023",NA,NA,NA,NA,"4",NA,NA
+"977","handball","Dongan Playground","","40.5825","-74.0894",NA,NA,NA,NA,"4",NA,NA
+"978","handball","Double Nickel Playground (P.S. 55)","Koch Boulevard and Preston Avenue","40.5367","-74.1631",NA,NA,NA,NA,"2",NA,NA
+"979","handball","General Douglas McArthur Park","","40.586","-74.1004",NA,NA,NA,NA,"4",NA,NA
+"980","handball","The Big Park",NA,"40.6313","-74.1649",NA,NA,NA,NA,"2",NA,NA
+"981","handball","Mahoney Playground","","40.6431","-74.0856",NA,NA,NA,NA,"6",NA,NA
+"982","handball","Markham Playground (P.S. 51)","","40.6243","-74.1456",NA,NA,NA,NA,"2",NA,NA
+"983","handball","McDonald Playground","","40.6295","-74.1156",NA,NA,NA,NA,"1",NA,NA
+"984","handball","Midland Field (J.H. 2)","","40.577","-74.099",NA,NA,NA,NA,"4",NA,NA
+"985","handball","Naples Playground (P.S. 48)","","40.6026","-74.0906",NA,NA,NA,NA,"4",NA,NA
+"986","handball","Oldtown Playground (P.S. 46)","","40.5951","-74.0814",NA,NA,NA,NA,"2",NA,NA
+"987","handball","Schmul Park","","40.5902","-74.188",NA,NA,NA,NA,"4",NA,NA
+"988","handball","Stapleton Playground (P.S. 14)","","40.6227","-74.0799",NA,NA,NA,NA,"4",NA,NA
+"989","handball","Terrace Park (P.S. 35)","","40.6138","-74.0989",NA,NA,NA,NA,"2",NA,NA
+"990","handball","Todt Hill Houses Playground","","40.6089","-74.1193",NA,NA,NA,NA,"4",NA,NA
+"991","handball","Roy Wilkins Recreation Center","Baisley & Merrick boulevards, 115 Avenue, 177 Street","40.6853","-73.77",NA,NA,NA,NA,NA,NA,NA
+"992","handball","McDonald Playground","McDonald Avenue","40.6003","-73.9724",NA,NA,NA,NA,"6",NA,NA
+"993","handball","Governor Smith Playground","E. 152nd Street between Morris Avenue and Courtlandt Avenue","40.8193","-73.9202",NA,NA,NA,NA,"6",NA,NA
+"994","handball","Brooklyn Bridge Park","Pier 2","40.6995","-73.9979",NA,NA,NA,NA,"6",NA,NA
+"995","handball","Justice Gilbert Ramirez Park","McKibbin St. bet. White St. and Bogart St.","40.706","-73.934",NA,NA,NA,NA,"1",NA,NA
+"996","handball","Justice Gilbert Ramirez Park","McKibbin St. bet. White St. and Bogart St.","40.706","-73.934",NA,NA,NA,NA,"1",NA,NA
+"997","runningTrack","Macombs Dam","161st and Deegan (the south side of the Macombs Dam Bridge)","40.8284","-73.9261",NA,NA,NA,NA,NA,"0.25 miles","Mondo"
+"998","runningTrack","Pelham Bay Park","Bruckner Boulevard & Eastchester Bay","40.8491","-73.823",NA,NA,NA,NA,NA,"0.25 miles","Mondo"
+"999","runningTrack","Hector Aponte Track and Field","Lafayette & Colgate avenues","40.8178","-73.8728",NA,NA,NA,NA,NA,"0.25 miles","Asphalt"
+"1000","runningTrack","St. Mary's Park","East 145th Street & Jackson Avenue","40.8111","-73.911",NA,NA,NA,NA,NA,"0.12 miles","Rubber"
+"1001","runningTrack","Williamsbridge Playground","Van Cortlandt & Bainbridge","40.8776","-73.8773",NA,NA,NA,NA,NA,"0.25 miles","Mondo"
+"1002","runningTrack","Betsy Head Memorial Playground","Off Strauss Street & Dumont Avenue","40.6627","-73.9138",NA,NA,NA,NA,NA,"0.25 miles","Rubber"
+"1003","runningTrack","McCarren Park","Lorimer Street, Union & Driggs Avenue","40.72","-73.9513",NA,NA,NA,NA,NA,"0.25 miles","Rubber"
+"1004","runningTrack","Red Hook Recreation Area","Bay, Hicks & Henry streets","40.672","-74.007",NA,NA,NA,NA,NA,"0.25 miles","Rubber"
+"1005","runningTrack","Leon S. Kaiser Playground","Bayview, Coney Island Creek","40.5794","-73.9966",NA,NA,NA,NA,NA,"0.25 miles","Mondo"
+"1006","runningTrack","JHS 166, Linden Playground","Linden Boulevard & Stanley Avenue, Vermont to Wyona streets","40.6593","-73.8874",NA,NA,NA,NA,NA,"0.25 miles","Mondo"
+"1007","runningTrack","George Wingate HS Playground","Winthrop Street, Center & South","40.6582","-73.9441",NA,NA,NA,NA,NA,"0.2 miles","Rubber"
+"1008","runningTrack","Riverside Park","West 73 Street & Riverside Park","40.7827","-73.9871",NA,NA,NA,NA,NA,"0.125 mile","Cinder"
+"1009","runningTrack","Randall's Island","Inside Icahn Stadium","40.7933","-73.9254",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1010","runningTrack","East 54th Street Recreation Center","342 East 54 Street","40.7565","-73.9651",NA,NA,NA,NA,NA,"0.04 miles","Indoor"
+"1011","runningTrack","Hansborough Recreation Center","35 West 134 Street","40.8128","-73.9393",NA,NA,NA,NA,NA,"0.03 miles","Indoor"
+"1012","runningTrack","East River Park","East 6 Street & FDR Drive","40.7217","-73.9734",NA,NA,NA,NA,NA,"0.25 miles","Rubber Coated All Weather"
+"1013","runningTrack","Astoria Park","Astoria South & 18 Street","40.7768","-73.9259",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1014","runningTrack","Forest Park","Myrtle Avenue & Woodhaven Boulevard","40.7014","-73.8526",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1015","runningTrack","Windmuller Park","39 Drive & 52 Street","40.7476","-73.9114",NA,NA,NA,NA,NA,"0.10 miles","All Weather"
+"1016","runningTrack","Juniper Valley Park","Juniper Boulevard & 71 Street","40.7199","-73.8842",NA,NA,NA,NA,NA,"0.25 miles","Cinder"
+"1017","runningTrack","Det. Keith Williams Park","173 Street & 105 Avenue","40.7027","-73.7843",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1018","runningTrack","Roy Wilkins Park","Baisley & Merrick boulevards","40.6883","-73.7733",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1019","runningTrack","Corporal Thompson Park","Broadway between Henderson Avenue and Richmond Terrace","40.638","-74.1189",NA,NA,NA,NA,NA,"0.25 miles","Synthetic"
+"1020","runningTrack","Baisley Park","North Conduit, Baisley Boulevard & 150 Street","40.6691","-73.7874",NA,NA,NA,NA,NA,"0.25 miles","All Weather"
+"1021","runningTrack","St. Catherine&rsquo;s Park","1 Avenue and East 67 to 68 streets","40.7653","-73.959",NA,NA,NA,NA,NA,"0.07 miles","Asphalt"
+"1022","runningTrack","Asser Levy Playground","East 25th Street and Asser Levy Place","40.737","-73.9752",NA,NA,NA,NA,NA,"0.9 miles","Asphalt"
