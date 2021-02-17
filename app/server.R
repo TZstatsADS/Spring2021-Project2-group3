@@ -181,8 +181,9 @@ shinyServer(function(input, output, session) {
             xlab("Date")+
             ggtitle("Rate trend")+
             geom_smooth(size=.1,fill="light grey")+
-            geom_point(aes(x=predictions_perp$week[1], y=predictions_combo[convert(input$Rate_type),input$Zip_code]),color="black")+
-            #geom_text(data=predictions_combo,aes(label="Prediction"))+
+            geom_point(aes(x=predictions_perp$week[1], y=predictions_combo[convert(input$Rate_type),input$Zip_code]),color="black",show.legend=TRUE)+
+            #guides(color=guide_legend("my title")) +
+            #geom_text(aes(label="Prediction"))+
             theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
     })
     
