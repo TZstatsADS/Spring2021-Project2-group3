@@ -98,13 +98,13 @@ shinyUI(fluidPage(
                     .dataTables_wrapper .dataTables_paginate .paginate_button{box-sizing:border-box;display:inline-block;min-width:1.5em;padding:0.5em 1em;margin-left:2px;text-align:center;text-decoration:none !important;cursor:pointer;*cursor:hand;color:#ffffff !important;border:1px solid transparent;border-radius:2px}
 
                     .dataTables_length select {
-                           color: #000000;
-                           background-color: #000000
+                           color: #0E334A;
+                           background-color: #F5F5F5
                            }
 
                     .dataTables_filter input {
                             color: #0E334A;
-                            background-color: #0E334A
+                            background-color: #F5F5F5
                            }
 
                     thead {
