@@ -20,7 +20,7 @@ shinyUI(fluidPage(
                # tab panel 1: Home
                tabPanel("Home", icon = icon("home"),
                         
-                        HTML('<center><img src="running.jpg", height="300px"></center>'),
+                        
                         tags$div(
                           tags$h4("Everyone wants to stay healthy, but it's harder today than ever..."),
                           tags$h4("The COVID-19 Pandemic means parks, dogruns, and courts are often closed.")
@@ -34,7 +34,8 @@ shinyUI(fluidPage(
                           tags$h5("Our solution is to gather public park and field information in one convenient place,"),
                           tags$h5("Click on the Interactive Map to find spots near you, or search for specific ones in the Search tab.")
                         )
-                        ),
+                        ,
+                        HTML('<center><img src="running.jpg", height="300px"></center>')),
                # ---------------------------------------------------------------
                # tab panel 2: Map
                tabPanel("Interactive Map", icon = icon("globe"),

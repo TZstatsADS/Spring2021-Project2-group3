@@ -1,26 +1,4 @@
-# Project 2: Shiny App Development
-
-### [Project Description](doc/project2_desc.md)
-
-![screenshot](doc/figs/screenshot1.jpg)
-![screenshot](doc/figs/screenshot2.jpg)
-![screenshot](doc/figs/screenshot3.jpg)
-![screenshot](doc/figs/screenshot4.jpg)
-
-In this second project of GR5243 Applied Data Science, we develop a *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [JHU CSSE Covid-19 Data](https://github.com/CSSEGISandData/COVID-19) or NYC Health open data released on the [NYC Coronavirus Disease 2019 Data](https://github.com/nychealth/coronavirus-data) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
-
-The **learning goals** for this project is:
-
-- business intelligence for data science
-- study legacy codes and further development
-- data cleaning
-- data visualization
-- systems development/design life cycle
-- shiny app/shiny server
-
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
-
-## NYC Outdoor Activities Guidebook
+## Project 2: NYC Outdoor Activities Guidebook with Shiny App
 Term: Spring 2021
 
 + Team # Group 3
