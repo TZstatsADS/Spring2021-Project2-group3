@@ -2,7 +2,10 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-![screenshot](doc/figs/map.jpg)
+![screenshot](doc/figs/screenshot1.jpg)
+![screenshot](doc/figs/screenshot2.jpg)
+![screenshot](doc/figs/screenshot3.jpg)
+![screenshot](doc/figs/screenshot4.jpg)
 
 In this second project of GR5243 Applied Data Science, we develop a *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [JHU CSSE Covid-19 Data](https://github.com/CSSEGISandData/COVID-19) or NYC Health open data released on the [NYC Coronavirus Disease 2019 Data](https://github.com/nychealth/coronavirus-data) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
 
@@ -21,7 +24,8 @@ The **learning goals** for this project is:
 Term: Spring 2021
 
 + Team # Group 3
-+ **Projec title**: + Team members
++ [Click Here to See the Shiny App](https://aiokic.shinyapps.io/gr5243p2g3/)
++ Team members
 	+ team member 1: Ai, Haosheng
 	+ team member 2: Chen, Ellen
 	+ team member 3: Harris, Sean
@@ -32,15 +36,15 @@ Term: Spring 2021
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-**Haosheng Ai**:
+**Haosheng Ai**: Produced NYC coronavirus cases map by extracting  and combining data from data-by-modzcta.csv, casebyzipcode.csv and geo_data.RData.
 
-**Ellen Chen**: Did data cleaning and manipulation for last7days-by-modzcta.csv, covid_cases_dataset.csv, zip_code_database.csv and group-cases-by-boro.csv; contributed to the global.R file
+**Ellen Chen**: Did data cleaning and manipulation for last7days-by-modzcta.csv, covid_cases_dataset.csv, zip_code_database.csv and group-cases-by-boro.csv; contributed to the global.R file.
 
 **Sean Harris**: Created model prediction, search and data table function, and Home page. Contributions to map and plot visualization.
 
-**Changhao He**: Extracted and cleaned caserate-by-modzcta.csv, percentpositive-by-modzcta.csv and now-cases-by-day.csv from the coronavirus-data github, then made the rate trend plot and case trend plot
+**Changhao He**: Extracted and cleaned caserate-by-modzcta.csv, percentpositive-by-modzcta.csv and now-cases-by-day.csv from the coronavirus-data github, then made the rate trend plot and case trend plot.
 
-**Yushi Pan**: Contributed outdoor activity part of the map, combined it with Haosheng's covid cases map. Contributed the global file, User Interface, Home and About page design. Helped organize the file and combine everyone's code chunks together. 
+**Yushi Pan**: Contributed outdoor activity part of the map, combined it with Haosheng's covid cases map. Contributed the global file, User Interface, Home and About page design. Helped organize the file and combine everyone's code chunks together.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
