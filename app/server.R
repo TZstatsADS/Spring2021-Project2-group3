@@ -52,7 +52,7 @@ shinyServer(function(input, output, session) {
             #"Cumulative deaths: ", data2$COVID_DEATH_COUNT,"<br/>",
             #"Tested number:",data$people_tested,"<br/>",
             "<b>Infection Rate: ", perp_zipcode[nrow(perp_zipcode),],"%</b><br/>",
-            "Expected Infection Rate Next Week: ", predictions,"%<br/>") %>%
+            "Expected Infection Rate Next Week: ", predictions_perp,"%<br/>") %>%
             lapply(htmltools::HTML)
     
         map <- geo_data %>%
@@ -203,6 +203,7 @@ shinyServer(function(input, output, session) {
             select(Name,Location,Accessible,category)
     },selection = 'single')
     
+    ## homepage box output #############################################
     output$box1 = renderValueBox({
         valueBox(
             count_open,"open public activities",color = "red")

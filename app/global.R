@@ -30,19 +30,19 @@ library(numDeriv)
 ## NYC Outdoor Activity Data ###################################
 
 # convert json files to dataframes
-iceskating <- read_json("../data/iceskating.json", simplifyVector = TRUE)
+iceskating <- read_json("output/iceskating.json", simplifyVector = TRUE)
 iceskating <- as.data.frame(iceskating)
 
-basketball <- read_json("../data/basketball.json", simplifyVector = TRUE)
+basketball <- read_json("output/basketball.json", simplifyVector = TRUE)
 basketball <- as.data.frame(basketball)
 
-cricket <- read_json("../data/cricket.json", simplifyVector = TRUE)
+cricket <- read_json("output/cricket.json", simplifyVector = TRUE)
 cricket <- as.data.frame(cricket)
 
-handball <- read_json("../data/handball.json", simplifyVector = TRUE)
+handball <- read_json("output/handball.json", simplifyVector = TRUE)
 handball <- as.data.frame(handball)
 
-runningTrack <- read_json("../data/runningTrack.json", simplifyVector = TRUE)
+runningTrack <- read_json("output/runningTrack.json", simplifyVector = TRUE)
 runningTrack <- as.data.frame(runningTrack)
 
 # data cleaning
@@ -50,6 +50,7 @@ iceskating <- iceskating %>%
   mutate(category = rep("iceskating", nrow(iceskating))) %>%
   select(category, Name, Location, lat, lon, Accessible, Phone, IceSkating_Type) %>%
   filter(!is.na(lat) & !is.na(lon))
+iceskating[iceskating$Name == "Abe Stark Rink",]$Location <- "Coney Island Boardwalk and West 19th Street"
 iceskating$Accessible[iceskating$Accessible=="Y"] <- "OPEN"
 iceskating$Accessible[iceskating$Accessible=="N"] <- "CLOSED"
 
@@ -93,7 +94,7 @@ df.activity$category <- as.factor(df.activity$category)
 
 ## Covid Confirmed Cases Data for map ###################################
 
-zip_code_database <- read.csv("../data/zip_code_database.csv")
+zip_code_database <- read.csv("output/zip_code_database.csv")
 last7days.by.modzcta <-read.csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/latest/last7days-by-modzcta.csv")
 names(last7days.by.modzcta)[names(last7days.by.modzcta)=="modzcta"]<-"zip"
 data <- left_join(last7days.by.modzcta, zip_code_database, by="zip")
@@ -101,7 +102,7 @@ write.csv(data,"output/casebyzipcode.csv")
 
 data2 <- read.csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/totals/data-by-modzcta.csv")
 #zipcode <- read.csv("zipcode.csv")
-load("../data/geo_data.RData")
+load("output/geo_data.RData")
 
 
 ## case plot data ###################################

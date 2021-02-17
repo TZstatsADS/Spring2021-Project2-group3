@@ -50,8 +50,8 @@ shinyUI(fluidPage(
                                                       selected = "people_positive"),
                                           shiny::span(tags$b(h4("Select the outdoor activities you want to go:")), style="color:#045a8d"),
                                           selectInput("choices","Choose Activity:",
-                                                             choices = c("","iceskating","basketball","cricket",
-                                                                         "handball","runningTrack"),
+                                                             choices = c("","Ice Rinks"="iceskating","Basketball Courts"="basketball","Cricket Fields"="cricket",
+                                                                         "Baseball and Handball"="handball","Running Tracks"="runningTrack"),
                                                              selected = c(""))
                                           
                                           )
@@ -89,8 +89,36 @@ shinyUI(fluidPage(
                
                # ---------------------------------------------------------------
                # tab panel 4: Search
-               tabPanel("Search", icon = icon("table"),
-                        DT::dataTableOutput("search_result")),
+               tabPanel("Search", icon = icon("table"), 
+                        tags$style(HTML("
+                    .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+                    color: #ffffff;
+                    }
+                    
+                    .dataTables_wrapper .dataTables_paginate .paginate_button{box-sizing:border-box;display:inline-block;min-width:1.5em;padding:0.5em 1em;margin-left:2px;text-align:center;text-decoration:none !important;cursor:pointer;*cursor:hand;color:#ffffff !important;border:1px solid transparent;border-radius:2px}
+
+                    .dataTables_length select {
+                           color: #000000;
+                           background-color: #000000
+                           }
+
+                    .dataTables_filter input {
+                            color: #0E334A;
+                            background-color: #0E334A
+                           }
+
+                    thead {
+                    color: #ffffff;
+                    }
+
+                     tbody {
+                    color: #000000;
+                    }
+
+                   "
+                        )),
+                        
+                        DT::dataTableOutput("search_result")), 
                
                # ---------------------------------------------------------------
                # tab panel 5: About
