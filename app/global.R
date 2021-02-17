@@ -97,7 +97,7 @@ zip_code_database <- read.csv("../data/zip_code_database.csv")
 last7days.by.modzcta <-read.csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/latest/last7days-by-modzcta.csv")
 names(last7days.by.modzcta)[names(last7days.by.modzcta)=="modzcta"]<-"zip"
 data <- left_join(last7days.by.modzcta, zip_code_database, by="zip")
-write.csv(data,"../output/casebyzipcode.csv")
+write.csv(data,"output/casebyzipcode.csv")
 
 data2 <- read.csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/totals/data-by-modzcta.csv")
 #zipcode <- read.csv("zipcode.csv")
@@ -218,7 +218,7 @@ count_closed = nrow(closed)
 count_total = count_open + count_closed
 count_na = nrow(df.activity) - count_total
 
-#prediction
+#prediction function
 library(numDeriv)
 trend = function(df,data){
   #df should be whole dataframe
@@ -243,8 +243,8 @@ trend = function(df,data){
   return(ensemble)
 }
 
-predictions <-  perp_zipcode[0,]
-
+#create predictions
+predictions_perp <-  perp_zipcode[0,]
 pred_vector = list(as.Date(perp_zipcode[nrow(perp_zipcode),1])+7)
 for(i in names(perp_zipcode)){
   if(i=="week"){
@@ -252,4 +252,14 @@ for(i in names(perp_zipcode)){
   }
   pred_vector = append(pred_vector,round(perp_zipcode[nrow(perp_zipcode),i]+ trend(perp_zipcode,perp_zipcode[i]),digits=2))
 }
-predictions[1,] = pred_vector
+predictions_perp[1,] = pred_vector
+
+predictions_case <-  case_zipcode[0,]
+pred_vector = list(as.Date(case_zipcode[nrow(case_zipcode),1])+7)
+for(i in names(case_zipcode)){
+  if(i=="week"){
+    next
+  }
+  pred_vector = append(pred_vector,round(case_zipcode[nrow(case_zipcode),i]+ trend(perp_zipcode,perp_zipcode[i]),digits=2))
+}
+predictions_case[1,] = pred_vector

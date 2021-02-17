@@ -43,6 +43,7 @@ shinyServer(function(input, output, session) {
             domain = parameter)
     
         #create labels
+        #Cleaned by emphasizing %Pos, case rate is other option
         labels <- paste(
             data$zip, " - ",
             data$modzcta_name, "<br/>",
@@ -171,7 +172,7 @@ shinyServer(function(input, output, session) {
         cp_merged%>%
             dplyr::filter(., (zipcode == input$Zip_code) | (zipcode == "Citywide"))%>%
             ggplot(aes_string(x="week", y=input$Rate_type,color = "zipcode"))+
-            geom_line(size=1.5)+
+            geom_jitter(size=1.5)+
             scale_x_date(date_breaks = "2 week", date_labels = "%m-%d-%Y")+
             scale_color_manual(values=c("light blue", "pink"))+
             theme_bw()+
@@ -179,6 +180,7 @@ shinyServer(function(input, output, session) {
             ylab("")+
             xlab("Date")+
             ggtitle("Rate trend")+
+            geom_smooth(size=.1,fill="light grey")+
             theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
     })
     
@@ -186,7 +188,7 @@ shinyServer(function(input, output, session) {
         cbd_merged%>%
             dplyr::filter(., (Borough == input$Borough2))%>%
             ggplot(aes_string(x="date", y= "Case", color = "Borough"))+
-            geom_line(size=1.5)+
+            geom_jitter(size=1.5)+
             scale_x_date(date_breaks = "1 week", date_labels = "%m-%d-%Y")+
             scale_color_manual(values= "thistle2")+
             theme_bw()+
