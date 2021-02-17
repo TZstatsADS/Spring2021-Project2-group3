@@ -4,6 +4,21 @@ library(shinydashboard)
 
 shinyServer(function(input, output, session) {
     
+    ## homepage box output #############################################
+    output$box1 = renderValueBox({
+        valueBox(
+            count_open,"open public activities",color = "red")
+    })
+    output$box2 = renderValueBox({
+        valueBox(
+            count_closed,"closed public activities",color = "aqua")
+    })       
+    output$box3 = renderValueBox({
+        valueBox(
+            count_total,"total considered",icon=NULL,
+            color = "red")
+    })   
+    
     ## map output #############################################
     # outdoor activity tab
     iceskating <- reactive({
@@ -200,23 +215,12 @@ shinyServer(function(input, output, session) {
             ggtitle("Case trend")+
             theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),legend.title = element_blank())
     })
+        
+    ## search table output #############################################
     output$search_result = DT::renderDataTable({
         df.activity %>%
             select(Name,Location,Accessible,category)
     },selection = 'single')
     
-    ## homepage box output #############################################
-    output$box1 = renderValueBox({
-        valueBox(
-            count_open,"open public activities",color = "red")
-    })
-    output$box2 = renderValueBox({
-        valueBox(
-            count_closed,"closed public activities",color = "aqua")
-    })       
-    output$box3 = renderValueBox({
-        valueBox(
-            count_total,"total considered",icon=NULL,
-            color = "red")
-    })     
+      
 })
