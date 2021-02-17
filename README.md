@@ -40,7 +40,7 @@ Term: Spring 2021
 
 **Changhao He**: Extracted and cleaned caserate-by-modzcta.csv, percentpositive-by-modzcta.csv and now-cases-by-day.csv from the coronavirus-data github, then made the rate trend plot and case trend plot
 
-**Yushi Pan**:
+**Yushi Pan**: Contributed outdoor activity part of the map, combined it with Haosheng's covid cases map. Contributed the global file, User Interface, Home and About page design. Helped organize the file and combine everyone's code chunks together. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
