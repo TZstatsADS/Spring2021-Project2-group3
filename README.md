@@ -36,7 +36,7 @@ Term: Spring 2021
 
 **Ellen Chen**: Did data cleaning and manipulation for last7days-by-modzcta.csv, covid_cases_dataset.csv, zip_code_database.csv and group-cases-by-boro.csv; contributed to the global.R file
 
-**Sean Harris**:
+**Sean Harris**: Created model prediction, search and data table function, and Home page. Contributions to map and plot visualization.
 
 **Changhao He**: Extracted and cleaned caserate-by-modzcta.csv, percentpositive-by-modzcta.csv and now-cases-by-day.csv from the coronavirus-data github, then made the rate trend plot and case trend plot
 
